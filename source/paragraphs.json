@@ -1,0 +1,3397 @@
+[
+    {
+        "chapter": "",
+        "article": "",
+        "lt": "LIETUVIŲ TAUTA",
+        "ru": "ЛИТОВСКИЙ НАРОД",
+        "_": null
+    },
+    {
+        "chapter": "",
+        "article": "",
+        "lt": "– prieš daugelį amžių sukūrusi Lietuvos valstybę,",
+        "ru": "– создавший много веков тому назад Литовское государство,",
+        "_": null
+    },
+    {
+        "chapter": "",
+        "article": "",
+        "lt": "– jos teisinius pamatus grindusi Lietuvos Statutais ir Lietuvos Respublikos Konstitucijomis,",
+        "ru": "– основывая его правовой фундамент на Литовских Статутах и Конституциях Литовской Республики,",
+        "_": null
+    },
+    {
+        "chapter": "",
+        "article": "",
+        "lt": "– šimtmečiais atkakliai gynusi savo laisvę ir nepriklausomybę,",
+        "ru": "– веками решительно защищавший свою свободу и независимость,",
+        "_": null
+    },
+    {
+        "chapter": "",
+        "article": "",
+        "lt": "– išsaugojusi savo dvasią, gimtąją kalbą, raštą ir papročius,",
+        "ru": "– сохранивший свой дух, родной язык, письменность и обычаи,",
+        "_": null
+    },
+    {
+        "chapter": "",
+        "article": "",
+        "lt": "– įkūnydama prigimtinę žmogaus ir Tautos teisę laisvai gyventi ir kurti savo tėvų ir protėvių žemėje – nepriklausomoje Lietuvos valstybėje,",
+        "ru": "– воплощая естественное право человека и Народа свободно жить и творить на земле своих отцов и предков – в независимом Литовском государстве,",
+        "_": null
+    },
+    {
+        "chapter": "",
+        "article": "",
+        "lt": "– puoselėdama Lietuvos žemėje tautinę santarvę,",
+        "ru": "– радея о национальном согласии на земле Литвы,",
+        "_": null
+    },
+    {
+        "chapter": "",
+        "article": "",
+        "lt": "– siekdama atviros, teisingos, darnios pilietinės visuomenės ir teisinės valstybės,",
+        "ru": "– стремясь к открытому, справедливому, гармоничному гражданскому обществу и правовому государству,",
+        "_": null
+    },
+    {
+        "chapter": "",
+        "article": "",
+        "lt": "atgimusios Lietuvos valstybės piliečių valia priima ir skelbia šią KONSTITUCIJĄ",
+        "ru": "по воле граждан возрожденного Литовского государства принимает и провозглашает настоящую КОНСТИТУЦИЮ",
+        "_": null
+    },
+    {
+        "chapter": "I",
+        "article": "1",
+        "lt": "Lietuvos valstybė yra nepriklausoma demokratinė respublika.",
+        "ru": "Литовское государство является независимой демократической республикой.",
+        "_": null
+    },
+    {
+        "chapter": "I",
+        "article": "2",
+        "lt": "Lietuvos valstybę kuria Tauta. Suverenitetas priklauso Tautai.",
+        "ru": "Литовское государство созидается Народом. Суверенитет принадлежит Народу.",
+        "_": null
+    },
+    {
+        "chapter": "I",
+        "article": "3",
+        "lt": "Niekas negali varžyti ar riboti Tautos suvereniteto, savintis visai Tautai priklausančių suverenių galių.",
+        "ru": "Никто не может ущемлять или ограничивать суверенитет Народа, присваивать суверенную волю, принадлежащую всему Народу.",
+        "_": null
+    },
+    {
+        "chapter": "I",
+        "article": "3",
+        "lt": "Tauta ir kiekvienas pilietis turi teisę priešintis bet kam, kas prievarta kėsinasi į Lietuvos valstybės nepriklausomybę, teritorijos vientisumą, konstitucinę santvarką.",
+        "ru": "Народ и каждый гражданин вправе оказывать противодействие любому, кто насильственным путем посягает на независимость, территориальную целостность, конституционный строй Литовского государства.",
+        "_": null
+    },
+    {
+        "chapter": "I",
+        "article": "4",
+        "lt": "Aukščiausią suverenią galią Tauta vykdo tiesiogiai ar per demokratiškai išrinktus savo atstovus.",
+        "ru": "Высшую суверенную волю Народ осуществляет непосредственно или через своих представителей, избранных демократическим путем.",
+        "_": null
+    },
+    {
+        "chapter": "I",
+        "article": "5",
+        "lt": "Valstybės valdžią Lietuvoje vykdo Seimas, Respublikos Prezidentas ir Vyriausybė, Teismas.",
+        "ru": "Государственная власть в Литве осуществляется Сеймом, Президентом Республики и Правительством, Судом.",
+        "_": null
+    },
+    {
+        "chapter": "I",
+        "article": "5",
+        "lt": "Valdžios galias riboja Konstitucija.",
+        "ru": "Полномочия власти ограничиваются Конституцией.",
+        "_": null
+    },
+    {
+        "chapter": "I",
+        "article": "5",
+        "lt": "Valdžios įstaigos tarnauja žmonėms.",
+        "ru": "Учреждения власти служат людям.",
+        "_": null
+    },
+    {
+        "chapter": "I",
+        "article": "6",
+        "lt": "Konstitucija yra vientisas ir tiesiogiai taikomas aktas.",
+        "ru": "Конституция является целостным и непосредственно применяемым актом.",
+        "_": null
+    },
+    {
+        "chapter": "I",
+        "article": "6",
+        "lt": "Kiekvienas savo teises gali ginti remdamasis Konstitucija.",
+        "ru": "Каждый может защищать свои права, основываясь на Конституции.",
+        "_": null
+    },
+    {
+        "chapter": "I",
+        "article": "7",
+        "lt": "Negalioja joks įstatymas ar kitas aktas priešingas Konstitucijai.",
+        "ru": "Недействительным является любой закон или иной акт, противоречащий Конституции.",
+        "_": null
+    },
+    {
+        "chapter": "I",
+        "article": "7",
+        "lt": "Galioja tik paskelbti įstatymai.",
+        "ru": "Действительны только обнародованные законы.",
+        "_": null
+    },
+    {
+        "chapter": "I",
+        "article": "7",
+        "lt": "Įstatymo nežinojimas neatleidžia nuo atsakomybės.",
+        "ru": "Незнание закона не освобождает от ответственности.",
+        "_": null
+    },
+    {
+        "chapter": "I",
+        "article": "8",
+        "lt": "Valstybinės valdžios ar jos institucijos užgrobimas smurtu laikomi antikonstituciniais veiksmais, yra neteisėti ir negalioja.",
+        "ru": "Захват государственной власти или ее института насильственным путем считается антиконституционным действием, является незаконным и недействительным.",
+        "_": null
+    },
+    {
+        "chapter": "I",
+        "article": "9",
+        "lt": "Svarbiausi Valstybės bei Tautos gyvenimo klausimai sprendžiami referendumu.",
+        "ru": "Важнейшие вопросы жизни Государства и Народа решаются путем референдума.",
+        "_": null
+    },
+    {
+        "chapter": "I",
+        "article": "9",
+        "lt": "Įstatymo nustatytais atvejais referendumą skelbia Seimas.",
+        "ru": "В установленных законом случаях референдум объявляется Сеймом.",
+        "_": null
+    },
+    {
+        "chapter": "I",
+        "article": "9",
+        "lt": "Referendumas taip pat skelbiamas, jeigu jo reikalauja ne mažiau kaip 300 tūkstančių piliečių, turinčių rinkimų teisę.",
+        "ru": "Референдум объявляется также в случае, если этого требует не менее 300 тысяч граждан, имеющих избирательное право.",
+        "_": null
+    },
+    {
+        "chapter": "I",
+        "article": "9",
+        "lt": "Referendumo skelbimo ir vykdymo tvarką nustato įstatymas.",
+        "ru": "Порядок объявления и проведения референдума устанавливается законом.",
+        "_": null
+    },
+    {
+        "chapter": "I",
+        "article": "10",
+        "lt": "Lietuvos valstybės teritorija yra vientisa ir nedalijama į jokius valstybinius darinius.",
+        "ru": "Территория Литовского государства является единой и не делима на какие-либо государственные образования.",
+        "_": null
+    },
+    {
+        "chapter": "I",
+        "article": "10",
+        "lt": "Valstybės sienos gali būti keičiamos tik Lietuvos Respublikos tarptautine sutartimi, kai ją ratifikuoja 4/5 visų Seimo narių.",
+        "ru": "Государственные границы могут быть изменены только в соответствии с международным договором Литовской Республики после его ратификации 4/5 от общего числа членов Сейма.",
+        "_": null
+    },
+    {
+        "chapter": "I",
+        "article": "11",
+        "lt": "Lietuvos valstybės teritorijos administracinius vienetus ir jų ribas nustato įstatymas.",
+        "ru": "Административные единицы территории Литовского государства и их границы устанавливаются законом.",
+        "_": null
+    },
+    {
+        "chapter": "I",
+        "article": "12",
+        "lt": "Lietuvos Respublikos pilietybė įgyjama gimstant ir kitais įstatymo nustatytais pagrindais.",
+        "ru": "Гражданство Литовской Республики приобретается по рождению и по другим установленным законом основаниям.",
+        "_": null
+    },
+    {
+        "chapter": "I",
+        "article": "12",
+        "lt": "Išskyrus įstatymo numatytus atskirus atvejus, niekas negali būti kartu Lietuvos Respublikos ir kitos valstybės pilietis.",
+        "ru": "За исключением установленных законом отдельных случаев, никто не может быть одновременно гражданином Литовской Республики и другого государства.",
+        "_": null
+    },
+    {
+        "chapter": "I",
+        "article": "12",
+        "lt": "Pilietybės įgijimo ir netekimo tvarką nustato įstatymas.",
+        "ru": "Порядок приобретения и утраты гражданства устанавливается законом.",
+        "_": null
+    },
+    {
+        "chapter": "I",
+        "article": "13",
+        "lt": "Lietuvos valstybė globoja savo piliečius užsienyje.",
+        "ru": "Литовское государство опекает своих граждан за границей.",
+        "_": null
+    },
+    {
+        "chapter": "I",
+        "article": "13",
+        "lt": "Draudžiama išduoti Lietuvos Respublikos pilietį kitai valstybei, jeigu Lietuvos Respublikos tarptautinė sutartis nenustato kitaip.",
+        "ru": "Запрещается выдавать гражданина Литовской Республики другому государству, если международным договором Литовской Республики не установлено иное.",
+        "_": null
+    },
+    {
+        "chapter": "I",
+        "article": "14",
+        "lt": "Valstybinė kalba – lietuvių kalba.",
+        "ru": "Государственным языком является литовский язык.",
+        "_": null
+    },
+    {
+        "chapter": "I",
+        "article": "15",
+        "lt": "Valstybės vėliavos spalvos – geltona, žalia, raudona.",
+        "ru": "Цветами государственного флага являются желтый, зеленый, красный.",
+        "_": null
+    },
+    {
+        "chapter": "I",
+        "article": "15",
+        "lt": "Valstybės herbas – baltas Vytis raudoname lauke.",
+        "ru": "Государственным гербом является белый Витис на красном фоне.",
+        "_": null
+    },
+    {
+        "chapter": "I",
+        "article": "15",
+        "lt": "Valstybės herbą, vėliavą ir jų naudojimą nustato įstatymai.",
+        "ru": "Государственный герб, государственный флаг и их применение устанавливаются законами.",
+        "_": null
+    },
+    {
+        "chapter": "I",
+        "article": "16",
+        "lt": "Valstybės himnas – Vinco Kudirkos „Tautiška giesmė“.",
+        "ru": "Государственным гимном является «Национальная песнь» Винцаса Кудирки.",
+        "_": null
+    },
+    {
+        "chapter": "I",
+        "article": "17",
+        "lt": "Lietuvos valstybės sostinė yra Vilniaus miestas – ilgaamžė istorinė Lietuvos sostinė.",
+        "ru": "Столицей Литовского государства является город Вильнюс – многовековая историческая столица Литвы.",
+        "_": null
+    },
+    {
+        "chapter": "II",
+        "article": "18",
+        "lt": "Žmogaus teisės ir laisvės yra prigimtinės.",
+        "ru": "Права и свободы человека являются естественными.",
+        "_": null
+    },
+    {
+        "chapter": "II",
+        "article": "19",
+        "lt": "Žmogaus teisę į gyvybę saugo įstatymas.",
+        "ru": "Право человека на жизнь охраняется законом.",
+        "_": null
+    },
+    {
+        "chapter": "II",
+        "article": "20",
+        "lt": "Žmogaus laisvė neliečiama.",
+        "ru": "Свобода человека неприкосновенна.",
+        "_": null
+    },
+    {
+        "chapter": "II",
+        "article": "20",
+        "lt": "Niekas negali būti savavališkai sulaikytas arba laikomas suimtas. Niekam neturi būti atimta laisvė kitaip, kaip tokiais pagrindais ir pagal tokias procedūras, kokias yra nustatęs įstatymas.",
+        "ru": "Никто не может быть подвергнут произвольному задержанию или содержанию под стражей. Никто не может быть лишен свободы иначе, как на таких основаниях и в соответствии с такими процедурами, которые установлены законом.",
+        "_": null
+    },
+    {
+        "chapter": "II",
+        "article": "20",
+        "lt": "Nusikaltimo vietoje sulaikytas asmuo per 48 valandas turi būti pristatytas į teismą, kur sulaikytajam dalyvaujant sprendžiamas sulaikymo pagrįstumas. Jeigu teismas nepriima nutarimo asmenį suimti, sulaikytasis tuojau pat paleidžiamas.",
+        "ru": "Задержанное на месте преступления лицо в течение 48 часов должно быть доставлено в суд, где в присутствии задержанного решается вопрос об обоснованности задержания. В случае непринятия судом постановления об аресте лица задержанный незамедлительно отпускается.",
+        "_": null
+    },
+    {
+        "chapter": "II",
+        "article": "21",
+        "lt": "Žmogaus asmuo neliečiamas.",
+        "ru": "Личность человека неприкосновенна.",
+        "_": null
+    },
+    {
+        "chapter": "II",
+        "article": "21",
+        "lt": "Žmogaus orumą gina įstatymas.",
+        "ru": "Достоинство человека защищается законом.",
+        "_": null
+    },
+    {
+        "chapter": "II",
+        "article": "21",
+        "lt": "Draudžiama žmogų kankinti, žaloti, žeminti jo orumą, žiauriai su juo elgtis, taip pat nustatyti tokias bausmes.",
+        "ru": "Запрещается подвергать человека пыткам, причинять увечья, унижать его достоинство, жестоко обращаться с ним, а также устанавливать такие наказания.",
+        "_": null
+    },
+    {
+        "chapter": "II",
+        "article": "21",
+        "lt": "Su žmogumi, be jo žinios ir laisvo sutikimo, negali būti atliekami moksliniai ar medicinos bandymai.",
+        "ru": "Человек, без его ведома и добровольного согласия, не может подвергаться научным или медицинским опытам.",
+        "_": null
+    },
+    {
+        "chapter": "II",
+        "article": "22",
+        "lt": "Žmogaus privatus gyvenimas neliečiamas.",
+        "ru": "Частная жизнь человека неприкосновенна.",
+        "_": null
+    },
+    {
+        "chapter": "II",
+        "article": "22",
+        "lt": "Asmens susirašinėjimas, pokalbiai telefonu, telegrafo pranešimai ir kitoks susižinojimas neliečiami.",
+        "ru": "Переписка, телефонные переговоры, телеграфные сообщения и иное сношение лица неприкосновенны.",
+        "_": null
+    },
+    {
+        "chapter": "II",
+        "article": "22",
+        "lt": "Informacija apie privatų asmens gyvenimą gali būti renkama tik motyvuotu teismo sprendimu ir tik pagal įstatymą.",
+        "ru": "Информация о частной жизни лица может собираться только на основании мотивированного решения суда и только в соответствии с законом.",
+        "_": null
+    },
+    {
+        "chapter": "II",
+        "article": "22",
+        "lt": "Įstatymas ir teismas saugo, kad niekas nepatirtų savavališko ar neteisėto kišimosi į jo asmeninį ir šeimyninį gyvenimą, kėsinimosi į jo garbę ir orumą.",
+        "ru": "Закон и суд охраняют, чтобы никто не подвергался произвольному или незаконному вмешательству в его личную и семейную жизнь, посягательству на его честь и достоинство.",
+        "_": null
+    },
+    {
+        "chapter": "II",
+        "article": "23",
+        "lt": "Nuosavybė neliečiama.",
+        "ru": "Собственность неприкосновенна.",
+        "_": null
+    },
+    {
+        "chapter": "II",
+        "article": "23",
+        "lt": "Nuosavybės teises saugo įstatymai.",
+        "ru": "Права собственности охраняются законами.",
+        "_": null
+    },
+    {
+        "chapter": "II",
+        "article": "23",
+        "lt": "Nuosavybė gali būti paimama tik įstatymo nustatyta tvarka visuomenės poreikiams ir teisingai atlyginama.",
+        "ru": "Изъятие собственности возможно только в установленном законом порядке для общественных нужд и при справедливом возмещении.",
+        "_": null
+    },
+    {
+        "chapter": "II",
+        "article": "24",
+        "lt": "Žmogaus būstas neliečiamas.",
+        "ru": "Жилище человека неприкосновенно.",
+        "_": null
+    },
+    {
+        "chapter": "II",
+        "article": "24",
+        "lt": "Be gyventojo sutikimo įeiti į būstą neleidžiama kitaip, kaip tik teismo sprendimu arba įstatymo nustatyta tvarka tada, kai reikia garantuoti viešąją tvarką, sulaikyti nusikaltėlį, gelbėti žmogaus gyvybę, sveikatą ar turtą.",
+        "ru": "Без согласия жильца войти в жилище не разрешается иначе, как только на основании решения суда или в установленном законом порядке в случае необходимости гарантирования общественного порядка, задержания преступника, спасения жизни, здоровья или имущества человека.",
+        "_": null
+    },
+    {
+        "chapter": "II",
+        "article": "25",
+        "lt": "Žmogus turi teisę turėti savo įsitikinimus ir juos laisvai reikšti.",
+        "ru": "Человек имеет право на свои убеждения и свободное их выражение.",
+        "_": null
+    },
+    {
+        "chapter": "II",
+        "article": "25",
+        "lt": "Žmogui neturi būti kliudoma ieškoti, gauti ir skleisti informaciją bei idėjas.",
+        "ru": "Человеку не должны чиниться препятствия в поиске, получении и распространении информации и идей.",
+        "_": null
+    },
+    {
+        "chapter": "II",
+        "article": "25",
+        "lt": "Laisvė reikšti įsitikinimus, gauti ir skleisti informaciją negali būti ribojama kitaip, kaip tik įstatymu, jei tai būtina apsaugoti žmogaus sveikatai, garbei ir orumui, privačiam gyvenimui, dorovei ar ginti konstitucinei santvarkai.",
+        "ru": "Свобода выражать убеждения, получать и распространять информацию не может ограничиваться иначе, как только законом, если это необходимо для защиты здоровья, чести и достоинства, частной жизни, нравственности человека или конституционного строя.",
+        "_": null
+    },
+    {
+        "chapter": "II",
+        "article": "25",
+        "lt": "Laisvė reikšti įsitikinimus ir skleisti informaciją nesuderinama su nusikalstamais veiksmais – tautinės, rasinės, religinės ar socialinės neapykantos, prievartos bei diskriminacijos kurstymu, šmeižtu ir dezinformacija.",
+        "ru": "Свобода выражения убеждений и распространения информации несовместима с преступными действиями – разжиганием национальной, расовой, религиозной или социальной ненависти, насилия и дискриминации, с клеветой и дезинформацией.",
+        "_": null
+    },
+    {
+        "chapter": "II",
+        "article": "25",
+        "lt": "Pilietis turi teisę įstatymo nustatyta tvarka gauti valstybės įstaigų turimą informaciją apie jį.",
+        "ru": "Гражданин имеет право в установленном законом порядке получать имеющуюся о нем в государственных учреждениях информацию.",
+        "_": null
+    },
+    {
+        "chapter": "II",
+        "article": "26",
+        "lt": "Minties, tikėjimo ir sąžinės laisvė yra nevaržoma.",
+        "ru": "Свобода мысли, вероисповедания и совести ограничению не подлежит.",
+        "_": null
+    },
+    {
+        "chapter": "II",
+        "article": "26",
+        "lt": "Kiekvienas žmogus turi teisę laisvai pasirinkti bet kurią religiją arba tikėjimą ir vienas ar su kitais, privačiai ar viešai ją išpažinti, atlikinėti religines apeigas, praktikuoti tikėjimą ir mokyti jo.",
+        "ru": "Каждый человек имеет право на свободу выбора любой религии или вероисповедания и единолично или сообща с другими, в частном или публичном порядке ее исповедовать, отправлять религиозные обряды, практиковать вероисповедание и обучать ему.",
+        "_": null
+    },
+    {
+        "chapter": "II",
+        "article": "26",
+        "lt": "Niekas negali kito asmens versti nei būti verčiamas pasirinkti ar išpažinti kurią nors religiją arba tikėjimą.",
+        "ru": "Никто не может ни подвергать принуждению другое лицо, ни принуждаться выбирать или исповедовать какую-либо религию или веру.",
+        "_": null
+    },
+    {
+        "chapter": "II",
+        "article": "26",
+        "lt": "Žmogaus laisvė išpažinti ir skleisti religiją arba tikėjimą negali būti apribota kitaip, kaip tik įstatymu ir tik tada, kai būtina garantuoti visuomenės saugumą, viešąją tvarką, žmonių sveikatą ir dorovę, taip pat kitas asmens pagrindines teises ir laisves.",
+        "ru": "Свобода человека исповедовать и распространять религию либо веру не может ограничиваться иначе, как только законом и лишь в случае необходимости гарантировать общественную безопасность, общественный порядок, здоровье и нравственность людей, равно как и другие основные права и свободы личности.",
+        "_": null
+    },
+    {
+        "chapter": "II",
+        "article": "26",
+        "lt": "Tėvai ir globėjai nevaržomi rūpinasi vaikų ir globotinių religiniu ir doroviniu auklėjimu pagal savo įsitikinimus.",
+        "ru": "Родители и опекуны свободно заботятся о религиозном и нравственном воспитании детей и подопечных согласно собственным убеждениям.",
+        "_": null
+    },
+    {
+        "chapter": "II",
+        "article": "27",
+        "lt": "Žmogaus įsitikinimais, praktikuojama religija ar tikėjimu negali būti pateisinamas nusikaltimas ar įstatymų nevykdymas.",
+        "ru": "Убеждениями человека, практикуемой им религией или вероисповеданием не могут быть оправданы преступление или неисполнение законов.",
+        "_": null
+    },
+    {
+        "chapter": "II",
+        "article": "28",
+        "lt": "Įgyvendindamas savo teises ir naudodamasis savo laisvėmis, žmogus privalo laikytis Lietuvos Respublikos Konstitucijos ir įstatymų, nevaržyti kitų žmonių teisių ir laisvių.",
+        "ru": "Осуществляя свои права и пользуясь своими свободами, человек обязан соблюдать Конституцию и законы Литовской Республики, не ограничивать права и свободы других людей.",
+        "_": null
+    },
+    {
+        "chapter": "II",
+        "article": "29",
+        "lt": "Įstatymui, teismui ir kitoms valstybės institucijoms ar pareigūnams visi asmenys lygūs.",
+        "ru": "Перед законом, судом и другими государственными институтами или должностными лицами все лица равны.",
+        "_": null
+    },
+    {
+        "chapter": "II",
+        "article": "29",
+        "lt": "Žmogaus teisių negalima varžyti ir teikti jam privilegijų dėl jo lyties, rasės, tautybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų pagrindu.",
+        "ru": "Не допускаются ограничение прав человека и предоставление ему привилегий в зависимости от его пола, расы, нацио­нальности, языка, происхождения, социального положения, вероисповедания, убеждений или взглядов.",
+        "_": null
+    },
+    {
+        "chapter": "II",
+        "article": "30",
+        "lt": "Asmuo, kurio konstitucinės teisės ar laisvės pažeidžiamos, turi teisę kreiptis į teismą.",
+        "ru": "Лицо, конституционные права или свободы которого нарушаются, имеет право обратиться в суд.",
+        "_": null
+    },
+    {
+        "chapter": "II",
+        "article": "30",
+        "lt": "Asmeniui padarytos materialinės ir moralinės žalos atlyginimą nustato įstatymas.",
+        "ru": "Возмещение причиненного лицу материального и морального ущерба устанавливается законом.",
+        "_": null
+    },
+    {
+        "chapter": "II",
+        "article": "31",
+        "lt": "Asmuo laikomas nekaltu, kol jo kaltumas neįrodytas įstatymo nustatyta tvarka ir pripažintas įsiteisėjusiu teismo nuosprendžiu.",
+        "ru": "Лицо считается невиновным до тех пор, пока его виновность не доказана в установленном законом порядке и не признана вступившим в законную силу приговором суда.",
+        "_": null
+    },
+    {
+        "chapter": "II",
+        "article": "31",
+        "lt": "Asmuo, kaltinamas padaręs nusikaltimą, turi teisę, kad jo bylą viešai ir teisingai išnagrinėtų nepriklausomas ir bešališkas teismas.",
+        "ru": "Лицо, обвиняемое в совершении преступления, имеет право на открытое и справедливое рассмотрение его дела независимым и беспристрастным судом.",
+        "_": null
+    },
+    {
+        "chapter": "II",
+        "article": "31",
+        "lt": "Draudžiama versti duoti parodymus prieš save, savo šeimos narius ar artimus giminaičius.",
+        "ru": "Запрещается принуждать к даче показаний против себя, членов своей семьи или близких родственников.",
+        "_": null
+    },
+    {
+        "chapter": "II",
+        "article": "31",
+        "lt": "Bausmė gali būti skiriama ar taikoma tik remiantis įstatymu.",
+        "ru": "Наказание может назначаться или применяться только на основании закона.",
+        "_": null
+    },
+    {
+        "chapter": "II",
+        "article": "31",
+        "lt": "Niekas negali būti baudžiamas už tą patį nusikaltimą antrą kartą.",
+        "ru": "Никто не может быть наказан за одно и то же преступление второй раз.",
+        "_": null
+    },
+    {
+        "chapter": "II",
+        "article": "31",
+        "lt": "Asmeniui, kuris įtariamas padaręs nusikaltimą, ir kaltinamajam nuo jų sulaikymo arba pirmosios apklausos momento garantuojama teisė į gynybą, taip pat ir teisė turėti advokatą.",
+        "ru": "Лицу, подозреваемому в совершении преступления, и обвиняемому лицу с момента их задержания или первого допроса гарантируется право на защиту, а также право иметь адвоката.",
+        "_": null
+    },
+    {
+        "chapter": "II",
+        "article": "32",
+        "lt": "Pilietis gali laisvai kilnotis ir pasirinkti gyvenamąją vietą Lietuvoje, gali laisvai išvykti iš Lietuvos.",
+        "ru": "Гражданин может свободно перемещаться и выбирать себе место жительства в Литве, может свободно выезжать из Литвы.",
+        "_": null
+    },
+    {
+        "chapter": "II",
+        "article": "32",
+        "lt": "Šios teisės negali būti varžomos kitaip, kaip tik įstatymu ir jeigu tai būtina valstybės saugumui, žmonių sveikatai apsaugoti, taip pat vykdant teisingumą.",
+        "ru": "Эти права не могут ограничиваться иначе, как только по закону и при необходимости обеспечения безопасности государства, охраны здоровья людей, а также при осуществлении правосудия.",
+        "_": null
+    },
+    {
+        "chapter": "II",
+        "article": "32",
+        "lt": "Negalima drausti piliečiui grįžti į Lietuvą.",
+        "ru": "Нельзя запрещать гражданину возвратиться в Литву.",
+        "_": null
+    },
+    {
+        "chapter": "II",
+        "article": "32",
+        "lt": "Kiekvienas lietuvis gali apsigyventi Lietuvoje.",
+        "ru": "Каждый литовец может поселиться в Литве.",
+        "_": null
+    },
+    {
+        "chapter": "II",
+        "article": "33",
+        "lt": "Piliečiai turi teisę dalyvauti valdant savo šalį tiek tiesiogiai, tiek per demokratiškai išrinktus atstovus, taip pat teisę lygiomis sąlygomis stoti į Lietuvos Respublikos valstybinę tarnybą.",
+        "ru": "Граждане имеют право участвовать в управлении своей страной как непосредственно, так и через демократически избранных представителей, а также имеют право на равных условиях поступать на государственную службу Литовской Республики.",
+        "_": null
+    },
+    {
+        "chapter": "II",
+        "article": "33",
+        "lt": "Piliečiams laiduojama teisė kritikuoti valstybės įstaigų ar pareigūnų darbą, apskųsti jų sprendimus. Draudžiama persekioti už kritiką.",
+        "ru": "Гражданам гарантируется право критиковать работу государственных учреждений или должностных лиц, обжаловать их решения. Преследование за критику запрещается.",
+        "_": null
+    },
+    {
+        "chapter": "II",
+        "article": "33",
+        "lt": "Piliečiams laiduojama peticijos teisė, kurios įgyvendinimo tvarką nustato įstatymas.",
+        "ru": "Гражданам гарантируется право на петицию, порядок осуществления которого устанавливается законом.",
+        "_": null
+    },
+    {
+        "chapter": "II",
+        "article": "34",
+        "lt": "Piliečiai, kuriems rinkimų dieną yra sukakę 18 metų, turi rinkimų teisę.",
+        "ru": "Граждане, которым на день выборов исполнилось 18 лет, обладают избирательным правом.",
+        "_": null
+    },
+    {
+        "chapter": "II",
+        "article": "34",
+        "lt": "Teisę būti išrinktam nustato Lietuvos Respublikos Konstitucija ir rinkimų įstatymai.",
+        "ru": "Право быть избранным устанавливается Конституцией Литовской Республики и законами о выборах.",
+        "_": null
+    },
+    {
+        "chapter": "II",
+        "article": "34",
+        "lt": "Rinkimuose nedalyvauja piliečiai, kurie teismo pripažinti neveiksniais.",
+        "ru": "В выборах не участвуют граждане, признанные судом недееспособными.",
+        "_": null
+    },
+    {
+        "chapter": "II",
+        "article": "35",
+        "lt": "Piliečiams laiduojama teisė laisvai vienytis į bendrijas, politines partijas ar asociacijas, jei šių tikslai ir veikla nėra priešingi Konstitucijai ir įstatymams.",
+        "ru": "Гражданам гарантируется право на свободное объединение в общества, политические партии или ассоциации, если их цели и деятельность не противоречат Конституции и законам.",
+        "_": null
+    },
+    {
+        "chapter": "II",
+        "article": "35",
+        "lt": "Niekas negali būti verčiamas priklausyti kokiai nors bendrijai, politinei partijai ar asociacijai.",
+        "ru": "Никто не может быть принужден принадлежать к какому-либо обществу, политической партии или ассоциации.",
+        "_": null
+    },
+    {
+        "chapter": "II",
+        "article": "35",
+        "lt": "Politinių partijų, kitų politinių ir visuomeninių organizacijų steigimą ir veiklą reglamentuoja įstatymas.",
+        "ru": "Создание и деятельность политических партий, других политических и общественных организаций регламентируются законом.",
+        "_": null
+    },
+    {
+        "chapter": "II",
+        "article": "36",
+        "lt": "Negalima drausti ar trukdyti piliečiams rinktis be ginklo į taikius susirinkimus.",
+        "ru": "Нельзя запрещать или препятствовать гражданам собираться без оружия на мирные собрания.",
+        "_": null
+    },
+    {
+        "chapter": "II",
+        "article": "36",
+        "lt": "Ši teisė negali būti ribojama kitaip, kaip tik įstatymu ir tik tada, kai reikia apsaugoti valstybės ar visuomenės saugumą, viešąją tvarką, žmonių sveikatą ar dorovę arba kitų asmenų teises ir laisves.",
+        "ru": "Это право не может ограничиваться иначе, как только по закону и только в случае необходимости защитить государственную или общественную безопасность, общественный порядок, здоровье или нравственность людей либо права и свободы других лиц.",
+        "_": null
+    },
+    {
+        "chapter": "II",
+        "article": "37",
+        "lt": "Piliečiai, priklausantys tautinėms bendrijoms, turi teisę puoselėti savo kalbą, kultūrą ir papročius.",
+        "ru": "Граждане, принадлежащие к национальным общинам, имеют право на развитие своего языка, культуры и обычаев.",
+        "_": null
+    },
+    {
+        "chapter": "III",
+        "article": "38",
+        "lt": "Šeima yra visuomenės ir valstybės pagrindas.",
+        "ru": "Семья является основой общества и государства.",
+        "_": null
+    },
+    {
+        "chapter": "III",
+        "article": "38",
+        "lt": "Valstybė saugo ir globoja šeimą, motinystę, tėvystę ir vaikystę.",
+        "ru": "Государство охраняет и опекает семью, материнство, отцовство и детство.",
+        "_": null
+    },
+    {
+        "chapter": "III",
+        "article": "38",
+        "lt": "Santuoka sudaroma laisvu vyro ir moters sutarimu.",
+        "ru": "Брак заключается по свободному согласию мужчины и женщины.",
+        "_": null
+    },
+    {
+        "chapter": "III",
+        "article": "38",
+        "lt": "Valstybė registruoja santuoką, gimimą ir mirtį. Valstybė pripažįsta ir bažnytinę santuokos registraciją.",
+        "ru": "Государством регистрируется брак, рождение и смерть. Государство признает и церковную регистрацию брака.",
+        "_": null
+    },
+    {
+        "chapter": "III",
+        "article": "38",
+        "lt": "Sutuoktinių teisės šeimoje lygios.",
+        "ru": "Права супругов в семье равны.",
+        "_": null
+    },
+    {
+        "chapter": "III",
+        "article": "38",
+        "lt": "Tėvų teisė ir pareiga – auklėti savo vaikus dorais žmonėmis ir ištikimais piliečiais, iki pilnametystės juos išlaikyti.",
+        "ru": "Право и обязанность родителей – воспитывать своих детей честными людьми и преданными гражданами, содержать их до наступления совершеннолетия.",
+        "_": null
+    },
+    {
+        "chapter": "III",
+        "article": "38",
+        "lt": "Vaikų pareiga – gerbti tėvus, globoti juos senatvėje ir tausoti jų palikimą.",
+        "ru": "Обязанность детей – уважать родителей, опекать их в старости и бережно относиться к их наследству.",
+        "_": null
+    },
+    {
+        "chapter": "III",
+        "article": "39",
+        "lt": "Valstybė globoja šeimas, auginančias ir auklėjančias vaikus namuose, įstatymo nustatyta tvarka teikia joms paramą.",
+        "ru": "Государство опекает семьи, воспитывающие детей дома, оказывает им в установленном законом порядке поддержку.",
+        "_": null
+    },
+    {
+        "chapter": "III",
+        "article": "39",
+        "lt": "Dirbančioms motinoms įstatymas numato mokamas atostogas iki gimdymo ir po jo, palankias darbo sąlygas ir kitas lengvatas.",
+        "ru": "Для работающих матерей законом предусматриваются оплачиваемый дородовой и послеродовой отпуск, благоприятные условия труда и другие льготы.",
+        "_": null
+    },
+    {
+        "chapter": "III",
+        "article": "39",
+        "lt": "Nepilnamečius vaikus gina įstatymas.",
+        "ru": "Несовершеннолетние дети защищаются законом.",
+        "_": null
+    },
+    {
+        "chapter": "III",
+        "article": "40",
+        "lt": "Valstybinės ir savivaldybių mokymo ir auklėjimo įstaigos yra pasaulietinės. Jose tėvų pageidavimu mokoma tikybos.",
+        "ru": "Государственные и муниципальные учебно-воспитательные учреждения являются светскими. В них по пожеланию родителей ведется обучение Закону божьему.",
+        "_": null
+    },
+    {
+        "chapter": "III",
+        "article": "40",
+        "lt": "Įstatymo nustatyta tvarka gali būti steigiamos nevalstybinės mokymo bei auklėjimo įstaigos.",
+        "ru": "В установленном законом порядке могут создаваться и негосударственные учебно-воспитательные учреждения.",
+        "_": null
+    },
+    {
+        "chapter": "III",
+        "article": "40",
+        "lt": "Aukštosioms mokykloms suteikiama autonomija.",
+        "ru": "Высшим учебным заведениям предоставляется автономия.",
+        "_": null
+    },
+    {
+        "chapter": "III",
+        "article": "40",
+        "lt": "Valstybė prižiūri mokymo ir auklėjimo įstaigų veiklą.",
+        "ru": "Государством осуществляется надзор за деятельностью учебно-воспитательных учреждений.",
+        "_": null
+    },
+    {
+        "chapter": "III",
+        "article": "41",
+        "lt": "Asmenims iki 16 metų mokslas privalomas.",
+        "ru": "Обучение лиц в возрасте до 16 лет является обязательным.",
+        "_": null
+    },
+    {
+        "chapter": "III",
+        "article": "41",
+        "lt": "Mokymas valstybinėse ir savivaldybių bendrojo lavinimo, profesinėse bei aukštesniosiose mokyklose yra nemokamas.",
+        "ru": "Обучение в государственных и муниципальных общеобразовательных школах, профессиональных училищах и учебных заведениях верхнего уровня является бесплатным.",
+        "_": null
+    },
+    {
+        "chapter": "III",
+        "article": "41",
+        "lt": "Aukštasis mokslas prieinamas visiems pagal kiekvieno žmogaus sugebėjimus. Gerai besimokantiems piliečiams valstybinėse aukštosiose mokyklose laiduojamas nemokamas mokslas.",
+        "ru": "Высшее образование доступно всем в соответствии со способностями каждого человека. Успешно обучающимся гражданам в государственных высших учебных заведениях гарантируется бесплатное обучение.",
+        "_": null
+    },
+    {
+        "chapter": "III",
+        "article": "42",
+        "lt": "Kultūra, mokslas ir tyrinėjimai bei dėstymas yra laisvi.",
+        "ru": "Культура, наука и исследования, а также преподавание являются свободными.",
+        "_": null
+    },
+    {
+        "chapter": "III",
+        "article": "42",
+        "lt": "Valstybė remia kultūrą ir mokslą, rūpinasi Lietuvos istorijos, meno ir kitų kultūros paminklų bei vertybių apsauga.",
+        "ru": "Государство оказывает поддержку культуре и науке, уделяет внимание охране памятников и ценностей истории, искусства и других памятников и ценностей культуры Литвы.",
+        "_": null
+    },
+    {
+        "chapter": "III",
+        "article": "42",
+        "lt": "Dvasinius ir materialinius autoriaus interesus, susijusius su mokslo, technikos, kultūros ir meno kūryba, saugo ir gina įstatymas.",
+        "ru": "Духовные и материальные интересы автора, связанные с научно-техническим, культурно-художественным творчеством, защищаются и охраняются законом.",
+        "_": null
+    },
+    {
+        "chapter": "III",
+        "article": "43",
+        "lt": "Valstybė pripažįsta tradicines Lietuvoje bažnyčias bei religines organizacijas, o kitas bažnyčias ir religines organizacijas – jeigu jos turi atramą visuomenėje ir jų mokymas bei apeigos neprieštarauja įstatymui ir dorai.",
+        "ru": "Государство признает традиционные в Литве церкви и религиозные организации, а другие церкви и религиозные организации – в случае, если они имеют опору в обществе и их учение и обряды не противоречат закону и нравственности.",
+        "_": null
+    },
+    {
+        "chapter": "III",
+        "article": "43",
+        "lt": "Valstybės pripažintos bažnyčios bei kitos religinės organizacijos turi juridinio asmens teises.",
+        "ru": "Признанные государством церкви и другие религиозные организации обладают правами юридического лица.",
+        "_": null
+    },
+    {
+        "chapter": "III",
+        "article": "43",
+        "lt": "Bažnyčios bei religinės organizacijos laisvai skelbia savo mokslą, atlieka savo apeigas, turi maldos namus, labdaros įstaigas ir mokyklas dvasininkams rengti.",
+        "ru": "Церкви и религиозные организации свободно проповедуют свое учение, отправляют свои обряды, имеют молельные дома, благотворительные учреждения и школы для подготовки служителей культа.",
+        "_": null
+    },
+    {
+        "chapter": "III",
+        "article": "43",
+        "lt": "Bažnyčios bei religinės organizacijos laisvai tvarkosi pagal savus kanonus ir statutus.",
+        "ru": "Церкви и религиозные организации свободно действуют согласно своим канонам и статутам.",
+        "_": null
+    },
+    {
+        "chapter": "III",
+        "article": "43",
+        "lt": "Bažnyčių bei kitų religinių organizacijų būklė valstybėje nustatoma susitarimu arba įstatymu.",
+        "ru": "Положение церквей и других религиозных организаций в государстве устанавливается соглашением или законом.",
+        "_": null
+    },
+    {
+        "chapter": "III",
+        "article": "43",
+        "lt": "Bažnyčių bei religinių organizacijų mokslo skelbimas, kita tikybinė veikla, taip pat maldos namai negali būti naudojami tam, kas prieštarauja Konstitucijai ir įstatymams.",
+        "ru": "Проповедование церквями и религиозными организациями учения, иная религиозная деятельность, а также молельные дома не могут использоваться в целях, противоречащих Конституции и законам.",
+        "_": null
+    },
+    {
+        "chapter": "III",
+        "article": "43",
+        "lt": "Lietuvoje nėra valstybinės religijos.",
+        "ru": "В Литве нет государственной религии.",
+        "_": null
+    },
+    {
+        "chapter": "III",
+        "article": "44",
+        "lt": "Masinės informacijos cenzūra draudžiama.",
+        "ru": "Цензура массовой информации запрещается.",
+        "_": null
+    },
+    {
+        "chapter": "III",
+        "article": "44",
+        "lt": "Valstybė, politinės partijos, politinės ir visuomeninės organizacijos, kitos institucijos ar asmenys negali monopolizuoti masinės informacijos priemonių.",
+        "ru": "Государство, политические партии, политические и общественные организации, другие институты или лица не могут монополизировать средства массовой информации.",
+        "_": null
+    },
+    {
+        "chapter": "III",
+        "article": "45",
+        "lt": "Piliečių tautinės bendrijos savo tautinės kultūros reikalus, švietimą, labdarą, savitarpio pagalbą tvarko savarankiškai.",
+        "ru": "Национальные общины граждан самостоятельно занимаются делами своей национальной культуры, просвещением, благотворительностью, взаимопомощью.",
+        "_": null
+    },
+    {
+        "chapter": "III",
+        "article": "45",
+        "lt": "Tautinėms bendrijoms valstybė teikia paramą.",
+        "ru": "Государство оказывает поддержку национальным общинам.",
+        "_": null
+    },
+    {
+        "chapter": "IV",
+        "article": "46",
+        "lt": "Lietuvos ūkis grindžiamas privačios nuosavybės teise, asmens ūkinės veiklos laisve ir iniciatyva.",
+        "ru": "Хозяйство Литвы основывается на праве частной собственности, на личной свободе хозяйственной деятельности и личной инициативе.",
+        "_": null
+    },
+    {
+        "chapter": "IV",
+        "article": "46",
+        "lt": "Valstybė remia visuomenei naudingas ūkines pastangas ir iniciatyvą.",
+        "ru": "Государство оказывает поддержку общественно полезным хозяйственным усилиям и инициативе.",
+        "_": null
+    },
+    {
+        "chapter": "IV",
+        "article": "46",
+        "lt": "Valstybė reguliuoja ūkinę veiklą taip, kad ji tarnautų bendrai tautos gerovei.",
+        "ru": "Государством регулируется хозяйственная деятельность таким образом, чтобы она служила общему благу народа.",
+        "_": null
+    },
+    {
+        "chapter": "IV",
+        "article": "46",
+        "lt": "Įstatymas draudžia monopolizuoti gamybą ir rinką, saugo sąžiningos konkurencijos laisvę.",
+        "ru": "Законом запрещается монополизировать производство и рынок, охраняется свобода честной конкуренции.",
+        "_": null
+    },
+    {
+        "chapter": "IV",
+        "article": "46",
+        "lt": "Valstybė gina vartotojo interesus.",
+        "ru": "Государство защищает интересы потребителя.",
+        "_": null
+    },
+    {
+        "chapter": "IV",
+        "article": "47",
+        "lt": "Lietuvos Respublikai išimtine nuosavybės teise priklauso: žemės gelmės, taip pat valstybinės reikšmės vidaus vandenys, miškai, parkai, keliai, istorijos, archeologijos ir kultūros objektai.",
+        "ru": "Литовской Республике на праве исключительной собственности принадлежат: недра земли, а также внутренние воды, леса, парки, дороги, объекты истории, археологии и культуры государственного значения.",
+        "_": null
+    },
+    {
+        "chapter": "IV",
+        "article": "47",
+        "lt": "Lietuvos Respublikai priklauso išimtinės teisės į oro erdvę virš jos teritorijos, jos kontinentinį šelfą bei ekonominę zoną Baltijos jūroje.",
+        "ru": "Литовской Республике принадлежат исключительные права на воздушное пространство над ее территорией, ее континентальный шельф и экономическую зону в Балтийском море.",
+        "_": null
+    },
+    {
+        "chapter": "IV",
+        "article": "47",
+        "lt": "Žemę, vidaus vandenis ir miškus įsigyti nuosavybėn Lietuvos Respublikoje užsienio subjektai gali pagal konstitucinį įstatymą.",
+        "ru": "Землю, внутренние воды и леса приобрести в собственность в Литовской Республике иностранные субъекты могут в соответствии с конституционным законом.",
+        "_": null
+    },
+    {
+        "chapter": "IV",
+        "article": "47",
+        "lt": "Žemės sklypai nuosavybės teise įstatymų nustatyta tvarka ir sąlygomis gali priklausyti užsienio valstybei – jos diplomatinėms ir konsulinėms įstaigoms įkurti.",
+        "ru": "Земельные участки на праве собственности в соответствии с установленными законами порядком и условиями могут принадлежать иностранному государству – для основания его дипломатических и консульских учреждений.",
+        "_": null
+    },
+    {
+        "chapter": "IV",
+        "article": "48",
+        "lt": "Kiekvienas žmogus gali laisvai pasirinkti darbą bei verslą ir turi teisę turėti tinkamas, saugias ir sveikas darbo sąlygas, gauti teisingą apmokėjimą už darbą ir socialinę apsaugą nedarbo atveju.",
+        "ru": "Каждый человек может свободно осуществлять выбор работы и предпринимательства и имеет право на надлежащие, безопасные и здоровые условия труда, на справедливую оплату труда и на социальную защиту в случае безработицы.",
+        "_": null
+    },
+    {
+        "chapter": "IV",
+        "article": "48",
+        "lt": "Užsieniečių darbą Lietuvos Respublikoje reguliuoja įstatymas.",
+        "ru": "Труд иностранцев в Литовской Республике регулируется законом.",
+        "_": null
+    },
+    {
+        "chapter": "IV",
+        "article": "48",
+        "lt": "Priverčiamasis darbas draudžiamas.",
+        "ru": "Принудительный труд запрещен.",
+        "_": null
+    },
+    {
+        "chapter": "IV",
+        "article": "48",
+        "lt": "Priverčiamuoju darbu nelaikoma tarnyba kariuomenėje ar ją pakeičianti alternatyvioji tarnyba, taip pat piliečių darbas karo, stichinės nelaimės, epidemijos ar kitais ypatingais atvejais.",
+        "ru": "Принудительным трудом не считается прохождение службы в армии или заменяющая ее альтернативная служба, а также труд граждан во время войны, стихийного бедствия, эпидемии или в других чрезвычайных случаях.",
+        "_": null
+    },
+    {
+        "chapter": "IV",
+        "article": "48",
+        "lt": "Priverčiamuoju darbu nelaikomas ir įstatymo reguliuojamas teismo nuteistųjų darbas.",
+        "ru": "Принудительным трудом не считается и регулируемый законом труд осужденных судом.",
+        "_": null
+    },
+    {
+        "chapter": "IV",
+        "article": "49",
+        "lt": "Kiekvienas dirbantis žmogus turi teisę turėti poilsį ir laisvalaikį, taip pat kasmetines mokamas atostogas.",
+        "ru": "Каждый работающий человек имеет право на отдых и свободное время, а также на ежегодный оплачиваемый отпуск.",
+        "_": null
+    },
+    {
+        "chapter": "IV",
+        "article": "49",
+        "lt": "Darbo laiko trukmę apibrėžia įstatymas.",
+        "ru": "Продолжительность рабочего времени определяется законом.",
+        "_": null
+    },
+    {
+        "chapter": "IV",
+        "article": "50",
+        "lt": "Profesinės sąjungos kuriasi laisvai ir veikia savarankiškai. Jos gina darbuotojų profesines, ekonomines bei socialines teises bei interesus.",
+        "ru": "Профессиональные союзы создаются свободно и действуют самостоятельно. Они защищают профессиональные, социально-экономические права и интересы работников.",
+        "_": null
+    },
+    {
+        "chapter": "IV",
+        "article": "50",
+        "lt": "Visos profesinės sąjungos turi lygias teises.",
+        "ru": "Все профессиональные союзы имеют равные права.",
+        "_": null
+    },
+    {
+        "chapter": "IV",
+        "article": "51",
+        "lt": "Darbuotojai, gindami savo ekonominius ir socialinius interesus, turi teisę streikuoti.",
+        "ru": "Работники при защите своих социально-экономических интересов имеют право на забастовку.",
+        "_": null
+    },
+    {
+        "chapter": "IV",
+        "article": "51",
+        "lt": "Šios teisės apribojimus, įgyvendinimo sąlygas ir tvarką nustato įstatymas.",
+        "ru": "Ограничения, условия и порядок реализации этого права устанавливаются законом.",
+        "_": null
+    },
+    {
+        "chapter": "IV",
+        "article": "52",
+        "lt": "Valstybė laiduoja piliečių teisę gauti senatvės ir invalidumo pensijas, socialinę paramą nedarbo, ligos, našlystės, maitintojo netekimo ir kitais įstatymų numatytais atvejais.",
+        "ru": "Государством гарантируется право граждан на пенсии по возрасту и инвалидности, на социальную поддержку в случае безработицы, болезни, вдовства, потери кормильца и других предусмотренных законами случаях.",
+        "_": null
+    },
+    {
+        "chapter": "IV",
+        "article": "53",
+        "lt": "Valstybė rūpinasi žmonių sveikata ir laiduoja medicinos pagalbą bei paslaugas žmogui susirgus. Įstatymas nustato piliečiams nemokamos medicinos pagalbos valstybinėse gydymo įstaigose teikimo tvarką.",
+        "ru": "Государство проявляет заботу о здоровье людей и гарантирует медицинскую помощь и услуги человеку в случае болезни. Законом устанавливается порядок оказания гражданам бесплатной медицинской помощи в государственных лечебных учреждениях.",
+        "_": null
+    },
+    {
+        "chapter": "IV",
+        "article": "53",
+        "lt": "Valstybė skatina visuomenės kūno kultūrą ir remia sportą.",
+        "ru": "Государством поощряется физическая культура общества и оказывается содействие спорту.",
+        "_": null
+    },
+    {
+        "chapter": "IV",
+        "article": "53",
+        "lt": "Valstybė ir kiekvienas asmuo privalo saugoti aplinką nuo kenksmingų poveikių.",
+        "ru": "Государство и каждое лицо обязаны охранять окружающую среду от вредных воздействий.",
+        "_": null
+    },
+    {
+        "chapter": "IV",
+        "article": "54",
+        "lt": "Valstybė rūpinasi natūralios gamtinės aplinkos, gyvūnijos ir augalijos, atskirų gamtos objektų ir ypač vertingų vietovių apsauga, prižiūri, kad su saiku būtų naudojami, taip pat atkuriami ir gausinami gamtos ištekliai.",
+        "ru": "Государство проявляет заботу об охране естественной природной среды, животного и растительного мира, отдельных природных объектов и представляющих особую ценность местностей, осуществляет надзор в целях бережного использования, а также восстановления и преумножения природных ресурсов.",
+        "_": null
+    },
+    {
+        "chapter": "IV",
+        "article": "54",
+        "lt": "Įstatymu draudžiama niokoti žemę, jos gelmes, vandenis, teršti vandenis ir orą, daryti radiacinį poveikį aplinkai bei skurdinti augaliją ir gyvūniją.",
+        "ru": "Законом запрещается истощать землю, ее недра, воды, загрязнять воды и воздух, оказывать радиационное воздействие на окружающую среду, а также обеднять растительный и животный мир.",
+        "_": null
+    },
+    {
+        "chapter": "V",
+        "article": "55",
+        "lt": "Seimą sudaro Tautos atstovai – 141 Seimo narys, kurie renkami ketveriems metams remiantis visuotine, lygia, tiesiogine rinkimų teise ir slaptu balsavimu.",
+        "ru": "Сейм состоит из представителей Народа – 141 члена Сейма, избираемых сроком на четыре года на основе всеобщего, равного, прямого избирательного права при тайном голосовании.",
+        "_": null
+    },
+    {
+        "chapter": "V",
+        "article": "55",
+        "lt": "Seimas laikomas išrinktu, kai yra išrinkta ne mažiau kaip 3/5 Seimo narių.",
+        "ru": "Сейм считается избранным, если в него избрано не менее 3/5 членов Сейма.",
+        "_": null
+    },
+    {
+        "chapter": "V",
+        "article": "55",
+        "lt": "Seimo narių rinkimų tvarką nustato įstatymas.",
+        "ru": "Порядок избрания членов Сейма устанавливается законом.",
+        "_": null
+    },
+    {
+        "chapter": "V",
+        "article": "56",
+        "lt": "Seimo nariu gali būti renkamas Lietuvos Respublikos pilietis, kuris nesusijęs priesaika ar pasižadėjimu užsienio valstybei ir rinkimų dieną yra ne jaunesnis kaip 21 metų bei nuolat gyvena Lietuvoje.",
+        "ru": "Членом Сейма может избираться гражданин Литовской Республики, не связанный присягой или обязательством с иностранным государством и достигший на день выборов не менее 25 лет, а также постоянно проживающий в Литве.",
+        "_": null
+    },
+    {
+        "chapter": "V",
+        "article": "56",
+        "lt": "Seimo nariais negali būti renkami asmenys, nebaigę atlikti bausmės pagal teismo paskirtą nuosprendį, taip pat asmenys, teismo pripažinti neveiksniais.",
+        "ru": "Членами Сейма не могут быть избраны лица, не отбывшие наказания по приговору, назначенному судом, а также лица, признанные судом недееспособными.",
+        "_": null
+    },
+    {
+        "chapter": "V",
+        "article": "57",
+        "lt": "Eiliniai Seimo rinkimai rengiami Seimo narių įgaliojimų pabaigos metais spalio mėnesio antrą sekmadienį.",
+        "ru": "Очередные выборы Сейма проводятся в год истечения полномочий членов Сейма во второе воскресенье октября.",
+        "_": null
+    },
+    {
+        "chapter": "V",
+        "article": "57",
+        "lt": "Eiliniai Seimo rinkimai, einantys po pirmalaikių Seimo rinkimų, rengiami šio straipsnio pirmojoje dalyje nurodytu laiku.",
+        "ru": "Очередные выборы Сейма, следующие за досрочными выборами Сейма, проводятся в указанный частью первой настоящей статьи срок.",
+        "_": null
+    },
+    {
+        "chapter": "V",
+        "article": "58",
+        "lt": "Pirmalaikiai Seimo rinkimai gali būti rengiami Seimo nutarimu, priimtu ne mažiau kaip 3/5 visų Seimo narių balsų dauguma.",
+        "ru": "Досрочные выборы Сейма могут проводиться по постановлению Сейма, принятому большинством голосов не менее чем 3/5 от общего числа членов Сейма.",
+        "_": null
+    },
+    {
+        "chapter": "V",
+        "article": "58",
+        "lt": "Pirmalaikius Seimo rinkimus gali paskelbti ir Respublikos Prezidentas:",
+        "ru": "Досрочные выборы Сейма могут быть назначены и Президентом Республики:",
+        "_": null
+    },
+    {
+        "chapter": "V",
+        "article": "58",
+        "lt": "1) jeigu Seimas per 30 dienų nuo pateikimo nepriėmė sprendimo dėl naujos Vyriausybės programos arba nuo Vyriausybės programos pirmojo pateikimo per 60 dienų du kartus iš eilės nepritarė Vyriausybės programai;",
+        "ru": "1) если Сеймом в течение 30 дней после представления не было принято решение о новой программе Правительства или после первого представления программы Правительства в течение 60 дней два раза подряд не была одобрена программа Правительства;",
+        "_": null
+    },
+    {
+        "chapter": "V",
+        "article": "58",
+        "lt": "2) Vyriausybės siūlymu, jeigu Seimas pareiškia tiesioginį nepasitikėjimą Vyriausybe.",
+        "ru": "2) по предложению Правительства, если Сеймом непосредственно выражается недоверие Правительству.",
+        "_": null
+    },
+    {
+        "chapter": "V",
+        "article": "58",
+        "lt": "Respublikos Prezidentas negali skelbti pirmalaikių Seimo rinkimų, jeigu iki Respublikos Prezidento kadencijos pabaigos liko mažiau kaip 6 mėnesiai, taip pat jeigu po pirmalaikių Seimo rinkimų nepraėjo 6 mėnesiai.",
+        "ru": "Президент Республики не может назначить досрочные выборы Сейма, если до истечения срока полномочий Президента Республики осталось менее 6 месяцев, а также, если после досрочных выборов Сейма не прошло 6 месяцев.",
+        "_": null
+    },
+    {
+        "chapter": "V",
+        "article": "58",
+        "lt": "Seimo nutarime ar Respublikos Prezidento akte dėl pirmalaikių Seimo rinkimų nurodoma naujo Seimo rinkimų diena. Naujo Seimo rinkimai turi būti surengti ne vėliau kaip per 3 mėnesius nuo sprendimo dėl pirmalaikių rinkimų priėmimo.",
+        "ru": "В постановлении Сейма или в акте Президента Республики о назначении досрочных выборов Сейма указывается день выборов нового Сейма. Выборы нового Сейма должны быть проведены не позднее чем в течение 3 месяцев после принятия решения о назначении досрочных выборов.",
+        "_": null
+    },
+    {
+        "chapter": "V",
+        "article": "59",
+        "lt": "Seimo narių įgaliojimų laikas pradedamas skaičiuoti nuo tos dienos, kurią naujai išrinktas Seimas susirenka į pirmąjį posėdį. Nuo šio posėdžio pradžios baigiasi anksčiau išrinktų Seimo narių įgaliojimų laikas.",
+        "ru": "Отсчет срока полномочий членов Сейма начинается со дня первого заседания вновь избранного Сейма. С началом этого заседания истекает срок полномочий ранее избранных членов Сейма.",
+        "_": null
+    },
+    {
+        "chapter": "V",
+        "article": "59",
+        "lt": "Išrinktas Seimo narys visas Tautos atstovo teises įgyja tik po to, kai Seime jis prisiekia būti ištikimas Lietuvos Respublikai.",
+        "ru": "Избранный член Сейма все права представителя Народа приобретает только после принесения им в Сейме присяги на верность Литовской Республике.",
+        "_": null
+    },
+    {
+        "chapter": "V",
+        "article": "59",
+        "lt": "Seimo narys, įstatymo nustatyta tvarka neprisiekęs arba prisiekęs lygtinai, netenka Seimo nario mandato. Dėl to Seimas priima nutarimą.",
+        "ru": "Член Сейма, не принесший в установленном законом порядке присягу или принесший присягу условно, утрачивает мандат члена Сейма. В связи с этим Сеймом принимается постановление.",
+        "_": null
+    },
+    {
+        "chapter": "V",
+        "article": "59",
+        "lt": "Pareigas eidami Seimo nariai vadovaujasi Lietuvos Respublikos Konstitucija, valstybės interesais, savo sąžine ir negali būti varžomi jokių mandatų.",
+        "ru": "При исполнении своих обязанностей члены Сейма руководствуются Конституцией Литовской Республики, интересами государства, своей совестью и не могут ограничиваться никакими мандатами.",
+        "_": null
+    },
+    {
+        "chapter": "V",
+        "article": "60",
+        "lt": "Seimo nario pareigos, išskyrus jo pareigas Seime, nesuderinamos su jokiomis kitomis pareigomis valstybinėse įstaigose ir organizacijose, taip pat su darbu verslo, komercijos bei kitose privačiose įstaigose ar įmonėse. Savo įgaliojimų laikui Seimo narys atleidžiamas nuo pareigos atlikti krašto apsaugos tarnybą.",
+        "ru": "Обязанности члена Сейма, за исключением его обязанностей в Сейме, несовместимы ни с какими другими должностями в государственных учреждениях и организациях, а также с работой в предпринимательских, коммерческих и других частных учреждениях или на предприятиях. На срок действия своих полномочий член Сейма освобождается от обязанности прохождения службы по охране края.",
+        "_": null
+    },
+    {
+        "chapter": "V",
+        "article": "60",
+        "lt": "Seimo narys gali būti skiriamas tik Ministru Pirmininku ar ministru.",
+        "ru": "Член Сейма может назначаться только Премьер-министром или министром.",
+        "_": null
+    },
+    {
+        "chapter": "V",
+        "article": "60",
+        "lt": "Seimo nario darbas, taip pat išlaidos, susijusios su jo parlamentine veikla, atlyginamos iš valstybės biudžeto. Seimo narys negali gauti jokio kito atlyginimo, išskyrus atlyginimą už kūrybinę veiklą.",
+        "ru": "Работа члена Сейма, а также расходы, связанные с его парламентской деятельностью, оплачиваются за счет средств государственного бюджета. Член Сейма не может получать никакого иного вознаграждения, за исключением оплаты за творческую деятельность.",
+        "_": null
+    },
+    {
+        "chapter": "V",
+        "article": "60",
+        "lt": "Seimo nario pareigas, teises ir veiklos garantijas nustato įstatymas.",
+        "ru": "Обязанности, права и гарантии деятельности члена Сейма устанавливаются законом.",
+        "_": null
+    },
+    {
+        "chapter": "V",
+        "article": "61",
+        "lt": "Seimo narys turi teisę pateikti paklausimą Ministrui Pirmininkui, ministrams, kitų valstybės institucijų, kurias sudaro arba išrenka Seimas, vadovams. Šie privalo atsakyti žodžiu ar raštu Seimo sesijoje Seimo nustatyta tvarka.",
+        "ru": "Член Сейма вправе обратиться с запросом к Премьер-министру, министрам, руководителям других государственных институтов, образуемых или избираемых Сеймом. Они обязаны дать устный или письменный ответ на сессии Сейма в порядке, установленном Сеймом.",
+        "_": null
+    },
+    {
+        "chapter": "V",
+        "article": "61",
+        "lt": "Sesijos metu ne mažesnė kaip 1/5 Seimo narių grupė gali pateikti interpeliaciją Ministrui Pirmininkui ar ministrui.",
+        "ru": "Во время сессии группой в составе не менее 1/5 членов Сейма может быть внесена интерпелляция Премьер-министру или министру.",
+        "_": null
+    },
+    {
+        "chapter": "V",
+        "article": "61",
+        "lt": "Seimas, apsvarstęs Ministro Pirmininko ar ministro atsakymą į interpeliaciją, gali nutarti, jog atsakymas esąs nepatenkinamas, ir pusės visų Seimo narių balsų dauguma pareikšti nepasitikėjimą Ministru Pirmininku ar ministru.",
+        "ru": "Сейм после обсуждения ответа Премьер-министра или министра на интерпелляцию может постановить, что ответ неудовлетворителен, и большинством половины голосов от общего числа членов Сейма выразить недоверие Премьер-министру или министру.",
+        "_": null
+    },
+    {
+        "chapter": "V",
+        "article": "61",
+        "lt": "Balsavimo tvarką nustato įstatymas.",
+        "ru": "Порядок голосования устанавливается законом.",
+        "_": null
+    },
+    {
+        "chapter": "V",
+        "article": "62",
+        "lt": "Seimo nario asmuo neliečiamas.",
+        "ru": "Личность члена Сейма неприкосновенна.",
+        "_": null
+    },
+    {
+        "chapter": "V",
+        "article": "62",
+        "lt": "Seimo narys be Seimo sutikimo negali būti traukiamas baudžiamojon atsakomybėn, suimamas, negali būti kitaip suvaržoma jo laisvė.",
+        "ru": "Член Сейма без согласия Сейма не может быть привлечен к уголовной ответственности, арестован, не может быть иным образом ограничена его свобода.",
+        "_": null
+    },
+    {
+        "chapter": "V",
+        "article": "62",
+        "lt": "Seimo narys už balsavimus ar kalbas Seime negali būti persekiojamas. Tačiau už asmens įžeidimą ar šmeižtą jis gali būti traukiamas atsakomybėn bendrąja tvarka.",
+        "ru": "Член Сейма за голосование или выступления в Сейме не может преследоваться. Вместе с тем за оскорбление личности или клевету он может привлекаться к ответственности в общем порядке.",
+        "_": null
+    },
+    {
+        "chapter": "V",
+        "article": "63",
+        "lt": "Seimo nario įgaliojimai nutrūksta, kai:",
+        "ru": "Полномочия члена Сейма прекращаются в случае:",
+        "_": null
+    },
+    {
+        "chapter": "V",
+        "article": "63",
+        "lt": "1) pasibaigia įgaliojimų laikas arba susirenka į pirmąjį posėdį pirmalaikiuose rinkimuose išrinktasis Seimas;",
+        "ru": "1) истечения срока полномочий или с началом первого заседания избранного на досрочных выборах Сейма;",
+        "_": null
+    },
+    {
+        "chapter": "V",
+        "article": "63",
+        "lt": "2) jis miršta;",
+        "ru": "2) его смерти;",
+        "_": null
+    },
+    {
+        "chapter": "V",
+        "article": "63",
+        "lt": "3) atsistatydina;",
+        "ru": "3) его отставки;",
+        "_": null
+    },
+    {
+        "chapter": "V",
+        "article": "63",
+        "lt": "4) teismas pripažįsta jį neveiksniu;",
+        "ru": "4) признания его судом недееспособным;",
+        "_": null
+    },
+    {
+        "chapter": "V",
+        "article": "63",
+        "lt": "5) Seimas panaikina jo mandatą apkaltos proceso tvarka;",
+        "ru": "5) лишения Сеймом его мандата в порядке процесса импичмента;",
+        "_": null
+    },
+    {
+        "chapter": "V",
+        "article": "63",
+        "lt": "6) rinkimai pripažįstami negaliojančiais arba šiurkščiai pažeidžiamas rinkimų įstatymas;",
+        "ru": "6) признания выборов недействительными или в случае грубого нарушения закона о выборах;",
+        "_": null
+    },
+    {
+        "chapter": "V",
+        "article": "63",
+        "lt": "7) pereina dirbti arba neatsisako darbo, nesuderinamo su Seimo nario pareigomis;",
+        "ru": "7) перехода его на работу или если он не отказывается от работы, не совместимой с обязанностями члена Сейма;",
+        "_": null
+    },
+    {
+        "chapter": "V",
+        "article": "63",
+        "lt": "8) netenka Lietuvos Respublikos pilietybės.",
+        "ru": "8) утраты им гражданства Литовской Республики.",
+        "_": null
+    },
+    {
+        "chapter": "V",
+        "article": "64",
+        "lt": "Seimas kasmet renkasi į dvi eilines – pavasario ir rudens – sesijas. Pavasario sesija prasideda kovo 10 dieną ir baigiasi birželio 30 dieną. Rudens sesija prasideda rugsėjo 10 dieną ir baigiasi gruodžio 23 dieną. Seimas gali nutarti sesiją pratęsti.",
+        "ru": "Сейм ежегодно собирается на две очередные – весеннюю и осеннюю – сессии. Весенняя сессия начинается 10 марта и заканчивается 30 июня. Осенняя сессия начинается 10 сентября и закачивается 23 декабря. Сейм может принять постановление о продлении сессии.",
+        "_": null
+    },
+    {
+        "chapter": "V",
+        "article": "64",
+        "lt": "Neeilines sesijas šaukia Seimo Pirmininkas ne mažiau kaip trečdalio visų Seimo narių siūlymu, o Konstitucijos numatytais atvejais – Respublikos Prezidentas.",
+        "ru": "Внеочередные сессии созываются Председателем Сейма по предложению не менее трети от общего числа членов Сейма, а в предусмотренных Конституцией случаях – Президентом Республики.",
+        "_": null
+    },
+    {
+        "chapter": "V",
+        "article": "65",
+        "lt": "Naujai išrinktą Seimą susirinkti į pirmąjį posėdį, kuris turi įvykti ne vėliau kaip per 15 dienų po Seimo išrinkimo, kviečia Respublikos Prezidentas. Jeigu Respublikos Prezidentas nekviečia Seimo susirinkti, Seimo nariai renkasi patys kitą dieną pasibaigus 15 dienų terminui.",
+        "ru": "Вновь избранный Сейм на свое первое заседание, которое должно состояться не позднее чем в течение 15 дней после избрания Сейма, созывается Президентом Республики. Если Президент Республики не созывает Сейм, члены Сейма собираются сами на следующий день после истечения пятнадцатидневного срока.",
+        "_": null
+    },
+    {
+        "chapter": "V",
+        "article": "66",
+        "lt": "Seimo posėdžiams vadovauja Seimo Pirmininkas arba jo pavaduotojas.",
+        "ru": "Заседания Сейма ведет Председатель Сейма или его заместитель.",
+        "_": null
+    },
+    {
+        "chapter": "V",
+        "article": "66",
+        "lt": "Pirmąjį po rinkimų Seimo posėdį pradeda vyriausias pagal amžių Seimo narys.",
+        "ru": "Первое после выборов заседание Сейма открывает старейший по возрасту член Сейма.",
+        "_": null
+    },
+    {
+        "chapter": "V",
+        "article": "67",
+        "lt": "Seimas:",
+        "ru": "Сейм:",
+        "_": null
+    },
+    {
+        "chapter": "V",
+        "article": "67",
+        "lt": "1) svarsto ir priima Konstitucijos pataisas;",
+        "ru": "1) обсуждает и принимает поправки к Конституции;",
+        "_": null
+    },
+    {
+        "chapter": "V",
+        "article": "67",
+        "lt": "2) leidžia įstatymus;",
+        "ru": "2) издает законы;",
+        "_": null
+    },
+    {
+        "chapter": "V",
+        "article": "67",
+        "lt": "3) priima nutarimus dėl referendumų;",
+        "ru": "3) принимает постановления относительно референдумов;",
+        "_": null
+    },
+    {
+        "chapter": "V",
+        "article": "67",
+        "lt": "4) skiria Lietuvos Respublikos Prezidento rinkimus;",
+        "ru": "4) назначает выборы Президента Литовской Республики;",
+        "_": null
+    },
+    {
+        "chapter": "V",
+        "article": "67",
+        "lt": "5) steigia įstatymo numatytas valstybės institucijas bei skiria ir atleidžia jų vadovus;",
+        "ru": "5) учреждает предусмотренные законом государственные институты, а также назначает и освобождает их руководителей;",
+        "_": null
+    },
+    {
+        "chapter": "V",
+        "article": "67",
+        "lt": "6) pritaria ar nepritaria Respublikos Prezidento teikiamai Ministro Pirmininko kandidatūrai;",
+        "ru": "6) одобряет или не одобряет кандидатуру Премьер-министра, представляемую Президентом Республики;",
+        "_": null
+    },
+    {
+        "chapter": "V",
+        "article": "67",
+        "lt": "7) svarsto Ministro Pirmininko pateiktą Vyriausybės programą ir sprendžia, ar jai pritarti;",
+        "ru": "7) рассматривает представленную Премьер-министром программу Правительства и принимает решение относительно ее одобрения;",
+        "_": null
+    },
+    {
+        "chapter": "V",
+        "article": "67",
+        "lt": "8) Vyriausybės siūlymu steigia ir panaikina Lietuvos Respublikos ministerijas;",
+        "ru": "8) по предложению Правительства образует или упраздняет министерства Литовской Республики;",
+        "_": null
+    },
+    {
+        "chapter": "V",
+        "article": "67",
+        "lt": "9) prižiūri Vyriausybės veiklą, gali reikšti nepasitikėjimą Ministru Pirmininku ar ministru;",
+        "ru": "9) осуществляет контроль за деятельностью Правительства, может выражать недоверие Премьер-министру или министру;",
+        "_": null
+    },
+    {
+        "chapter": "V",
+        "article": "67",
+        "lt": "10) skiria Konstitucinio Teismo teisėjus, Aukščiausiojo Teismo teisėjus bei šių teismų pirmininkus;",
+        "ru": "10) назначает судей Конституционного Cуда, судей Верховного Суда, а также председателей этих судов;",
+        "_": null
+    },
+    {
+        "chapter": "V",
+        "article": "67",
+        "lt": "11) skiria ir atleidžia valstybės kontrolierių, Lietuvos banko valdybos pirmininką;",
+        "ru": "11) назначает и освобождает государственного контролера, председателя правления Банка Литвы;",
+        "_": null
+    },
+    {
+        "chapter": "V",
+        "article": "67",
+        "lt": "12) skiria savivaldybių tarybų ir savivaldybių merų rinkimus;",
+        "ru": "12) назначает выборы Советов самоуправлений;",
+        "_": null
+    },
+    {
+        "chapter": "V",
+        "article": "67",
+        "lt": "13) sudaro Vyriausiąją rinkimų komisiją ir keičia jos sudėtį;",
+        "ru": "13) образует Главную избирательную комиссию и вносит изменения в ее состав;",
+        "_": null
+    },
+    {
+        "chapter": "V",
+        "article": "67",
+        "lt": "14) tvirtina valstybės biudžetą ir prižiūri, kaip jis vykdomas;",
+        "ru": "14) утверждает государственный бюджет и осуществляет контроль за его исполнением;",
+        "_": null
+    },
+    {
+        "chapter": "V",
+        "article": "67",
+        "lt": "15) nustato valstybinius mokesčius ir kitus privalomus mokėjimus;",
+        "ru": "15) устанавливает государственные налоги и другие обязательные платежи;",
+        "_": null
+    },
+    {
+        "chapter": "V",
+        "article": "67",
+        "lt": "16) ratifikuoja ir denonsuoja Lietuvos Respublikos tarptautines sutartis, svarsto kitus užsienio politikos klausimus;",
+        "ru": "16) ратифицирует и денонсирует международные договоры Литовской Республики, рассматривает другие вопросы внешней политики;",
+        "_": null
+    },
+    {
+        "chapter": "V",
+        "article": "67",
+        "lt": "17) nustato Respublikos administracinį suskirstymą;",
+        "ru": "17) устанавливает административное деление Республики;",
+        "_": null
+    },
+    {
+        "chapter": "V",
+        "article": "67",
+        "lt": "18) steigia Lietuvos Respublikos valstybinius apdovanojimus;",
+        "ru": "18) учреждает государственные награды Литовской Республики;",
+        "_": null
+    },
+    {
+        "chapter": "V",
+        "article": "67",
+        "lt": "19) leidžia amnestijos aktus;",
+        "ru": "19) издает акты об амнистии;",
+        "_": null
+    },
+    {
+        "chapter": "V",
+        "article": "67",
+        "lt": "20) įveda tiesioginį valdymą, karo ir nepaprastąją padėtį, skelbia mobilizaciją ir priima sprendimą panaudoti ginkluotąsias pajėgas.",
+        "ru": "20) вводит прямое правление, военное и чрезвычайное положение, объявляет мобилизацию и принимает решение об использовании вооруженных сил.",
+        "_": null
+    },
+    {
+        "chapter": "V",
+        "article": "68",
+        "lt": "Įstatymų leidybos iniciatyvos teisė Seime priklauso Seimo nariams, Respublikos Prezidentui ir Vyriausybei.",
+        "ru": "Право законодательной инициативы в Сейме принадлежит членам Сейма, Президенту Республики и Правительству.",
+        "_": null
+    },
+    {
+        "chapter": "V",
+        "article": "68",
+        "lt": "Įstatymų leidybos iniciatyvos teisę turi taip pat Lietuvos Respublikos piliečiai. 50 tūkstančių piliečių, turinčių rinkimų teisę, gali teikti Seimui įstatymo projektą, ir jį Seimas privalo svarstyti.",
+        "ru": "Право законодательной инициативы имеют также граждане Литовской Республики. 50 тысяч граждан, обладающих избирательным правом, могут внести в Сейм проект закона, который подлежит рассмотрению Сеймом в обязательном порядке.",
+        "_": null
+    },
+    {
+        "chapter": "V",
+        "article": "69",
+        "lt": "Įstatymai Seime priimami laikantis įstatymo nustatytos procedūros.",
+        "ru": "Законы в Сейме принимаются с соблюдением процедуры, установленной законом.",
+        "_": null
+    },
+    {
+        "chapter": "V",
+        "article": "69",
+        "lt": "Įstatymai laikomi priimtais, jeigu už juos balsavo dauguma Seimo narių, dalyvaujančių posėdyje.",
+        "ru": "Законы считаются принятыми, если за них проголосовало большинство членов Сейма, участвовавших в заседании.",
+        "_": null
+    },
+    {
+        "chapter": "V",
+        "article": "69",
+        "lt": "Lietuvos Respublikos konstituciniai įstatymai priimami, jeigu už juos balsuoja daugiau kaip pusė visų Seimo narių, o keičiami ne mažesne kaip 3/5 visų Seimo narių balsų dauguma. Konstitucinių įstatymų sąrašą 3/5 Seimo narių balsų dauguma nustato Seimas.",
+        "ru": "Конституционные законы Литовской Республики принимаются, если за них проголосовало более половины от общего числа членов Сейма, а изменения в них вносятся большинством голосов не менее чем 3/5 от общего числа членов Сейма. Перечень конституционных законов устанавливается Сеймом большинством голосов 3/5 членов Сейма.",
+        "_": null
+    },
+    {
+        "chapter": "V",
+        "article": "69",
+        "lt": "Lietuvos Respublikos įstatymų nuostatos gali būti priimamos ir referendumu.",
+        "ru": "Положения законов Литовской Республики могут приниматься и путем референдума.",
+        "_": null
+    },
+    {
+        "chapter": "V",
+        "article": "70",
+        "lt": "Seimo priimti įstatymai įsigalioja po to, kai juos pasirašo ir oficialiai paskelbia Lietuvos Respublikos Prezidentas, jeigu pačiais įstatymais nenustatoma vėlesnė įsigaliojimo diena.",
+        "ru": "Принятые Сеймом законы вступают в силу после их подписания и официального обнародования Президентом Литовской Республики, если самими законами не установлен более поздний день вступления в силу.",
+        "_": null
+    },
+    {
+        "chapter": "V",
+        "article": "70",
+        "lt": "Kitus Seimo priimtus aktus ir Seimo statutą pasirašo Seimo Pirmininkas. Šie aktai įsigalioja kitą dieną po jų paskelbimo, jeigu pačiais aktais nenustatoma kita įsigaliojimo tvarka.",
+        "ru": "Другие принятые Сеймом акты и Статут Сейма подписываются Председателем Сейма. Эти акты вступают в силу на следующий день после их обнародования, если самими актами не установлен иной по­рядок вступления в силу.",
+        "_": null
+    },
+    {
+        "chapter": "V",
+        "article": "71",
+        "lt": "Respublikos Prezidentas Seimo priimtą įstatymą ne vėliau kaip per dešimt dienų po įteikimo arba pasirašo ir oficialiai paskelbia, arba motyvuotai grąžina Seimui pakartotinai svarstyti.",
+        "ru": "Президент Республики не позднее чем в десятидневный срок после вручения закона либо подписывает и официально обнародует принятый Сеймом закон, либо возвращает его Сейму с соответствующей мотивировкой для повторного рассмотрения.",
+        "_": null
+    },
+    {
+        "chapter": "V",
+        "article": "71",
+        "lt": "Jeigu nurodytu laiku Seimo priimto įstatymo Respublikos Prezidentas negrąžina ir nepasirašo, toks įstatymas įsigalioja po to, kai jį pasirašo ir oficialiai paskelbia Seimo Pirmininkas.",
+        "ru": "Если в указанный срок принятый Сеймом закон Президент Республики не возвращает и не подписывает, такой закон вступает в силу после его подписания и официального обнародования Председателем Сейма.",
+        "_": null
+    },
+    {
+        "chapter": "V",
+        "article": "71",
+        "lt": "Referendumu priimtą įstatymą ar kitą aktą ne vėliau kaip per 5 dienas privalo pasirašyti ir oficialiai paskelbti Respublikos Prezidentas.",
+        "ru": "Принятый на референдуме закон или иной акт не позднее чем в течение 5 дней должен быть подписан и официально обнародован Президентом Республики.",
+        "_": null
+    },
+    {
+        "chapter": "V",
+        "article": "71",
+        "lt": "Jeigu nurodytu laiku tokio įstatymo Respublikos Prezidentas nepasirašo ir nepaskelbia, įstatymas įsigalioja po to, kai jį pasirašo ir oficialiai paskelbia Seimo Pirmininkas.",
+        "ru": "Если в указанный срок такой закон Президент Республики не подписывает и не обнародует, закон вступает в силу после его подписания и официального обнародования Председателем Сейма.",
+        "_": null
+    },
+    {
+        "chapter": "V",
+        "article": "72",
+        "lt": "Respublikos Prezidento grąžintą įstatymą Seimas gali iš naujo svarstyti ir priimti.",
+        "ru": "Возвращенный Президентом Республики закон Сейм может заново рассмотреть и принять.",
+        "_": null
+    },
+    {
+        "chapter": "V",
+        "article": "72",
+        "lt": "Pakartotinai Seimo apsvarstytas įstatymas laikomas priimtu, jeigu buvo priimtos Respublikos Prezidento teikiamos pataisos ir papildymai arba jeigu už įstatymą balsavo daugiau kaip 1/2, o už konstitucinį įstatymą ne mažiau kaip 3/5 visų Seimo narių.",
+        "ru": "Повторно рассмотренный Сеймом закон считается принятым, если были приняты представленные Президентом Республики поправки и дополнения или если за закон проголосовало более 1/2, а за конституционный закон – не менее 3/5 от общего числа членов Сейма.",
+        "_": null
+    },
+    {
+        "chapter": "V",
+        "article": "72",
+        "lt": "Tokius įstatymus Respublikos Prezidentas privalo ne vėliau kaip per tris dienas pasirašyti ir nedelsiant oficialiai paskelbti.",
+        "ru": "Такие законы Президент Республики обязан не позднее чем в течение трех дней подписать и незамедлительно официально их обнародовать.",
+        "_": null
+    },
+    {
+        "chapter": "V",
+        "article": "73",
+        "lt": "Piliečių skundus dėl valstybės ir savivaldybių pareigūnų (išskyrus teisėjus) piktnaudžiavimo ar biurokratizmo tiria Seimo kontrolieriai. Jie turi teisę siūlyti teismui kaltus pareigūnus atleisti iš užimamų pareigų.",
+        "ru": "Жалобы граждан относительно злоупотреблений или бюрократизма со стороны государственных должностных лиц (за исключением судей) и должностных лиц самоуправлений рассматриваются контролерами Сейма. Они вправе вносить предложения в суд об освобождении виновных должностных лиц от занимаемой должности.",
+        "_": null
+    },
+    {
+        "chapter": "V",
+        "article": "73",
+        "lt": "Seimo kontrolierių įgaliojimus nustato įstatymas.",
+        "ru": "Полномочия контролеров Сейма устанавливаются законом.",
+        "_": null
+    },
+    {
+        "chapter": "V",
+        "article": "73",
+        "lt": "Prireikus Seimas steigia ir kitas kontrolės institucijas. Jų sistemą ir įgaliojimus nustato įstatymas.",
+        "ru": "В случае необходимости Сейм создает и другие институты контроля. Их система и полномочия устанавливаются законом.",
+        "_": null
+    },
+    {
+        "chapter": "V",
+        "article": "74",
+        "lt": "Respublikos Prezidentą, Konstitucinio Teismo pirmininką ir teisėjus, Aukščiausiojo Teismo pirmininką ir teisėjus, Apeliacinio teismo pirmininką ir teisėjus, Seimo narius, šiurkščiai pažeidusius Konstituciją arba sulaužiusius priesaiką, taip pat paaiškėjus, jog padarytas nusikaltimas, Seimas 3/5 visų narių balsų dauguma gali pašalinti iš užimamų pareigų ar panaikinti Seimo nario mandatą. Tai atliekama apkaltos proceso tvarka, kurią nustato Seimo statutas.",
+        "ru": "Президент Республики, председатель и судьи Конституционного Суда, председатель и судьи Верховного Суда, председатель и судьи Апелляционного суда, члены Сейма за грубое нарушение Конституции либо нарушение присяги, а также при выявлении факта совершения преступления большинством 3/5 голосов от общего числа членов Сейма могут быть отрешены от занимаемой должности или лишены мандата члена Сейма. Это осуществляется в порядке процесса импичмента, который устанавливается Статутом Сейма.",
+        "_": null
+    },
+    {
+        "chapter": "V",
+        "article": "74",
+        "lt": "Asmuo, kurį Seimas už šiurkštų Konstitucijos pažeidimą arba priesaikos sulaužymą apkaltos proceso tvarka pašalino iš užimamų pareigų ar panaikino jo Seimo nario mandatą, gali užimti Konstitucijoje nurodytas pareigas, kurių ėjimo pradžia pagal Konstituciją yra susieta su Konstitucijoje numatytos priesaikos davimu, kai nuo Seimo sprendimo, kuriuo jis buvo pašalintas iš užimamų pareigų ar panaikintas jo Seimo nario mandatas, yra praėję ne mažiau kaip dešimt metų.",
+        "ru": "",
+        "_": null
+    },
+    {
+        "chapter": "V",
+        "article": "75",
+        "lt": "Seimo skirti ar rinkti pareigūnai, išskyrus Konstitucijos 74 straipsnyje nurodytus asmenis, atleidžiami iš pareigų, kai Seimas visų Seimo narių balsų dauguma pareiškia jais nepasitikėjimą.",
+        "ru": "Назначенные или избранные Сеймом должностные лица, за исключением указанных в статье 74 Конституции лиц, освобождаются от должности в случае выражения им Сеймом недоверия большинством голосов от общего числа членов Сейма.",
+        "_": null
+    },
+    {
+        "chapter": "V",
+        "article": "76",
+        "lt": "Seimo struktūrą ir darbo tvarką nustato Seimo statutas. Seimo statutas turi įstatymo galią.",
+        "ru": "Структура и порядок работы Сейма устанавливаются Статутом Сейма. Статут Сейма имеет силу закона.",
+        "_": null
+    },
+    {
+        "chapter": "VI",
+        "article": "77",
+        "lt": "Respublikos Prezidentas yra valstybės vadovas.",
+        "ru": "Президент Республики является главой государства.",
+        "_": null
+    },
+    {
+        "chapter": "VI",
+        "article": "77",
+        "lt": "Jis atstovauja Lietuvos valstybei ir daro visa, kas jam pavesta Konstitucijos ir įstatymų.",
+        "ru": "Он представляет Литовское государство и выполняет все, что вменяется ему в обязанность Конституцией и законами.",
+        "_": null
+    },
+    {
+        "chapter": "VI",
+        "article": "78",
+        "lt": "Respublikos Prezidentu gali būti renkamas Lietuvos pilietis pagal kilmę, ne mažiau kaip trejus pastaruosius metus gyvenęs Lietuvoje, jeigu jam iki rinkimų dienos yra suėję ne mažiau kaip keturiasdešimt metų ir jeigu jis gali būti renkamas Seimo nariu.",
+        "ru": "Президентом Республики может избираться гражданин Литвы по происхождению, проживающий в течение не менее трех последних лет в Литве, если ему до дня выборов исполнилось не менее сорока лет и если он может избираться членом Сейма.",
+        "_": null
+    },
+    {
+        "chapter": "VI",
+        "article": "78",
+        "lt": "Respublikos Prezidentą renka Lietuvos Respublikos piliečiai penkeriems metams, remdamiesi visuotine, lygia ir tiesiogine rinkimų teise, slaptu balsavimu.",
+        "ru": "Президент Республики избирается гражданами Литовской Республики сроком на пять лет на основании всеобщего, равного и прямого избирательного права при тайном голосовании.",
+        "_": null
+    },
+    {
+        "chapter": "VI",
+        "article": "78",
+        "lt": "Tas pats asmuo Respublikos Prezidentu gali būti renkamas ne daugiau kaip du kartus iš eilės.",
+        "ru": "Одно и то же лицо Президентом Республики может избираться не более двух раз подряд.",
+        "_": null
+    },
+    {
+        "chapter": "VI",
+        "article": "79",
+        "lt": "Kandidatu į Respublikos Prezidentus įregistruojamas Lietuvos Respublikos pilietis, atitinkantis 78 straipsnio pirmosios dalies sąlygas ir surinkęs ne mažiau kaip 20 tūkstančių rinkėjų parašų.",
+        "ru": "Кандидатом в Президенты Республики регистрируется гражданин Литовской Республики, отвечающий условиям части первой статьи 78 и собравший не менее 20 тысяч подписей избирателей.",
+        "_": null
+    },
+    {
+        "chapter": "VI",
+        "article": "79",
+        "lt": "Kandidatų į Respublikos Prezidento vietą skaičius neribojamas.",
+        "ru": "Число кандидатов на пост Президента Республики не ограничивается.",
+        "_": null
+    },
+    {
+        "chapter": "VI",
+        "article": "80",
+        "lt": "Respublikos Prezidento eiliniai rinkimai vykdomi paskutinį sekmadienį likus dviem mėnesiams iki Respublikos Prezidento kadencijos pabaigos.",
+        "ru": "Очередные выборы Президента Республики проводятся в последнее воскресенье за два месяца до истечения срока полномочий Президента Республики.",
+        "_": null
+    },
+    {
+        "chapter": "VI",
+        "article": "81",
+        "lt": "Išrinktu laikomas tas kandidatas į Respublikos Prezidento vietą, kuris pirmą kartą balsuojant ir dalyvaujant ne mažiau kaip pusei visų rinkėjų, gavo daugiau kaip pusę visų rinkimuose dalyvavusių rinkėjų balsų. Jeigu rinkimuose dalyvavo mažiau kaip pusė visų rinkėjų, išrinktu laikomas tas kandidatas, kuris gavo daugiausia, bet ne mažiau kaip 1/3 visų rinkėjų balsų.",
+        "ru": "Избранным считается кандидат на пост Президента Республики, на­бравший в ходе первого голосования и при участии не менее половины от общего числа избирателей свыше половины голосов всех принявших участие в выборах избирателей. Если в выборах приняло участие менее половины всех избирателей, избранным считается кандидат, набравший наи­большее число голосов, но не менее 1/3 голосов от общего числа избирателей.",
+        "_": null
+    },
+    {
+        "chapter": "VI",
+        "article": "81",
+        "lt": "Jeigu pirmajame balsavimo rate nė vienas kandidatas nesurenka reikiamos balsų daugumos, po dviejų savaičių rengiamas pakartotinis balsavimas dėl dviejų kandidatų, gavusių daugiausia balsų. Išrinktu laikomas kandidatas, surinkęs daugiau balsų.",
+        "ru": "Если в первом туре голосования ни одним из кандидатов не набрано необходимое большинство голосов, через две недели проводится повторное голосование по двум кандидатам, набравшим наибольшее число голосов. Избранным считается кандидат, набравший большее число голосов.",
+        "_": null
+    },
+    {
+        "chapter": "VI",
+        "article": "81",
+        "lt": "Jeigu pirmajame rate dalyvavo ne daugiau kaip du kandidatai ir nė vienas negavo reikiamo balsų skaičiaus, rengiami pakartotiniai rinkimai.",
+        "ru": "Если в первом туре приняло участие не более двух кандидатов и ни один из них не набрал необходимое число голосов, проводятся повторные выборы.",
+        "_": null
+    },
+    {
+        "chapter": "VI",
+        "article": "82",
+        "lt": "Išrinktas Respublikos Prezidentas savo pareigas pradeda eiti rytojaus dieną pasibaigus Respublikos Prezidento kadencijai, po to kai Vilniuje, dalyvaujant Tautos atstovams – Seimo nariams, prisiekia Tautai būti ištikimas Lietuvos Respublikai ir Konstitucijai, sąžiningai eiti savo pareigas ir būti visiems lygiai teisingas.",
+        "ru": "Избранный Президент Республики приступает к исполнению своих обязанностей на следующий день по истечении срока полномочий Президента Республики после того, как в Вильнюсе в присутствии представителей Народа – членов Сейма он приносит присягу Народу хранить верность Литовской Республике и Конституции, добросовестно испол­нять свои обязанности и быть ко всем одинаково справедливым.",
+        "_": null
+    },
+    {
+        "chapter": "VI",
+        "article": "82",
+        "lt": "Prisiekia ir perrinktas Respublikos Prezidentas.",
+        "ru": "Присягу приносит и переизбранный Президент Республики.",
+        "_": null
+    },
+    {
+        "chapter": "VI",
+        "article": "82",
+        "lt": "Respublikos Prezidento priesaikos aktą pasirašo jis pats ir Konstitucinio Teismo pirmininkas, o jo nesant – vienas iš Konstitucinio Teismo teisėjų.",
+        "ru": "Акт о принесении присяги Президентом Республики подписывается им самим и председателем Конституционного Суда, а в его отсутствие – одним из судей Конституционного Суда.",
+        "_": null
+    },
+    {
+        "chapter": "VI",
+        "article": "83",
+        "lt": "Respublikos Prezidentas negali būti Seimo nariu, negali užimti jokių kitų pareigų ir gauti kitokio atlyginimo, išskyrus Respublikos Prezidentui nustatytą atlyginimą ir atlyginimą už kūrybinę veiklą.",
+        "ru": "Президент Республики не может быть членом Сейма, не может занимать никакие другие должности и получать иное вознаграждение, за исключением установленного Президенту Республики оклада и оплаты за творческую деятельность.",
+        "_": null
+    },
+    {
+        "chapter": "VI",
+        "article": "83",
+        "lt": "Asmuo, išrinktas Respublikos Prezidentu, turi sustabdyti savo veiklą politinėse partijose ir politinėse organizacijose iki naujos Respublikos Prezidento rinkimų kampanijos pradžios.",
+        "ru": "Лицо, избранное Президентом Республики, должно приостановить свою деятельность в политических партиях и политических организациях до начала новой кампании по выборам Президента Республики.",
+        "_": null
+    },
+    {
+        "chapter": "VI",
+        "article": "84",
+        "lt": "Respublikos Prezidentas:",
+        "ru": "Президент Республики:",
+        "_": null
+    },
+    {
+        "chapter": "VI",
+        "article": "84",
+        "lt": "1) sprendžia pagrindinius užsienio politikos klausimus ir kartu su Vyriausybe vykdo užsienio politiką;",
+        "ru": "1) решает важнейшие вопросы внешней политики и совместно с Правительством осуществляет внешнюю политику;",
+        "_": null
+    },
+    {
+        "chapter": "VI",
+        "article": "84",
+        "lt": "2) pasirašo Lietuvos Respublikos tarptautines sutartis ir teikia jas Seimui ratifikuoti;",
+        "ru": "2) подписывает международные договоры Литовской Республики и вносит их в Сейм для ратификации;",
+        "_": null
+    },
+    {
+        "chapter": "VI",
+        "article": "84",
+        "lt": "3) Vyriausybės teikimu skiria ir atšaukia Lietuvos Respublikos diplomatinius atstovus užsienio valstybėse ir prie tarptautinių organizacijų; priima užsienio valstybių diplomatinių atstovų įgaliojamuosius ir atšaukiamuosius raštus; teikia aukščiausius diplomatinius rangus ir specialius vardus;",
+        "ru": "3) по представлению Правительства назначает и отзывает дипломатических представителей Литовской Республики в иностранных государствах и при международных организациях; принимает верительные и отзывные грамоты дипломатических представителей иностранных государств; присваивает высшие дипломатические ранги и специальные звания;",
+        "_": null
+    },
+    {
+        "chapter": "VI",
+        "article": "84",
+        "lt": "4) Seimo pritarimu skiria Ministrą Pirmininką, paveda jam sudaryti Vyriausybę ir tvirtina jos sudėtį;",
+        "ru": "4) с одобрения Сейма назначает Премьер-министра, поручает ему формирование Правительства и утверждает его состав;",
+        "_": null
+    },
+    {
+        "chapter": "VI",
+        "article": "84",
+        "lt": "5) Seimo pritarimu atleidžia Ministrą Pirmininką;",
+        "ru": "5) с одобрения Сейма освобождает Премьер-министра;",
+        "_": null
+    },
+    {
+        "chapter": "VI",
+        "article": "84",
+        "lt": "6) priima Vyriausybės grąžinamus įgaliojimus išrinkus naują Seimą ir paveda jai eiti pareigas, kol bus sudaryta nauja Vyriausybė;",
+        "ru": "6) после избрания нового Сейма принимает слагаемые Правительством полномочия и поручает ему исполнять обязанности до сформирования нового Правительства;",
+        "_": null
+    },
+    {
+        "chapter": "VI",
+        "article": "84",
+        "lt": "7) priima Vyriausybės atsistatydinimą ir prireikus paveda jai toliau eiti pareigas arba paveda vienam iš ministrų eiti Ministro Pirmininko pareigas, kol bus sudaryta nauja Vyriausybė; priima ministrų atsistatydinimą ir gali pavesti jiems eiti pareigas, kol bus paskirtas naujas ministras;",
+        "ru": "7) принимает отставку Правительства и при необходимости поручает ему дальнейшее исполнение обязанностей или поручает одному из министров исполнять обязанности Премьер-министра до сформирования нового Правительства; принимает отставку министров и может поручить им исполнять обязанности до назначения нового министра;",
+        "_": null
+    },
+    {
+        "chapter": "VI",
+        "article": "84",
+        "lt": "8) Vyriausybei atsistatydinus ar Vyriausybei grąžinus įgaliojimus, ne vėliau kaip per 15 dienų teikia Seimui svarstyti Ministro Pirmininko kandidatūrą;",
+        "ru": "8) в случае отставки Правительства или сложения Правительством своих полномочий не позднее чем в течение 15 дней вносит на рассмотрение Сейма кандидатуру Премьер-министра;",
+        "_": null
+    },
+    {
+        "chapter": "VI",
+        "article": "84",
+        "lt": "9) Ministro Pirmininko teikimu skiria ir atleidžia ministrus;",
+        "ru": "9) по представлению Премьер-министра назначает и освобождает министров;",
+        "_": null
+    },
+    {
+        "chapter": "VI",
+        "article": "84",
+        "lt": "10) nustatyta tvarka skiria ir atleidžia įstatymų numatytus valstybės pareigūnus;",
+        "ru": "10) в установленном порядке назначает и освобождает предусмотренных законами государственных должностных лиц;",
+        "_": null
+    },
+    {
+        "chapter": "VI",
+        "article": "84",
+        "lt": "11) teikia Seimui Aukščiausiojo Teismo teisėjų kandidatūras, o paskyrus visus Aukščiausiojo Teismo teisėjus, iš jų teikia Seimui skirti Aukščiausiojo Teismo pirmininką; skiria Apeliacinio teismo teisėjus, o iš jų – Apeliacinio teismo pirmininką, jeigu jų kandidatūroms pritaria Seimas; skiria apygardų ir apylinkių teismų teisėjus ir pirmininkus, keičia jų darbo vietas; įstatymo numatytais atvejais teikia Seimui atleisti teisėjus; Seimo pritarimu skiria ir atleidžia Lietuvos Respublikos generalinį prokurorą;",
+        "ru": "11) представляет в Сейм кандидатуры судей Верховного Суда, а после назначения всех судей Верховного Суда из их числа представляет в Сейм для назначения кандидатуру председателя Верховного Суда; назначает судей Апелляционного суда, а из их числа – председателя Апелляционного суда, в случае одобрения их кандидатур Сеймом; назначает судей и председателей окружных и участковых судов, меняет места их работы; в предусмотренных законом случаях вносит в Сейм предложения об освобождении судей; с одобрения Сейма назначает и освобождает генерального прокурора Литовской Республики;",
+        "_": null
+    },
+    {
+        "chapter": "VI",
+        "article": "84",
+        "lt": "12) teikia Seimui trijų Konstitucinio Teismo teisėjų kandidatūras, o paskyrus visus Konstitucinio Teismo teisėjus, iš jų teikia Seimui skirti Konstitucinio Teismo pirmininko kandidatūrą;",
+        "ru": "12) представляет в Сейм кандидатуры трех судей Конституционного Суда, а после назначения всех судей Конституционного Суда из их числа представляет в Сейм для назначения кандидатуру председателя Конституционного Суда;",
+        "_": null
+    },
+    {
+        "chapter": "VI",
+        "article": "84",
+        "lt": "13) teikia Seimui valstybės kontrolieriaus, Lietuvos banko valdybos pirmininko kandidatūrą; gali teikti Seimui pareikšti nepasitikėjimą jais;",
+        "ru": "13) представляет в Сейм кандидатуру государственного контролера и председателя правления Банка Литвы; может внести в Сейм представление о выражении им недоверия;",
+        "_": null
+    },
+    {
+        "chapter": "VI",
+        "article": "84",
+        "lt": "14) Seimo pritarimu skiria ir atleidžia kariuomenės vadą ir saugumo tarnybos vadovą;",
+        "ru": "14) с одобрения Сейма назначает и освобождает командующего войсками и руководителя службы безопасности;",
+        "_": null
+    },
+    {
+        "chapter": "VI",
+        "article": "84",
+        "lt": "15) suteikia aukščiausius karinius laipsnius;",
+        "ru": "15) присваивает высшие воинские звания;",
+        "_": null
+    },
+    {
+        "chapter": "VI",
+        "article": "84",
+        "lt": "16) ginkluoto užpuolimo, gresiančio valstybės suverenumui ar teritorijos vientisumui, atveju priima sprendimus dėl gynybos nuo ginkluotos agresijos, karo padėties įvedimo, taip pat dėl mobilizacijos ir pateikia šiuos sprendimus tvirtinti artimiausiam Seimo posėdžiui;",
+        "ru": "16) в случае вооруженного нападения, представляющего угрозу суверенитету или территориальной целостности государства, принимает решения о защите от вооруженной агрессии, о введении военного положения, а также о мобилизации и представляет эти решения для утверждения на ближайшем заседании Сейма;",
+        "_": null
+    },
+    {
+        "chapter": "VI",
+        "article": "84",
+        "lt": "17) įstatymo nustatyta tvarka ir atvejais skelbia nepaprastąją padėtį ir pateikia šį sprendimą tvirtinti artimiausiam Seimo posėdžiui;",
+        "ru": "17) в установленных законом порядке и случаях объявляет чрезвычайное положение и представляет это решение для утверждения на ближайшем заседании Сейма;",
+        "_": null
+    },
+    {
+        "chapter": "VI",
+        "article": "84",
+        "lt": "18) daro Seime metinius pranešimus apie padėtį Lietuvoje, Lietuvos Respublikos vidaus ir užsienio politiką;",
+        "ru": "18) выступает в Сейме с ежегодными посланиями о положении в Литве, о внутренней и внешней политике Литовской Республики;",
+        "_": null
+    },
+    {
+        "chapter": "VI",
+        "article": "84",
+        "lt": "19) Konstitucijoje numatytais atvejais šaukia neeilinę Seimo sesiją;",
+        "ru": "19) в предусмотренных Конституцией случаях созывает внеочередную сессию Сейма;",
+        "_": null
+    },
+    {
+        "chapter": "VI",
+        "article": "84",
+        "lt": "20) skelbia eilinius Seimo rinkimus, o Konstitucijos 58 straipsnio antrojoje dalyje numatytais atvejais – pirmalaikius Seimo rinkimus;",
+        "ru": "20) назначает очередные выборы Сейма в предусмотренных частью второй статьи 58 Конституции случаях – досрочные выборы Сейма;",
+        "_": null
+    },
+    {
+        "chapter": "VI",
+        "article": "84",
+        "lt": "21) įstatymo nustatyta tvarka teikia Lietuvos Respublikos pilietybę;",
+        "ru": "21) в предусмотренном законом порядке предоставляет гражданство Литовской Республики;",
+        "_": null
+    },
+    {
+        "chapter": "VI",
+        "article": "84",
+        "lt": "22) skiria valstybinius apdovanojimus;",
+        "ru": "22) присваивает государственные награды;",
+        "_": null
+    },
+    {
+        "chapter": "VI",
+        "article": "84",
+        "lt": "23) teikia malonę nuteistiesiems;",
+        "ru": "23) оказывает помилование осужденным;",
+        "_": null
+    },
+    {
+        "chapter": "VI",
+        "article": "84",
+        "lt": "24) pasirašo ir skelbia Seimo priimtus įstatymus arba grąžina juos Seimui Konstitucijos 71 straipsnyje nustatyta tvarka.",
+        "ru": "24) подписывает и обнародует принятые Сеймом законы или возвращает их в Сейм в установленном статьей 71 Конституции порядке.",
+        "_": null
+    },
+    {
+        "chapter": "VI",
+        "article": "85",
+        "lt": "Respublikos Prezidentas, įgyvendindamas jam suteiktus įgaliojimus, leidžia aktus-dekretus. Kad Respublikos Prezidento dekretai, nurodyti Konstitucijos 84 straipsnio 3, 15, 17 ir 21 punktuose turėtų galią, jie privalo būti pasirašyti Ministro Pirmininko arba atitinkamo ministro. Atsakomybė už tokį dekretą tenka jį pasirašiusiam Ministrui Pirmininkui arba ministrui.",
+        "ru": "Президент Республики, осуществляя возложенные на него полномочия, издает акты-декреты. Для придания юридической силы декретам Президента Республики, указанным в пунктах 3, 15, 17 и 21 статьи 84 Конституции, они должны быть подписаны Премьер-министром или соответствующим министром. Ответственность за такой декрет возлагается на подписавшего его Премьер-министра или министра.",
+        "_": null
+    },
+    {
+        "chapter": "VI",
+        "article": "86",
+        "lt": "Respublikos Prezidento asmuo neliečiamas: kol eina savo pareigas, jis negali būti suimtas, patrauktas baudžiamojon ar administracinėn atsakomybėn.",
+        "ru": "Личность Президента Республики неприкосновенна: до тех пор, пока он исполняет свои обязанности, он не может быть арестован, привлечен к уголовной или административной ответственности.",
+        "_": null
+    },
+    {
+        "chapter": "VI",
+        "article": "86",
+        "lt": "Respublikos Prezidentas gali būti prieš laiką pašalintas iš pareigų tik šiurkščiai pažeidęs Konstituciją arba sulaužęs priesaiką, taip pat paaiškėjus, jog padarytas nusikaltimas. Respublikos Prezidento pašalinimo iš pareigų klausimą sprendžia Seimas apkaltos proceso tvarka.",
+        "ru": "Президент Республики может быть досрочно отрешен от должности только в случае грубого нарушения им Конституции или присяги, а также в случае выявления факта совершения преступления. Вопрос об отрешении Президента Республики от должности решается Сеймом в порядке процесса импичмента.",
+        "_": null
+    },
+    {
+        "chapter": "VI",
+        "article": "87",
+        "lt": "Kai Konstitucijos 58 straipsnio antrojoje dalyje numatytais atvejais Respublikos Prezidentas skelbia pirmalaikius Seimo rinkimus, naujai išrinktas Seimas 3/5 visų Seimo narių balsų dauguma per 30 dienų nuo pirmosios posėdžio dienos gali paskelbti pirmalaikius Respublikos Prezidento rinkimus.",
+        "ru": "При объявлении Президентом Республики досрочных выборов Сейма в случаях, предусмотренных частью второй статьи 58 Конституции, вновь избранный Сейм большинством 3/5 голосов от общего числа членов Сейма в течение 30 дней со дня первого заседания может назначить досрочные выборы Президента Республики.",
+        "_": null
+    },
+    {
+        "chapter": "VI",
+        "article": "87",
+        "lt": "Respublikos Prezidentas, pageidaujantis dalyvauti rinkimuose, iš karto įregistruojamas kandidatu.",
+        "ru": "Президент Республики, выразивший желание участвовать в выборах, сразу регистрируется в качестве кандидата.",
+        "_": null
+    },
+    {
+        "chapter": "VI",
+        "article": "87",
+        "lt": "Tokiuose rinkimuose pakartotinai išrinktas Respublikos Prezidentas laikomas išrinktu antrajai kadencijai, jeigu iki rinkimų praėjo daugiau kaip trys metai jo pirmosios kadencijos laiko. Jeigu praėjo mažiau negu trys metai jo pirmosios kadencijos laiko – Respublikos Prezidentas renkamas tik likusiam pirmosios kadencijos laikui, kuris nelaikomas antrąja kadencija.",
+        "ru": "Повторно избранный на таких выборах Президент Республики считается избранным на второй срок полномочий, если до выборов прошло более трех лет первого срока его полномочий. Если прошло менее трех лет первого срока его полномочий – Президент Республики избирается только на срок, оставшийся от первого срока полномочий, ко­торый не считается вторым сроком полномочий.",
+        "_": null
+    },
+    {
+        "chapter": "VI",
+        "article": "87",
+        "lt": "Jeigu pirmalaikiai Respublikos Prezidento rinkimai skelbiami jo antrosios kadencijos metu, tai esamas Respublikos Prezidentas gali būti išrinktas tik likusiam antrosios kadencijos laikui.",
+        "ru": "Если досрочные выборы Президента Республики назначаются во время второго срока его полномочий, то настоящий Президент Республики может быть избран только на срок, оставшийся от второго срока полномочий.",
+        "_": null
+    },
+    {
+        "chapter": "VI",
+        "article": "88",
+        "lt": "Respublikos Prezidento įgaliojimai nutrūksta, kai:",
+        "ru": "Полномочия Президента Республики прекращаются в случае:",
+        "_": null
+    },
+    {
+        "chapter": "VI",
+        "article": "88",
+        "lt": "1) pasibaigia laikas, kuriam jis buvo išrinktas;",
+        "ru": "1) истечения срока, на который он был избран;",
+        "_": null
+    },
+    {
+        "chapter": "VI",
+        "article": "88",
+        "lt": "2) įvyksta pirmalaikiai Respublikos Prezidento rinkimai;",
+        "ru": "2) проведения досрочных выборов Президента Республики;",
+        "_": null
+    },
+    {
+        "chapter": "VI",
+        "article": "88",
+        "lt": "3) atsistatydina iš pareigų;",
+        "ru": "3) его отставки с занимаемой должности;",
+        "_": null
+    },
+    {
+        "chapter": "VI",
+        "article": "88",
+        "lt": "4) Respublikos Prezidentas miršta;",
+        "ru": "4) смерти Президента Республики;",
+        "_": null
+    },
+    {
+        "chapter": "VI",
+        "article": "88",
+        "lt": "5) Seimas jį pašalina iš pareigų apkaltos proceso tvarka;",
+        "ru": "5) отрешения его Сеймом от должности в порядке процесса импичмента;",
+        "_": null
+    },
+    {
+        "chapter": "VI",
+        "article": "88",
+        "lt": "6) Seimas, atsižvelgdamas į Konstitucinio Teismo išvadą, 3/5 visų Seimo narių balsų dauguma priima nutarimą, kuriuo konstatuojama, kad Respublikos Prezidento sveikatos būklė neleidžia jam eiti savo pareigų.",
+        "ru": "6) принятия Сеймом с учетом заключения Конституционного Суда большинством 3/5 голосов от общего числа членов Сейма постановления, в котором констатируется, что состояние здоровья Президента Республики не позволяет ему исполнять свои обязанности.",
+        "_": null
+    },
+    {
+        "chapter": "VI",
+        "article": "89",
+        "lt": "Respublikos Prezidentui mirus, atsistatydinus, pašalinus jį iš pareigų apkaltos proceso tvarka ar tada, kai Seimas nutaria, kad Respublikos Prezidento sveikatos būklė neleidžia jam eiti pareigų, jo pareigas laikinai eina Seimo Pirmininkas. Šiuo atveju Seimo Pirmininkas netenka savo įgaliojimų Seime, kur jo pareigas Seimo pavedimu laikinai eina jo pavaduotojas. Išvardytais atvejais Seimas ne vėliau kaip per 10 dienų privalo paskirti Respublikos Prezidento rinkimus, kurie turi būti surengti ne vėliau kaip per du mėnesius. Seimui negalint susirinkti ir paskelbti Respublikos Prezidento rinkimų, rinkimus skelbia Vyriausybė.",
+        "ru": "В случае смерти, отставки Президента Республики, отрешения его от должности в порядке процесса импичмента или в случае принятия Сеймом постановления о невозможности исполнения Президентом Республики своих обязанностей по состоянию здоровья его обязанности временно исполняет Председатель Сейма. В таком случае Председатель Сейма лишается своих полномочий в Сейме, где его обязанности по поручению Сейма временно исполняются его заместителем. В перечисленных случаях Сейм не позднее чем в течение 10 дней обязан назна­чить выборы Президента Республики, которые должны быть проведены не позднее чем в течение двух месяцев. В случае, если Сейм не может собраться и назначить выборы Президента Республики, выборы объявляются Правительством.",
+        "_": null
+    },
+    {
+        "chapter": "VI",
+        "article": "89",
+        "lt": "Respublikos Prezidentą, laikinai išvykusį į užsienį arba susirgusį ir dėl to laikinai negalintį eiti pareigų, tuo laiku pavaduoja Seimo Pirmininkas.",
+        "ru": "Президент Республики, временно отбывший за границу или заболев­ший и в связи с этим временно не имеющий возможности исполнять свои обязанности, в течение этого срока замещается Председателем Сейма.",
+        "_": null
+    },
+    {
+        "chapter": "VI",
+        "article": "89",
+        "lt": "Laikinai pavaduodamas Respublikos Prezidentą, Seimo Pirmininkas negali skelbti pirmalaikių Seimo rinkimų, atleisti ar skirti ministrų be Seimo sutikimo. Tuo laikotarpiu Seimas negali svarstyti klausimo dėl nepasitikėjimo Seimo Pirmininku.",
+        "ru": "Временно замещающий Президента Республики Председатель Сейма не может объявлять досрочные выборы Сейма, освобождать или назначать министров без согласия Сейма. В этот период Сеймом не может рассматриваться вопрос о выражении недоверия Председателю Сейма.",
+        "_": null
+    },
+    {
+        "chapter": "VI",
+        "article": "89",
+        "lt": "Jokiais kitais atvejais ir jokiems kitiems asmenims ar institucijoms negalima vykdyti Respublikos Prezidento įgaliojimų.",
+        "ru": "Осуществление полномочий Президента Республики ни в каких иных случаях и никакими другими лицами или органами не допускается.",
+        "_": null
+    },
+    {
+        "chapter": "VI",
+        "article": "90",
+        "lt": "Respublikos Prezidentas turi rezidenciją. Respublikos Prezidento ir jo rezidencijos finansavimą nustato įstatymas.",
+        "ru": "Президент Республики имеет резиденцию. Финансирование Президента Республики и его резиденции устанавливается законом.",
+        "_": null
+    },
+    {
+        "chapter": "VII",
+        "article": "91",
+        "lt": "Lietuvos Respublikos Vyriausybę sudaro Ministras Pirmininkas ir ministrai.",
+        "ru": "Правительство Литовской Республики состоит из Премьер-министра и министров.",
+        "_": null
+    },
+    {
+        "chapter": "VII",
+        "article": "92",
+        "lt": "Ministrą Pirmininką Seimo pritarimu skiria ir atleidžia Respublikos Prezidentas.",
+        "ru": "Премьер-министр с одобрения Сейма назначается и освобождается Президентом Республики.",
+        "_": null
+    },
+    {
+        "chapter": "VII",
+        "article": "92",
+        "lt": "Ministrus skiria ir atleidžia Ministro Pirmininko teikimu Respublikos Prezidentas.",
+        "ru": "Министры по представлению Премьер-министра назначаются и освобождаются Президентом Республики.",
+        "_": null
+    },
+    {
+        "chapter": "VII",
+        "article": "92",
+        "lt": "Ministras Pirmininkas ne vėliau kaip per 15 dienų nuo jo paskyrimo pristato Seimui savo sudarytą ir Respublikos Prezidento patvirtintą Vyriausybę ir pateikia svarstyti jos programą.",
+        "ru": "Премьер-министр не позднее чем в течение 15 дней, с момента его назначения представляет Сейму им сформированное и утвержденное Президентом Республики Правительство и вносит на рассмотрение программу Правительства.",
+        "_": null
+    },
+    {
+        "chapter": "VII",
+        "article": "92",
+        "lt": "Vyriausybė grąžina savo įgaliojimus Respublikos Prezidentui po Seimo rinkimų arba išrinkus Respublikos Prezidentą.",
+        "ru": "Правительство слагает свои полномочия перед Президентом Республики после выборов Сейма или в случае избрания Президента Республики.",
+        "_": null
+    },
+    {
+        "chapter": "VII",
+        "article": "92",
+        "lt": "Nauja Vyriausybė gauna įgaliojimus veikti, kai Seimas posėdyje dalyvaujančių Seimo narių balsų dauguma pritaria jos programai.",
+        "ru": "Полномочия на осуществление своей деятельности новое Правительство получает в случае одобрения его программы большинством голосов участвующих в заседании Сейма членов Сейма.",
+        "_": null
+    },
+    {
+        "chapter": "VII",
+        "article": "93",
+        "lt": "Pradėdami eiti savo pareigas, Ministras Pirmininkas ir ministrai Seime prisiekia būti ištikimi Lietuvos Respublikai, laikytis Konstitucijos ir įstatymų. Priesaikos tekstą nustato Vyriausybės įstatymas.",
+        "ru": "Приступая к исполнению своих обязанностей, Премьер-министр и министры приносят в Сейме присягу хранить верность Литовской Республике, соблюдать Конституцию и законы. Текст присяги устанавли­вается Законом о Правительстве.",
+        "_": null
+    },
+    {
+        "chapter": "VII",
+        "article": "94",
+        "lt": "Lietuvos Respublikos Vyriausybė:",
+        "ru": "Правительство Литовской Республики:",
+        "_": null
+    },
+    {
+        "chapter": "VII",
+        "article": "94",
+        "lt": "1) tvarko krašto reikalus, saugo Lietuvos Respublikos teritorijos neliečiamybę, garantuoja valstybės saugumą ir viešąją tvarką;",
+        "ru": "1) управляет делами края, охраняет территориальную неприкосновенность Литовской Республики, гарантирует государственную безопасность и общественный порядок;",
+        "_": null
+    },
+    {
+        "chapter": "VII",
+        "article": "94",
+        "lt": "2) vykdo įstatymus ir Seimo nutarimus dėl įstatymų įgyvendinimo, taip pat Respublikos Prezidento dekretus;",
+        "ru": "2) исполняет законы и постановления Сейма об осуществлении законов, а также декреты Президента Республики;",
+        "_": null
+    },
+    {
+        "chapter": "VII",
+        "article": "94",
+        "lt": "3) koordinuoja ministerijų ir kitų Vyriausybės įstaigų veiklą;",
+        "ru": "3) координирует деятельность министерств и других правительственных учреждений;",
+        "_": null
+    },
+    {
+        "chapter": "VII",
+        "article": "94",
+        "lt": "4) rengia valstybės biudžeto projektą ir teikia jį Seimui; vykdo valstybės biudžetą, teikia Seimui biudžeto įvykdymo apyskaitą;",
+        "ru": "4) подготавливает проект государственного бюджета и вносит его в Сейм; исполняет государственный бюджет, представляет в Сейм отчет об исполнении бюджета;",
+        "_": null
+    },
+    {
+        "chapter": "VII",
+        "article": "94",
+        "lt": "5) rengia ir teikia Seimui svarstyti įstatymų projektus;",
+        "ru": "5) подготавливает и вносит в Сейм на рассмотрение проекты законов;",
+        "_": null
+    },
+    {
+        "chapter": "VII",
+        "article": "94",
+        "lt": "6) užmezga diplomatinius santykius ir palaiko ryšius su užsienio valstybėmis ir tarptautinėmis organizacijomis;",
+        "ru": "6) устанавливает дипломатические отношения и поддерживает связи с иностранными государствами и международными организациями;",
+        "_": null
+    },
+    {
+        "chapter": "VII",
+        "article": "94",
+        "lt": "7) vykdo kitas pareigas, kurias Vyriausybei paveda Konstitucija ir kiti įstatymai.",
+        "ru": "7) исполняет другие обязанности, возлагаемые на Правительство Конституцией и другими законами.",
+        "_": null
+    },
+    {
+        "chapter": "VII",
+        "article": "95",
+        "lt": "Lietuvos Respublikos Vyriausybė valstybės valdymo reikalus sprendžia posėdžiuose visų Vyriausybės narių balsų dauguma priimdama nutarimus. Vyriausybės posėdžiuose taip pat gali dalyvauti valstybės kontrolierius.",
+        "ru": "Правительство Литовской Республики решает вопросы государственного управления на заседаниях путем принятия постановлений большинством голосов от общего числа членов Правительства. В заседаниях Правительства также может участвовать государственный контролер.",
+        "_": null
+    },
+    {
+        "chapter": "VII",
+        "article": "95",
+        "lt": "Vyriausybės nutarimus pasirašo Ministras Pirmininkas ir tos srities ministras.",
+        "ru": "Постановления Правительства подписываются Премьер-министром и министром соответствующей отрасли.",
+        "_": null
+    },
+    {
+        "chapter": "VII",
+        "article": "96",
+        "lt": "Lietuvos Respublikos Vyriausybė solidariai atsako Seimui už bendrą Vyriausybės veiklą.",
+        "ru": "Правительство Литовской Республики несет солидарную ответственность перед Сеймом за общую деятельность Правительства.",
+        "_": null
+    },
+    {
+        "chapter": "VII",
+        "article": "96",
+        "lt": "Ministrai, vadovaudami jiems pavestoms valdymo sritims, atsakingi Seimui, Respublikos Prezidentui ir tiesiogiai pavaldūs Ministrui Pirmininkui.",
+        "ru": "Министры, осуществляя руководство порученными им сферами управления, несут ответственность перед Сеймом, Президентом Республики и непосредственно подотчетны Премьер-министру.",
+        "_": null
+    },
+    {
+        "chapter": "VII",
+        "article": "97",
+        "lt": "Ministras Pirmininkas atstovauja Lietuvos Respublikos Vyriausybei ir vadovauja jos veiklai.",
+        "ru": "Премьер-министр представляет Правительство Литовской Республики и руководит его деятельностью.",
+        "_": null
+    },
+    {
+        "chapter": "VII",
+        "article": "97",
+        "lt": "Kol nėra Ministro Pirmininko ar jis negali eiti savo pareigų, Respublikos Prezidentas ne ilgesniam kaip 60 dienų laikui Ministro Pirmininko teikimu paveda vienam iš ministrų jį pavaduoti, o kai tokio teikimo nėra, Respublikos Prezidentas vienam iš ministrų paveda pavaduoti Ministrą Pirmininką.",
+        "ru": "В отсутствие Премьер-министра или в случае невозможности им исполнять свои обязанности Президент Республики на срок не более чем 60 дней по представлению Премьер-министра поручает одному из министров замещать его, а в случае отсутствия такого представления Президент Республики поручает одному из министров замещать Премьер-министра.",
+        "_": null
+    },
+    {
+        "chapter": "VII",
+        "article": "98",
+        "lt": "Ministras vadovauja ministerijai, sprendžia ministerijos kompetencijai priklausančius klausimus, taip pat vykdo kitas įstatymų numatytas funkcijas.",
+        "ru": "Министр руководит министерством, решает относящиеся к компетенции министерства вопросы, а также исполняет иные предусмотренные законами функции.",
+        "_": null
+    },
+    {
+        "chapter": "VII",
+        "article": "98",
+        "lt": "Ministrą laikinai gali pavaduoti tik Ministro Pirmininko paskirtas kitas Vyriausybės narys.",
+        "ru": "Временно замещать министра может только назначенный Премьер-министром другой член Правительства.",
+        "_": null
+    },
+    {
+        "chapter": "VII",
+        "article": "99",
+        "lt": "Ministras Pirmininkas ir ministrai negali užimti jokių kitų renkamų ar skiriamų pareigų, dirbti verslo, komercijos ar kitokiose privačiose įstaigose ar įmonėse, taip pat gauti kitokį atlyginimą, išskyrus jam nustatytą pagal pareigas Vyriausybėje bei užmokestį už kūrybinę veiklą.",
+        "ru": "Премьер-министр и министры не могут занимать никакие другие выборные или назначаемые должности, работать в предпринимательских, коммерческих или иных частных учреждениях или на предприятиях, а также получать иное вознаграждение, за исключением оклада, установленного в соответствии с его должностью в Правительстве, и оплаты за творческую деятельность.",
+        "_": null
+    },
+    {
+        "chapter": "VII",
+        "article": "100",
+        "lt": "Ministras Pirmininkas ir ministrai negali būti patraukti baudžiamojon atsakomybėn, suimti, negali būti kitaip suvaržyta jų laisvė be išankstinio Seimo sutikimo, o tarp Seimo sesijų – be išankstinio Respublikos Prezidento sutikimo.",
+        "ru": "Премьер-министр и министры не могут быть привлечены к уголовной ответственности, арестованы, не может быть иным способом ограничена их свобода без предварительного согласия Сейма, а в период между сессиями Сейма – без предварительного согласия Президента Республики.",
+        "_": null
+    },
+    {
+        "chapter": "VII",
+        "article": "101",
+        "lt": "Seimo reikalavimu Vyriausybė arba atskiri ministrai turi atsiskaityti Seime už savo veiklą.",
+        "ru": "По требованию Сейма Правительство или отдельные министры должны отчитаться перед Сеймом за свою деятельность.",
+        "_": null
+    },
+    {
+        "chapter": "VII",
+        "article": "101",
+        "lt": "Kai pasikeičia daugiau kaip pusė ministrų, Vyriausybė turi iš naujo gauti Seimo įgaliojimus. Priešingu atveju Vyriausybė turi atsistatydinti.",
+        "ru": "Если меняется свыше половины министров, Правительство должно вновь получить полномочия от Сейма. В противном случае Правительство должно подать в отставку.",
+        "_": null
+    },
+    {
+        "chapter": "VII",
+        "article": "101",
+        "lt": "Vyriausybė privalo atsistatydinti taip pat šiais atvejais:",
+        "ru": "Правительство обязано подать в отставку также в следующих случаях:",
+        "_": null
+    },
+    {
+        "chapter": "VII",
+        "article": "101",
+        "lt": "1) kai Seimas du kartus iš eilės nepritaria naujai sudarytos Vyriausybės programai;",
+        "ru": "1) если Сейм два раза подряд не одобряет программу вновь образованного Правительства;",
+        "_": null
+    },
+    {
+        "chapter": "VII",
+        "article": "101",
+        "lt": "2) kai Seimas visų Seimo narių balsų dauguma slaptu balsavimu pareiškia nepasitikėjimą Vyriausybe ar Ministru Pirmininku;",
+        "ru": "2) если Сейм большинством голосов от общего числа членов Сейма тайным голосованием выражает недоверие Правительству или Премьер-министру;",
+        "_": null
+    },
+    {
+        "chapter": "VII",
+        "article": "101",
+        "lt": "3) kai Ministras Pirmininkas atsistatydina ar miršta;",
+        "ru": "3) отставки или смерти Премьер-министра;",
+        "_": null
+    },
+    {
+        "chapter": "VII",
+        "article": "101",
+        "lt": "4) po Seimo rinkimų, kai sudaroma nauja Vyriausybė.",
+        "ru": "4) после выборов Сейма, когда формируется новое Правительство.",
+        "_": null
+    },
+    {
+        "chapter": "VII",
+        "article": "101",
+        "lt": "Ministras privalo atsistatydinti, kai nepasitikėjimą juo slaptu balsavimu pareiškia daugiau kaip pusė visų Seimo narių.",
+        "ru": "Министр обязан подать в отставку в случае выражения ему недоверия тайным голосованием более чем половиной от общего числа членов Сейма.",
+        "_": null
+    },
+    {
+        "chapter": "VII",
+        "article": "101",
+        "lt": "Vyriausybės ar ministro atsistatydinimą priima Respublikos Prezidentas.",
+        "ru": "Отставка Правительства или министра принимается Президентом Республики.",
+        "_": null
+    },
+    {
+        "chapter": "VIII",
+        "article": "102",
+        "lt": "Konstitucinis Teismas sprendžia, ar įstatymai ir kiti Seimo aktai neprieštarauja Konstitucijai, o Respublikos Prezidento ir Vyriausybės aktai – neprieštarauja Konstitucijai arba įstatymams.",
+        "ru": "Конституционный Суд принимает решение о соответствии законов и других актов Сейма Конституции, а актов Президента Республики и Правительства – Конституции или законам.",
+        "_": null
+    },
+    {
+        "chapter": "VIII",
+        "article": "102",
+        "lt": "Konstitucinio Teismo statusą ir jo įgaliojimų vykdymo tvarką nustato Lietuvos Respublikos Konstitucinio Teismo įstatymas.",
+        "ru": "Статус Конституционного Суда и порядок осуществления его полномочий устанавливаются Законом Литовской Республики о Конституционном Суде.",
+        "_": null
+    },
+    {
+        "chapter": "VIII",
+        "article": "103",
+        "lt": "Konstitucinį Teismą sudaro 9 teisėjai, skiriami devyneriems metams ir tik vienai kadencijai. Konstitucinis Teismas kas treji metai atnaujinamas vienu trečdaliu. Po tris kandidatus į Konstitucinio Teismo teisėjus skiria Seimas iš kandidatų, kuriuos pateikia Respublikos Prezidentas, Seimo Pirmininkas ir Aukščiausiojo Teismo pirmininkas, o teisėjais juos skiria Seimas.",
+        "ru": "Конституционный Суд состоит из 9 судей, назначаемых сроком на девять лет и только на один срок полномочий. Состав Конституционного Суда каждые три года обновляется на одну треть. По три кандидата в судьи Конституционного Суда назначаются Сеймом из числа кандидатов, представляемых Президентом Республики, Председателем Сейма и председателем Верховного Суда, а судьями их назначает Сейм.",
+        "_": null
+    },
+    {
+        "chapter": "VIII",
+        "article": "103",
+        "lt": "Konstitucinio Teismo pirmininką iš šio teismo teisėjų skiria Seimas Respublikos Prezidento teikimu.",
+        "ru": "Председатель Конституционного Суда из числа судей этого суда назначается Сеймом по представлению Президента Республики.",
+        "_": null
+    },
+    {
+        "chapter": "VIII",
+        "article": "103",
+        "lt": "Konstitucinio Teismo teisėjais gali būti skiriami nepriekaištingos reputacijos Lietuvos Respublikos piliečiai, turintys aukštąjį teisinį išsilavinimą ir ne mažesnį kaip 10 metų teisinio ar mokslinio pedagoginio darbo pagal teisininko specialybę stažą.",
+        "ru": "Судьями Конституционного Суда могут назначаться граждане Литовской Республики, имеющие безукоризненную репутацию, высшее юридическое образование и стаж юридической или научно-педагогической работы по специальности юриста не менее 10 лет.",
+        "_": null
+    },
+    {
+        "chapter": "VIII",
+        "article": "104",
+        "lt": "Konstitucinio Teismo teisėjai, eidami savo pareigas, yra nepriklausomi nuo jokios valstybinės institucijos, asmens ar organizacijos ir vadovaujasi tik Lietuvos Respublikos Konstitucija.",
+        "ru": "Судьи Конституционного Суда при исполнении своих обязанностей независимы от какого-либо государственного института, лица или организации и руководствуются только Конституцией Литовской Республики.",
+        "_": null
+    },
+    {
+        "chapter": "VIII",
+        "article": "104",
+        "lt": "Prieš pradėdami eiti savo pareigas, Konstitucinio Teismo teisėjai Seime prisiekia būti ištikimi Lietuvos Respublikai ir Konstitucijai.",
+        "ru": "До приступления к исполнению своих обязанностей судьи Конституционного Суда приносят в Сейме присягу на верность Литовской Республике и Конституции.",
+        "_": null
+    },
+    {
+        "chapter": "VIII",
+        "article": "104",
+        "lt": "Konstitucinio Teismo teisėjams taikomi darbo ir politinės veiklos apribojimai, nustatyti teismų teisėjams.",
+        "ru": "В отношении судей Конституционного Суда применяются ограничения трудовой и политической деятельности, установленные для судей судов.",
+        "_": null
+    },
+    {
+        "chapter": "VIII",
+        "article": "104",
+        "lt": "Konstitucinio Teismo teisėjai turi tokią pat asmens neliečiamybės teisę kaip ir Seimo nariai.",
+        "ru": "Судьи Конституционного Суда обладают таким же правом неприкосновенности личности, как и члены Сейма.",
+        "_": null
+    },
+    {
+        "chapter": "VIII",
+        "article": "105",
+        "lt": "Konstitucinis Teismas nagrinėja ir priima sprendimą, ar neprieštarauja Lietuvos Respublikos Konstitucijai Lietuvos Respublikos įstatymai ir kiti Seimo priimti aktai.",
+        "ru": "Конституционный Суд рассматривает и принимает решения о соответствии законов Литовской Республики и других принятых Сеймом актов Конституции Литовской Республики.",
+        "_": null
+    },
+    {
+        "chapter": "VIII",
+        "article": "105",
+        "lt": "Konstitucinis Teismas taip pat nagrinėja, ar neprieštarauja Konstitucijai ir įstatymams:",
+        "ru": "Конституционный Суд также рассматривает соответствие Конституции и законам:",
+        "_": null
+    },
+    {
+        "chapter": "VIII",
+        "article": "105",
+        "lt": "1) Respublikos Prezidento aktai;",
+        "ru": "1) актов Президента Республики;",
+        "_": null
+    },
+    {
+        "chapter": "VIII",
+        "article": "105",
+        "lt": "2) Respublikos Vyriausybės aktai.",
+        "ru": "2) актов Правительства Республики.",
+        "_": null
+    },
+    {
+        "chapter": "VIII",
+        "article": "105",
+        "lt": "Konstitucinis Teismas teikia išvadas:",
+        "ru": "Конституционный Суд дает заключения относительно того:",
+        "_": null
+    },
+    {
+        "chapter": "VIII",
+        "article": "105",
+        "lt": "1) ar nebuvo pažeisti rinkimų įstatymai per Respublikos Prezidento ar Seimo narių rinkimus;",
+        "ru": "1) имелись ли нарушения законов о выборах в ходе выборов Президента Республики или членов Сейма;",
+        "_": null
+    },
+    {
+        "chapter": "VIII",
+        "article": "105",
+        "lt": "2) ar Respublikos Prezidento sveikatos būklė leidžia jam ir toliau eiti pareigas;",
+        "ru": "2) позволяет ли состояние здоровья Президента Республики исполнять им в дальнейшем свои обязанности;",
+        "_": null
+    },
+    {
+        "chapter": "VIII",
+        "article": "105",
+        "lt": "3) ar Lietuvos Respublikos tarptautinės sutartys neprieštarauja Konstitucijai;",
+        "ru": "3) не противоречат ли международные договоры Литовской Республики Конституции;",
+        "_": null
+    },
+    {
+        "chapter": "VIII",
+        "article": "105",
+        "lt": "4) ar Seimo narių ir valstybės pareigūnų, kuriems pradėta apkaltos byla, konkretūs veiksmai prieštarauja Konstitucijai.",
+        "ru": "4) противоречат ли Конституции конкретные действия членов Сейма и государственных должностных лиц, в отношении которых возбуждено дело об импичменте.",
+        "_": null
+    },
+    {
+        "chapter": "VIII",
+        "article": "106",
+        "lt": "Teisę kreiptis į Konstitucinį Teismą dėl 105 straipsnio pirmojoje dalyje nurodytų aktų turi Vyriausybė, ne mažiau kaip 1/5 visų Seimo narių, taip pat teismai.",
+        "ru": "Право обращения в Конституционный Суд по поводу указанных в части первой статьи 105 актов имеют Правительство, не менее 1/5 от общего числа членов Сейма, а также суды.",
+        "_": null
+    },
+    {
+        "chapter": "VIII",
+        "article": "106",
+        "lt": "Dėl Respublikos Prezidento aktų sutikimo su Konstitucija ir įstatymais į Konstitucinį Teismą turi teisę kreiptis ne mažiau kaip 1/5 visų Seimo narių ir teismai.",
+        "ru": "Обращаться в Конституционный Суд относительно соответствия актов Президента Республики Конституции и законам имеют право не менее 1/5 от общего числа членов Сейма и суды.",
+        "_": null
+    },
+    {
+        "chapter": "VIII",
+        "article": "106",
+        "lt": "Dėl Vyriausybės aktų sutikimo su Konstitucija ir įstatymais į Konstitucinį Teismą gali kreiptis ne mažiau kaip 1/5 visų Seimo narių, teismai, taip pat Respublikos Prezidentas.",
+        "ru": "Обращаться в Конституционный Суд относительно соответствия ак­тов Правительства Конституции и законам могут не менее 1/5 от общего числа членов Сейма, суды, а также Президент Республики.",
+        "_": null
+    },
+    {
+        "chapter": "VIII",
+        "article": "106",
+        "lt": "Kiekvienas asmuo turi teisę kreiptis į Konstitucinį Teismą dėl Konstitucijos 105 straipsnio pirmojoje ir antrojoje dalyse nurodytų aktų, jeigu jų pagrindu priimtas sprendimas pažeidė šio asmens konstitucines teises ar laisves ir šis asmuo išnaudojo visas teisinės gynybos priemones. Šios teisės įgyvendinimo tvarką nustato Konstitucinio Teismo įstatymas.",
+        "ru": "",
+        "_": null
+    },
+    {
+        "chapter": "VIII",
+        "article": "106",
+        "lt": "Respublikos Prezidento teikimas Konstituciniam Teismui ar Seimo nutarimas ištirti, ar aktas sutinka su Konstitucija, sustabdo šio akto galiojimą.",
+        "ru": "Представление Президента Республики в Конституционный Суд или постановление Сейма о рассмотрении соответствия акта Конституции приостанавливают действие этого акта.",
+        "_": null
+    },
+    {
+        "chapter": "VIII",
+        "article": "106",
+        "lt": "Prašyti Konstitucinio Teismo išvados gali Seimas, o dėl Seimo rinkimų ir tarptautinių sutarčių – ir Respublikos Prezidentas.",
+        "ru": "Обращаться с ходатайством в Конституционный Суд о даче заключения может Сейм, а по поводу выборов Сейма и международных договоров – и Президент Республики.",
+        "_": null
+    },
+    {
+        "chapter": "VIII",
+        "article": "106",
+        "lt": "Konstitucinis Teismas turi teisę atsisakyti priimti nagrinėti bylą ar rengti išvadą, jeigu kreipimasis grindžiamas ne teisiniais motyvais.",
+        "ru": "Конституционный Суд вправе отказаться от рассмотрения дела или подготовки заключения, если обращение основывается не на правовых мотивах.",
+        "_": null
+    },
+    {
+        "chapter": "VIII",
+        "article": "107",
+        "lt": "Lietuvos Respublikos įstatymas (ar jo dalis) arba kitas Seimo aktas (ar jo dalis), Respublikos Prezidento aktas, Vyriausybės aktas (ar jo dalis) negali būti taikomi nuo tos dienos, kai oficialiai paskelbiamas Konstitucinio Teismo sprendimas, kad atitinkamas aktas (ar jo dalis) prieštarauja Lietuvos Respublikos Konstitucijai.",
+        "ru": "Закон Литовской Республики (или его часть) либо иной акт Сейма (или его часть), акт Президента Республики, акт Правительства (или его часть) не могут применяться со дня официального обнародования решения Конституционного Суда о противоречии соответствующего акта (или его части) Конституции Литовской Республики.",
+        "_": null
+    },
+    {
+        "chapter": "VIII",
+        "article": "107",
+        "lt": "Konstitucinio Teismo sprendimai klausimais, kuriuos Konstitucija priskiria jo kompetencijai, yra galutiniai ir neskundžiami.",
+        "ru": "Решения Конституционного Суда по вопросам, отнесенным Конституцией к его компетенции, являются окончательными и обжалованию не подлежат.",
+        "_": null
+    },
+    {
+        "chapter": "VIII",
+        "article": "107",
+        "lt": "Byloje pagal Konstitucijos 106 straipsnio ketvirtojoje dalyje nurodyto asmens kreipimąsi priimtas Konstitucinio Teismo sprendimas, kad Lietuvos Respublikos įstatymas (ar jo dalis) arba kitas Seimo aktas (ar jo dalis), Respublikos Prezidento aktas, Vyriausybės aktas (ar jo dalis) prieštarauja Konstitucijai, yra pagrindas įstatymo nustatyta tvarka atnaujinti procesą dėl pažeistų to asmens konstitucinių teisių ar laisvių įgyvendinimo.",
+        "ru": "",
+        "_": null
+    },
+    {
+        "chapter": "VIII",
+        "article": "107",
+        "lt": "Remdamasis Konstitucinio Teismo išvadomis, Konstitucijos 105 straipsnio trečiojoje dalyje nurodytus klausimus galutinai sprendžia Seimas.",
+        "ru": "На основании заключений Конституционного Суда окончательные решения по указанным в части третьей статьи 105 Конституции вопросам принимаются Сеймом.",
+        "_": null
+    },
+    {
+        "chapter": "VIII",
+        "article": "108",
+        "lt": "Konstitucinio Teismo teisėjo įgaliojimai nutrūksta, kai:",
+        "ru": "Полномочия судьи Конституционного Суда прекращаются:",
+        "_": null
+    },
+    {
+        "chapter": "VIII",
+        "article": "108",
+        "lt": "1) pasibaigia įgaliojimų laikas;",
+        "ru": "1) по истечении срока полномочий;",
+        "_": null
+    },
+    {
+        "chapter": "VIII",
+        "article": "108",
+        "lt": "2) jis miršta;",
+        "ru": "2) в случае его смерти;",
+        "_": null
+    },
+    {
+        "chapter": "VIII",
+        "article": "108",
+        "lt": "3) atsistatydina;",
+        "ru": "3) в случае его отставки;",
+        "_": null
+    },
+    {
+        "chapter": "VIII",
+        "article": "108",
+        "lt": "4) negali eiti savo pareigų dėl sveikatos būklės;",
+        "ru": "4) при невозможности исполнять свои обязанности по состоянию здоровья;",
+        "_": null
+    },
+    {
+        "chapter": "VIII",
+        "article": "108",
+        "lt": "5) Seimas jį pašalina iš pareigų apkaltos proceso tvarka.",
+        "ru": "5) в случае отрешения его Сеймом от занимаемой должности в порядке процесса импичмента.",
+        "_": null
+    },
+    {
+        "chapter": "IX",
+        "article": "109",
+        "lt": "Teisingumą Lietuvos Respublikoje vykdo tik teismai.",
+        "ru": "Правосудие в Литовской Республике осуществляется только судами.",
+        "_": null
+    },
+    {
+        "chapter": "IX",
+        "article": "109",
+        "lt": "Teisėjas ir teismai, vykdydami teisingumą, yra nepriklausomi.",
+        "ru": "Судья и суды при осуществлении правосудия являются независимыми.",
+        "_": null
+    },
+    {
+        "chapter": "IX",
+        "article": "109",
+        "lt": "Teisėjai, nagrinėdami bylas, klauso tik įstatymo.",
+        "ru": "Судьи при рассмотрении дел подчиняются только закону.",
+        "_": null
+    },
+    {
+        "chapter": "IX",
+        "article": "109",
+        "lt": "Teismas priima sprendimus Lietuvos Respublikos vardu.",
+        "ru": "Судом решение выносится от имени Литовской Республики.",
+        "_": null
+    },
+    {
+        "chapter": "IX",
+        "article": "110",
+        "lt": "Teisėjas negali taikyti įstatymo, kuris prieštarauja Konstitucijai.",
+        "ru": "Судья не может применять закон, противоречащий Конституции.",
+        "_": null
+    },
+    {
+        "chapter": "IX",
+        "article": "110",
+        "lt": "Tais atvejais, kai yra pagrindo manyti, kad įstatymas ar kitas teisinis aktas, kuris turėtų būti taikomas konkrečioje byloje, prieštarauja Konstitucijai, teisėjas sustabdo šios bylos nagrinėjimą ir kreipiasi į Konstitucinį Teismą prašydamas spręsti, ar šis įstatymas ar kitas teisinis aktas atitinka Konstituciją.",
+        "ru": "В тех случаях, если есть основание предполагать, что закон или иной правовой акт, который должен быть применен по конкретному делу, противоречат Конституции, судья приостанавливает рассмотрение этого дела и обращается в Конституционный Суд с просьбой вынести решение о соответствии этого закона или другого правового акта Конституции.",
+        "_": null
+    },
+    {
+        "chapter": "IX",
+        "article": "111",
+        "lt": "Lietuvos Respublikos teismai yra Lietuvos Aukščiausiasis Teismas, Lietuvos apeliacinis teismas, apygardų ir apylinkių teismai.",
+        "ru": "Суды в Литовской Республике – это Верховный Суд Литвы, Апелляционный суд Литвы, окружные и участковые суды.",
+        "_": null
+    },
+    {
+        "chapter": "IX",
+        "article": "111",
+        "lt": "Administracinių, darbo, šeimos ir kitų kategorijų byloms nagrinėti pagal įstatymą gali būti įsteigti specializuoti teismai.",
+        "ru": "Для рассмотрения дел по административным, трудовым, семейным делам и по делам других категорий в соответствии с законом могут быть учреждены специализированные суды.",
+        "_": null
+    },
+    {
+        "chapter": "IX",
+        "article": "111",
+        "lt": "Teismai su ypatingais įgaliojimais taikos metu Lietuvos Respublikoje negali būti steigiami.",
+        "ru": "Суды с особыми полномочиями в мирное время в Литовской Республике не могут учреждаться.",
+        "_": null
+    },
+    {
+        "chapter": "IX",
+        "article": "111",
+        "lt": "Teismų sudarymą ir kompetenciją nustato Lietuvos Respublikos teismų įstatymas.",
+        "ru": "Образование и компетенция судов устанавливаются Законом Литовской Республики о судах.",
+        "_": null
+    },
+    {
+        "chapter": "IX",
+        "article": "112",
+        "lt": "Teisėjais Lietuvoje gali būti tik Lietuvos Respublikos piliečiai.",
+        "ru": "Судьями в Литве могут быть только граждане Литовской Республики.",
+        "_": null
+    },
+    {
+        "chapter": "IX",
+        "article": "112",
+        "lt": "Aukščiausiojo Teismo teisėjus, o iš jų – pirmininką, skiria ir atleidžia Seimas Respublikos Prezidento teikimu.",
+        "ru": "Судьи Верховного Суда, а из их числа – председатель назначаются и освобождаются Сеймом по представлению Президента Республики.",
+        "_": null
+    },
+    {
+        "chapter": "IX",
+        "article": "112",
+        "lt": "Apeliacinio teismo teisėjus, o iš jų – pirmininką, skiria Respublikos Prezidentas Seimo pritarimu.",
+        "ru": "Судьи Апелляционного суда, а из их числа – председатель назначаются Президентом Республики с одобрения Сейма.",
+        "_": null
+    },
+    {
+        "chapter": "IX",
+        "article": "112",
+        "lt": "Apylinkių, apygardų ir specializuotų teismų teisėjus ir pirmininkus skiria, jų darbo vietas keičia Respublikos Prezidentas.",
+        "ru": "Назначение судей и председателей участковых, окружных и специализированных судов и изменение места их работы осуществляются Президентом Республики.",
+        "_": null
+    },
+    {
+        "chapter": "IX",
+        "article": "112",
+        "lt": "Dėl teisėjų paskyrimo, paaukštinimo, perkėlimo ar atleidimo iš pareigų Respublikos Prezidentui pataria speciali įstatymo numatyta teisėjų institucija.",
+        "ru": "Президенту Республики советы относительно назначения, повышения, перевода или освобождения от занимаемых должностей судей даются предусмотренным законом специальным органом судей.",
+        "_": null
+    },
+    {
+        "chapter": "IX",
+        "article": "112",
+        "lt": "Asmuo, paskirtas teisėju, įstatymo nustatyta tvarka prisiekia būti ištikimas Lietuvos Respublikai, vykdyti teisingumą tik pagal įstatymą.",
+        "ru": "Назначенное судьей лицо в установленном законом порядке приносит присягу хранить верность Литовской Республике, вершить правосудие только в соответствии с законом.",
+        "_": null
+    },
+    {
+        "chapter": "IX",
+        "article": "113",
+        "lt": "Teisėjas negali užimti jokių kitų renkamų ar skiriamų pareigų, dirbti verslo, komercijos ar kitokiose privačiose įstaigose ar įmonėse. Jis taip pat negali gauti jokio kito atlyginimo, išskyrus teisėjo atlyginimą bei užmokestį už pedagoginę ar kūrybinę veiklą.",
+        "ru": "Судья не может занимать никакие другие выборные или назначаемые должности, работать в предпринимательских, коммерческих или иных частных учреждениях либо на предприятиях. Он также не может получать никакое иное вознаграждение, за исключением оклада судьи и оплаты за педагогическую или творческую деятельность.",
+        "_": null
+    },
+    {
+        "chapter": "IX",
+        "article": "113",
+        "lt": "Teisėjas negali dalyvauti politinių partijų ir kitų politinių organizacijų veikloje.",
+        "ru": "Судья не может участвовать в деятельности политических партий и иных политических организаций.",
+        "_": null
+    },
+    {
+        "chapter": "IX",
+        "article": "114",
+        "lt": "Valstybinės valdžios ir valdymo institucijų, Seimo narių ir kitų pareigūnų, politinių partijų, politinių ir visuomeninių organizacijų ar piliečių kišimasis į teisėjo ar teismo veiklą draudžiamas ir užtraukia įstatymo numatytą atsakomybę.",
+        "ru": "Вмешательство институтов государственной власти и управления, членов Сейма и других должностных лиц, политических партий, политических и общественных организаций или граждан в деятельность судьи или суда запрещается и влечет предусмотренную законом ответственность.",
+        "_": null
+    },
+    {
+        "chapter": "IX",
+        "article": "114",
+        "lt": "Teisėjas negali būti patrauktas baudžiamojon atsakomybėn, suimtas, negali būti kitaip suvaržyta jo laisvė be Seimo, o tarp Seimo sesijų – be Respublikos Prezidento sutikimo.",
+        "ru": "Судья не может быть привлечен к уголовной ответственности, арестован, не может быть иным способом ограничена его свобода без согласия Сейма, а в период между сессиями Сейма – без согласия Президента Республики.",
+        "_": null
+    },
+    {
+        "chapter": "IX",
+        "article": "115",
+        "lt": "Lietuvos Respublikos teismų teisėjai atleidžiami iš pareigų įstatymo nustatyta tvarka šiais atvejais:",
+        "ru": "Судьи судов Литовской Республики освобождаются от должности в установленном законом порядке в следующих случаях:",
+        "_": null
+    },
+    {
+        "chapter": "IX",
+        "article": "115",
+        "lt": "1) savo noru;",
+        "ru": "1) по собственному желанию;",
+        "_": null
+    },
+    {
+        "chapter": "IX",
+        "article": "115",
+        "lt": "2) pasibaigus įgaliojimų laikui arba sulaukę įstatyme nustatyto pensinio amžiaus;",
+        "ru": "2) по истечении срока полномочий или по достижении установленного законом пенсионного возраста;",
+        "_": null
+    },
+    {
+        "chapter": "IX",
+        "article": "115",
+        "lt": "3) dėl sveikatos būklės;",
+        "ru": "3) по состоянию здоровья;",
+        "_": null
+    },
+    {
+        "chapter": "IX",
+        "article": "115",
+        "lt": "4) išrinkus į kitas pareigas arba jų sutikimu perkėlus į kitą darbą;",
+        "ru": "4) при избрании на другую должность или при переводе на другую работу с их согласия;",
+        "_": null
+    },
+    {
+        "chapter": "IX",
+        "article": "115",
+        "lt": "5) kai savo poelgiu pažemino teisėjo vardą;",
+        "ru": "5) в случае совершения поступка, порочащего звание судьи;",
+        "_": null
+    },
+    {
+        "chapter": "IX",
+        "article": "115",
+        "lt": "6) kai įsiteisėja juos apkaltinę teismų nuosprendžiai.",
+        "ru": "6) в случае вступления в законную силу обвинительных приговоров судов в их отношении.",
+        "_": null
+    },
+    {
+        "chapter": "IX",
+        "article": "116",
+        "lt": "Aukščiausiojo Teismo pirmininką ir teisėjus, taip pat Apeliacinio teismo pirmininką ir teisėjus už šiurkštų Konstitucijos pažeidimą arba priesaikos sulaužymą, taip pat paaiškėjus, jog padarytas nusikaltimas, Seimas gali pašalinti iš pareigų apkaltos proceso tvarka.",
+        "ru": "Председатель и судьи Верховного Суда, а также председатель и судьи Апелляционного суда за грубое нарушение Конституции или нарушение присяги, а также при выявлении факта совершения преступления могут быть отрешены Сеймом от должности в порядке процесса импичмента.",
+        "_": null
+    },
+    {
+        "chapter": "IX",
+        "article": "117",
+        "lt": "Visuose teismuose bylos nagrinėjamos viešai. Teismo posėdis gali būti uždaras – žmogaus asmeninio ar šeimyninio gyvenimo slaptumui apsaugoti, taip pat jeigu viešai nagrinėjama byla gali atskleisti valstybinę, profesinę ar komercinę paslaptį.",
+        "ru": "Разбирательство дел во всех судах ведется открыто. Судебное заседание может быть закрытым в целях охраны тайны личной или семейной жизни человека, а также если при открытом рассмотрении дела может быть разглашена государственная, профессиональная или коммерческая тайна.",
+        "_": null
+    },
+    {
+        "chapter": "IX",
+        "article": "117",
+        "lt": "Teismo procesas Lietuvos Respublikoje vyksta valstybine kalba.",
+        "ru": "Судопроизводство в Литовской Республике ведется на государственном языке.",
+        "_": null
+    },
+    {
+        "chapter": "IX",
+        "article": "117",
+        "lt": "Asmenims, nemokantiems lietuvių kalbos, garantuojama teisė dalyvauti tardymo ir teisminiuose veiksmuose per vertėją.",
+        "ru": "Лицам, не владеющим литовским языком, гарантируется право участвовать в следственных и судебных действиях через переводчиков.",
+        "_": null
+    },
+    {
+        "chapter": "IX",
+        "article": "118",
+        "lt": "Ikiteisminį tyrimą organizuoja ir jam vadovauja, valstybinį kaltinimą baudžiamosiose bylose palaiko prokuroras.",
+        "ru": "Досудебное расследование организует и им руководит, государственное обвинение по уголовным делам поддерживает прокурор.",
+        "_": null
+    },
+    {
+        "chapter": "IX",
+        "article": "118",
+        "lt": "Prokuroras įstatymo nustatytais atvejais gina asmens, visuomenės ir valstybės teises bei teisėtus interesus.",
+        "ru": "Прокурор в установленных законом случаях защищает права и законные интересы лица, общества и государства.",
+        "_": null
+    },
+    {
+        "chapter": "IX",
+        "article": "118",
+        "lt": "Prokuroras, vykdydamas savo funkcijas, yra nepriklausomas ir klauso tik įstatymo.",
+        "ru": "Прокурор при исполнении своих функций является независимым и подчиняется только закону.",
+        "_": null
+    },
+    {
+        "chapter": "IX",
+        "article": "118",
+        "lt": "Lietuvos Respublikos prokuratūra yra Generalinė prokuratūra ir teritorinės prokuratūros.",
+        "ru": "Прокуратура Литовской Республики – это Генеральная прокуратура и территориальные прокуратуры.",
+        "_": null
+    },
+    {
+        "chapter": "IX",
+        "article": "118",
+        "lt": "Generalinį prokurorą skiria ir atleidžia Respublikos Prezidentas Seimo pritarimu.",
+        "ru": "Генеральный прокурор назначается и освобождается Президентом Республики с одобрения Сейма.",
+        "_": null
+    },
+    {
+        "chapter": "IX",
+        "article": "118",
+        "lt": "Prokurorų skyrimo ir atleidimo tvarką, jų statusą nustato įstatymas.",
+        "ru": "Порядок назначения и освобождения прокуроров, их статус устанавливаются законом.",
+        "_": null
+    },
+    {
+        "chapter": "X",
+        "article": "119",
+        "lt": "Savivaldos teisė laiduojama įstatymo numatytiems valstybės teritorijos administraciniams vienetams. Ji įgyvendinama per savivaldybių tarybas ir savivaldybių merus.",
+        "ru": "Право на самоуправление гарантируется государственным территориально-административным единицам, предусмотренным законом. Оно осуществляется через соответствующие советы самоуправлений.",
+        "_": null
+    },
+    {
+        "chapter": "X",
+        "article": "119",
+        "lt": "Savivaldybių tarybų nariais Lietuvos Respublikos piliečius ir kitus nuolatinius administracinio vieneto gyventojus, savivaldybių merais – Lietuvos Respublikos piliečius pagal įstatymą ketveriems metams renka Lietuvos Respublikos piliečiai ir kiti nuolatiniai administracinio vieneto gyventojai, remdamiesi visuotine, lygia ir tiesiogine rinkimų teise, slaptu balsavimu.",
+        "ru": "Членами советов самоуправлений граждане Литовской Республики и другие постоянные жители административной единицы в соответствии с законом на четыре года избираются гражданами Литовской Республики и другими постоянными жителями административной единицы на основе всеобщего, равного и прямого избирательного права при тайном голосовании.",
+        "_": null
+    },
+    {
+        "chapter": "X",
+        "article": "119",
+        "lt": "Savivaldos institucijų organizavimo ir veiklos tvarką nustato įstatymas.",
+        "ru": "Порядок организации и деятельности институтов самоуправления устанавливается законом.",
+        "_": null
+    },
+    {
+        "chapter": "X",
+        "article": "120",
+        "lt": "Valstybė remia savivaldybes.",
+        "ru": "Государство оказывает поддержку самоуправлениям.",
+        "_": null
+    },
+    {
+        "chapter": "X",
+        "article": "120",
+        "lt": "Savivaldybės pagal Konstitucijos bei įstatymų apibrėžtą kompetenciją veikia laisvai ir savarankiškai.",
+        "ru": "Самоуправления в пределах установленной Конституцией и законами компетенции действуют свободно и самостоятельно.",
+        "_": null
+    },
+    {
+        "chapter": "X",
+        "article": "121",
+        "lt": "Savivaldybės sudaro ir tvirtina savo biudžetą.",
+        "ru": "Самоуправления составляют и утверждают свой бюджет.",
+        "_": null
+    },
+    {
+        "chapter": "X",
+        "article": "121",
+        "lt": "Savivaldybių tarybos turi teisę įstatymo numatytose ribose ir tvarka nustatyti vietines rinkliavas, savo biudžeto sąskaita savivaldybių tarybos gali numatyti mokesčių bei rinkliavų lengvatas.",
+        "ru": "Советы самоуправлений имеют право в предусмотренных законом пределах и порядке устанавливать местные сборы, советы самоуправлений могут предусматривать за счет своего бюджета льготы по налогам и сборам.",
+        "_": null
+    },
+    {
+        "chapter": "X",
+        "article": "122",
+        "lt": "Savivaldybių tarybos ir savivaldybių merai dėl jų teisių pažeidimo turi teisę kreiptis į teismą.",
+        "ru": "Советы самоуправлений в связи с нарушением их прав имеют право обращаться в суд.",
+        "_": null
+    },
+    {
+        "chapter": "X",
+        "article": "123",
+        "lt": "Aukštesniuosiuose administraciniuose vienetuose įstatymo nustatyta tvarka valdymą organizuoja Vyriausybė.",
+        "ru": "",
+        "_": null
+    },
+    {
+        "chapter": "X",
+        "article": "123",
+        "lt": "Ar savivaldybės laikosi Konstitucijos ir įstatymų, ar vykdo Vyriausybės sprendimus, prižiūri Vyriausybės skiriami atstovai.",
+        "ru": "",
+        "_": null
+    },
+    {
+        "chapter": "X",
+        "article": "123",
+        "lt": "Vyriausybės atstovo įgaliojimus ir jų vykdymo tvarką nustato įstatymas.",
+        "ru": "Советы самоуправлений имеют право в предусмотренных законом пределах и порядке устанавливать местные сборы, советы самоуправлений могут предусматривать за счет своего бюджета льготы по налогам и сборам.",
+        "_": null
+    },
+    {
+        "chapter": "X",
+        "article": "123",
+        "lt": "Įstatymo numatytais atvejais ir tvarka savivaldybės teritorijoje Seimas gali laikinai įvesti tiesioginį valdymą.",
+        "ru": "",
+        "_": null
+    },
+    {
+        "chapter": "X",
+        "article": "124",
+        "lt": "Savivaldybių tarybų ir savivaldybių merų aktai ar veiksmai, pažeidžiantys piliečių ar organizacijų teises, gali būti skundžiami teisme.",
+        "ru": "Акты или действия Советов самоуправлений, их исполнительных органов, а также их должностных лиц, нарушающие права граждан и организаций, могут быть обжалованы в суд.",
+        "_": null
+    },
+    {
+        "chapter": "XI",
+        "article": "125",
+        "lt": "Lietuvos Respublikoje centrinis bankas yra Lietuvos bankas, kuris nuosavybės teise priklauso Lietuvos valstybei.",
+        "ru": "Центральным банком в Литовской Республике является Банк Литвы, который на праве собственности принадлежит Литовскому государству.",
+        "_": null
+    },
+    {
+        "chapter": "XI",
+        "article": "125",
+        "lt": "Lietuvos banko organizavimo ir veiklos tvarką, taip pat įgaliojimus ir Lietuvos banko valdybos pirmininko teisinį statusą bei jo atleidimo pagrindus nustato įstatymas.",
+        "ru": "Порядок организации и деятельности Банка Литвы, его полномочия, а также правовой статус председателя правления Банка Литвы и основания для его освобождения от должности устанавливаются законом.",
+        "_": null
+    },
+    {
+        "chapter": "XI",
+        "article": "126",
+        "lt": "Lietuvos bankui vadovauja banko valdyba, kurią sudaro pirmininkas, jo pavaduotojai ir nariai.",
+        "ru": "Руководство Банком Литвы осуществляется правлением банка в составе его председателя, заместителей председателя и членов.",
+        "_": null
+    },
+    {
+        "chapter": "XI",
+        "article": "126",
+        "lt": "Lietuvos banko valdybos pirmininką skiria penkeriems metams Seimas Respublikos Prezidento teikimu.",
+        "ru": "Сеймом сроком на пять лет по представлению Президента Республики.",
+        "_": null
+    },
+    {
+        "chapter": "XI",
+        "article": "127",
+        "lt": "Lietuvos biudžetinę sistemą sudaro savarankiškas Lietuvos Respublikos valstybės biudžetas, taip pat savarankiški vietos savivaldybių biudžetai.",
+        "ru": "Бюджетную систему Литвы составляют самостоятельный Государственный бюджет Литовской Республики, а также самостоятельные бюджеты местных самоуправлений.",
+        "_": null
+    },
+    {
+        "chapter": "XI",
+        "article": "127",
+        "lt": "Valstybės biudžeto pajamos formuojamos iš mokesčių, privalomų mokėjimų, rinkliavų, pajamų iš valstybinio turto ir kitų įplaukų.",
+        "ru": "Доходы государственного бюджета формируются за счет налогов, обязательных платежей, сборов, доходов от государственного имущества и иных поступлений.",
+        "_": null
+    },
+    {
+        "chapter": "XI",
+        "article": "127",
+        "lt": "Mokesčius, kitas įmokas į biudžetus ir rinkliavas nustato Lietuvos Respublikos įstatymai.",
+        "ru": "Налоги, другие платежи в бюджет и сборы устанавливаются законами Литовской Республики.",
+        "_": null
+    },
+    {
+        "chapter": "XI",
+        "article": "128",
+        "lt": "Sprendimus dėl valstybinės paskolos ir valstybės kitų esminių turtinių įsipareigojimų priima Seimas Vyriausybės siūlymu.",
+        "ru": "Решения относительно государственного займа и других существенных имущественных обязательств государства принимаются Сеймом по предложению Правительства.",
+        "_": null
+    },
+    {
+        "chapter": "XI",
+        "article": "128",
+        "lt": "Valstybinio turto valdymo, naudojimo ir disponavimo tvarką nustato įstatymas.",
+        "ru": "Порядок управления, пользования и распоряжения государственным имуществом устанавливается законом.",
+        "_": null
+    },
+    {
+        "chapter": "XI",
+        "article": "129",
+        "lt": "Biudžetiniai metai prasideda sausio 1 dieną ir baigiasi gruodžio 31 dieną.",
+        "ru": "Бюджетный год начинается 1 января и завершается 31 декабря.",
+        "_": null
+    },
+    {
+        "chapter": "XI",
+        "article": "130",
+        "lt": "Valstybės biudžeto projektą sudaro Vyriausybė ir pateikia Seimui ne vėliau kaip prieš 75 dienas iki biudžetinių metų pabaigos.",
+        "ru": "Проект государственного бюджета составляется Правительством и вносится в Сейм не позднее чем за 75 дней до завершения бюджетного года.",
+        "_": null
+    },
+    {
+        "chapter": "XI",
+        "article": "131",
+        "lt": "Valstybės biudžeto projektą svarsto Seimas ir tvirtina įstatymu iki naujųjų biudžetinių metų pradžios.",
+        "ru": "Проект государственного бюджета рассматривается Сеймом и утверждается законом до начала нового бюджетного года.",
+        "_": null
+    },
+    {
+        "chapter": "XI",
+        "article": "131",
+        "lt": "Svarstydamas biudžeto projektą, Seimas gali didinti išlaidas tik nurodydamas šių išlaidų finansavimo šaltinius. Negalima mažinti įstatymų numatytų išlaidų, kol tie įstatymai nepakeisti.",
+        "ru": "При рассмотрении проекта бюджета Сейм может увеличивать расходы только при указании источников финансирования этих расходов. Нельзя уменьшать предусмотренные законами расходы до внесения изменений в эти законы.",
+        "_": null
+    },
+    {
+        "chapter": "XI",
+        "article": "132",
+        "lt": "Jeigu valstybės biudžetas laiku nepatvirtinamas, jo išlaidos biudžetinių metų pradžioje kiekvieną mėnesį negali viršyti praėjusių metų valstybės biudžeto 1/12 išlaidų.",
+        "ru": "Если государственный бюджет своевременно не утверждается, его расходы в начале бюджетного года на каждый месяц не могут превышать 1/12 размера расходов государственного бюджета за предыдущий год.",
+        "_": null
+    },
+    {
+        "chapter": "XI",
+        "article": "132",
+        "lt": "Biudžetiniais metais Seimas gali pakeisti biudžetą. Jis keičiamas pagal tą pačią tvarką, pagal kurią sudaromas, priimamas ir patvirtinamas. Prireikus Seimas gali patvirtinti papildomą biudžetą.",
+        "ru": "В течение бюджетного года Сейм может вносить изменения в бюджет. Изменения в бюджет вносятся в том же порядке, в соответствии с которым он составляется, принимается и утверждается. В случае необходимости Сеймом может быть утвержден дополнительный бюджет.",
+        "_": null
+    },
+    {
+        "chapter": "XII",
+        "article": "133",
+        "lt": "Valstybės kontrolės sistemą ir įgaliojimus nustato įstatymas.",
+        "ru": "Система государственного контроля и его полномочия устанавливаются законом.",
+        "_": null
+    },
+    {
+        "chapter": "XII",
+        "article": "133",
+        "lt": "Valstybės kontrolei vadovauja valstybės kontrolierius, kurį penkeriems metams Respublikos Prezidento teikimu skiria Seimas.",
+        "ru": "Руководство государственным контролем осуществляет государственный контролер, который сроком на пять лет по представлению Президента Республики назначается Сеймом.",
+        "_": null
+    },
+    {
+        "chapter": "XII",
+        "article": "133",
+        "lt": "Valstybės kontrolierius, pradėdamas eiti pareigas, prisiekia. Priesaiką nustato įstatymas.",
+        "ru": "Государственный контролер, приступая к исполнению обязанностей, приносит присягу. Присяга устанавливается законом.",
+        "_": null
+    },
+    {
+        "chapter": "XII",
+        "article": "134",
+        "lt": "Valstybės kontrolė prižiūri, ar teisėtai valdomas ir naudojamas valstybės turtas ir kaip vykdomas valstybės biudžetas.",
+        "ru": "Государственный контроль осуществляет надзор за законностью управления государственным имуществом и его использования, а также за исполнением государственного бюджета.",
+        "_": null
+    },
+    {
+        "chapter": "XII",
+        "article": "134",
+        "lt": "Valstybės kontrolierius teikia Seimui išvadą apie metinę biudžeto įvykdymo apyskaitą.",
+        "ru": "Государственный контролер представляет Сейму заключение о годовом отчете об исполнении бюджета.",
+        "_": null
+    },
+    {
+        "chapter": "XIII",
+        "article": "135",
+        "lt": "Lietuvos Respublika, įgyvendindama užsienio politiką, vadovaujasi visuotinai pripažintais tarptautinės teisės principais ir normomis, siekia užtikrinti šalies saugumą ir nepriklausomybę, piliečių gerovę ir pagrindines jų teises bei laisves, prisideda prie teise ir teisingumu pagrįstos tarptautinės tvarkos kūrimo.",
+        "ru": "Литовская Республика при осуществлении внешней политики руководствуется общепризнанными принципами и нормами международного права, стремится обеспечить безопасность и независимость страны, благосостояние граждан, а также их основные права и свободы, принимает участие в создании международного порядка, основанного на праве и справедливости.",
+        "_": null
+    },
+    {
+        "chapter": "XIII",
+        "article": "135",
+        "lt": "Lietuvos Respublikoje karo propaganda draudžiama.",
+        "ru": "Пропаганда войны в Литовской Республике запрещается.",
+        "_": null
+    },
+    {
+        "chapter": "XIII",
+        "article": "136",
+        "lt": "Lietuvos Respublika dalyvauja tarptautinėse organizacijose, jeigu tai neprieštarauja Valstybės interesams ir jos nepriklausomybei.",
+        "ru": "Литовская Республика участвует в международных организациях, если это не противоречит интересам Государства и его независимости.",
+        "_": null
+    },
+    {
+        "chapter": "XIII",
+        "article": "137",
+        "lt": "Lietuvos Respublikos teritorijoje negali būti masinio naikinimo ginklų ir užsienio valstybių karinių bazių.",
+        "ru": "На территории Литовской Республики не могут находиться оружие массового уничтожения и военные базы иностранных государств.",
+        "_": null
+    },
+    {
+        "chapter": "XIII",
+        "article": "138",
+        "lt": "Seimas ratifikuoja ar denonsuoja šias Lietuvos Respublikos tarptautines sutartis:",
+        "ru": "Сейм ратифицирует или денонсирует следующие международные договоры Литовской Республики:",
+        "_": null
+    },
+    {
+        "chapter": "XIII",
+        "article": "138",
+        "lt": "1) dėl Lietuvos Respublikos valstybės sienų pakeitimo;",
+        "ru": "1) об изменении государственных границ Литовской Республики;",
+        "_": null
+    },
+    {
+        "chapter": "XIII",
+        "article": "138",
+        "lt": "2) dėl politinio bendradarbiavimo su užsienio valstybėmis, tarpusavio pagalbos, taip pat su valstybės gynyba susijusias gynybinio pobūdžio sutartis;",
+        "ru": "2) о политическом сотрудничестве с иностранными государствами, о взаимопомощи, а также договоры оборонного характера, связанные с обороной государства;",
+        "_": null
+    },
+    {
+        "chapter": "XIII",
+        "article": "138",
+        "lt": "3) dėl atsisakymo naudoti jėgą ar grasinti jėga, taip pat taikos sutartis;",
+        "ru": "3) об отказе от применения силы или угрозы силой, а также мирные договоры;",
+        "_": null
+    },
+    {
+        "chapter": "XIII",
+        "article": "138",
+        "lt": "4) dėl Lietuvos Respublikos ginkluotųjų pajėgų buvimo ir jų statuso užsienio valstybių teritorijose;",
+        "ru": "4) о пребывании и статусе вооруженных сил Литовской Республики на территории иностранных государств;",
+        "_": null
+    },
+    {
+        "chapter": "XIII",
+        "article": "138",
+        "lt": "5) dėl Lietuvos Respublikos dalyvavimo universaliose tarptautinėse organizacijose bei regioninėse tarptautinėse organizacijose;",
+        "ru": "5) об участии Литовской Республики в международных организациях универсального характера и региональных международных организациях;",
+        "_": null
+    },
+    {
+        "chapter": "XIII",
+        "article": "138",
+        "lt": "6) daugiašales arba ilgalaikes ekonomines sutartis.",
+        "ru": "6) многосторонние или долгосрочные экономические договоры.",
+        "_": null
+    },
+    {
+        "chapter": "XIII",
+        "article": "138",
+        "lt": "Įstatymuose, taip pat tarptautinėse sutartyse gali būti numatyti ir kiti atvejai, kai Seimas ratifikuoja Lietuvos Respublikos tarptautines sutartis.",
+        "ru": "Законами, а также международными договорами могут быть предусмотрены и иные случаи ратификации Сеймом международных договоров Литовской Республики.",
+        "_": null
+    },
+    {
+        "chapter": "XIII",
+        "article": "138",
+        "lt": "Tarptautinės sutartys, kurias ratifikavo Lietuvos Respublikos Seimas, yra sudedamoji Lietuvos Respublikos teisinės sistemos dalis.",
+        "ru": "Международные договоры, ратифицированные Сеймом Литовской Республики, являются составной частью правовой системы Литовской Республики.",
+        "_": null
+    },
+    {
+        "chapter": "XIII",
+        "article": "139",
+        "lt": "Lietuvos valstybės gynimas nuo užsienio ginkluoto užpuolimo – kiekvieno Lietuvos Respublikos piliečio teisė ir pareiga.",
+        "ru": "Защита Литовского государства от внешнего вооруженного нападения является правом и долгом каждого гражданина Литовской Республики.",
+        "_": null
+    },
+    {
+        "chapter": "XIII",
+        "article": "139",
+        "lt": "Įstatymo nustatyta tvarka Lietuvos Respublikos piliečiai privalo atlikti karo ar alternatyviąją krašto apsaugos tarnybą.",
+        "ru": "В установленном законом порядке граждане Литовской Республики обязаны проходить военную или альтернативную службу по охране края.",
+        "_": null
+    },
+    {
+        "chapter": "XIII",
+        "article": "139",
+        "lt": "Krašto apsaugos organizavimą nustato įstatymai.",
+        "ru": "Организация охраны края устанавливается законами.",
+        "_": null
+    },
+    {
+        "chapter": "XIII",
+        "article": "140",
+        "lt": "Svarbiausius valstybės gynybos klausimus svarsto ir koordinuoja Valstybės gynimo taryba, į kurią įeina Respublikos Prezidentas, Ministras Pirmininkas, Seimo Pirmininkas, krašto apsaugos ministras ir kariuomenės vadas. Valstybės gynimo tarybai vadovauja Respublikos Prezidentas. Jos sudarymo, veiklos tvarką ir įgaliojimus nustato įstatymas.",
+        "ru": "Важнейшие вопросы обороны государства рассматриваются и координируются Государственным советом обороны, в состав которого входят Президент Республики, Премьер-министр, Председатель Сейма, министр охраны края и командующий войсками. Руководство Государственным советом обороны осуществляется Президентом Республики. Порядок его образования, деятельности и полномочия устанавливаются законом.",
+        "_": null
+    },
+    {
+        "chapter": "XIII",
+        "article": "140",
+        "lt": "Vyriausiasis valstybės ginkluotųjų pajėgų vadas yra Respublikos Prezidentas.",
+        "ru": "Президент Республики является Главнокомандующим вооруженными силами государства.",
+        "_": null
+    },
+    {
+        "chapter": "XIII",
+        "article": "140",
+        "lt": "Už valstybės ginkluotųjų pajėgų tvarkymą ir vadovavimą joms Seimui yra atsakingi Vyriausybė, krašto apsaugos ministras, kariuomenės vadas. Krašto apsaugos ministru negali būti neišėjęs į atsargą karys.",
+        "ru": "Ответственность перед Сеймом за управление вооруженными силами государства и руководство ими несут Правительство, министр охраны края, командующий войсками. Министром охраны края не может быть не вышедший в отставку военнослужащий.",
+        "_": null
+    },
+    {
+        "chapter": "XIII",
+        "article": "141",
+        "lt": "Asmenys, atliekantys tikrąją karo arba alternatyviąją tarnybą, taip pat neišėję į atsargą krašto apsaugos sistemos, policijos ir vidaus tarnybos karininkai, puskarininkiai ir liktiniai, kitų sukarintų ir saugumo tarnybų apmokami pareigūnai negali būti Seimo nariais, savivaldybių tarybų nariais ir savivaldybių merais. Jie negali užimti renkamų ar skiriamų pareigų civilinėje valstybinėje tarnyboje, dalyvauti politinių partijų ir politinių organizacijų veikloje.",
+        "ru": "Лица, проходящие действительную военную или альтернативную службу, а также не вышедшие в отставку офицеры, унтер-офицеры, сверхсрочнослужащие системы охраны края, полиции и внутренней службы, оплачиваемые должностные лица других военизированных служб и служб безопасности не могут быть членами Сейма и членами советов самоуправлений. Они не могут занимать выборные или назначаемые должности на государственной гражданской службе, принимать участие в деятельности политических партий и политических организаций.",
+        "_": null
+    },
+    {
+        "chapter": "XIII",
+        "article": "142",
+        "lt": "Seimas įveda karo padėtį, skelbia mobilizaciją ar demobilizaciją, priima sprendimą panaudoti ginkluotąsias pajėgas, kai prireikia ginti Tėvynę arba vykdyti Lietuvos valstybės tarptautinius įsipareigojimus.",
+        "ru": "Сейм вводит военное положение, объявляет мобилизацию или демобилизацию, принимает решение об использовании вооруженных сил в случае необходимости защиты Родины или выполнения международ­ных обязательств Литовского государства.",
+        "_": null
+    },
+    {
+        "chapter": "XIII",
+        "article": "142",
+        "lt": "Ginkluoto užpuolimo atveju, kai kyla grėsmė valstybės suverenumui ar teritorijos vientisumui, Respublikos Prezidentas nedelsdamas priima sprendimą dėl gynybos nuo ginkluotos agresijos, įveda karo padėtį visoje Valstybėje ar jos dalyje, skelbia mobilizaciją ir teikia šiuos sprendimus tvirtinti artimiausiam Seimo posėdžiui, o tarp Seimo sesijų – nedelsdamas šaukia neeilinę Seimo sesiją. Seimas patvirtina arba panaikina Respublikos Prezidento sprendimą.",
+        "ru": "В случае вооруженного нападения при возникновении угрозы для суверенитета или территориальной целостности государства Президент Республики незамедлительно принимает решение о защите от вооруженной агрессии, вводит военное положение во всем Государстве или в его части, объявляет мобилизацию и вносит эти решения для утверждения на ближайшее заседание Сейма, а в период между сессиями Сейма – незамедлительно созывает внеочередную сессию Сейма. Сейм утверждает или отменяет решение Президента Республики.",
+        "_": null
+    },
+    {
+        "chapter": "XIII",
+        "article": "143",
+        "lt": "Jeigu karo veiksmų metu turi būti rengiami eiliniai rinkimai, Seimas arba Respublikos Prezidentas priima sprendimą pratęsti Seimo, Respublikos Prezidento ar savivaldybių tarybų ir savivaldybių merų įgaliojimus. Šiuo atveju rinkimai turi būti skiriami ne vėliau kaip po trijų mėnesių karui pasibaigus.",
+        "ru": "Если во время военных действий должны проводиться очередные выборы, Сейм или Президент Республики принимает решение о продлении срока полномочий Сейма, Президента Республики или советов самоуправлений. В таком случае выборы должны быть назначены не позднее чем через три месяца после окончания войны.",
+        "_": null
+    },
+    {
+        "chapter": "XIII",
+        "article": "144",
+        "lt": "Jeigu Valstybėje iškyla grėsmė konstitucinei santvarkai ar visuomenės rimčiai, Seimas gali visoje valstybės teritorijoje ar jos dalyje įvesti nepaprastąją padėtį. Jos trukmė – iki šešių mėnesių.",
+        "ru": "При возникновении в Государстве угрозы конституционному строю или общественному спокойствию Сейм может на всей территории государства или ее части ввести чрезвычайное положение. Его продолжительность – до шести месяцев.",
+        "_": null
+    },
+    {
+        "chapter": "XIII",
+        "article": "144",
+        "lt": "Tarp Seimo sesijų neatidėliotinais atvejais tokį sprendimą turi teisę priimti Respublikos Prezidentas, kartu šaukdamas neeilinę Seimo sesiją svarstyti šio klausimo. Seimas patvirtina arba panaikina Respublikos Prezidento sprendimą.",
+        "ru": "В период между сессиями Сейма в безотлагательных случаях такое решение имеет право принять Президент Республики, одновременно созывая внеочередную сессию Сейма для рассмотрения этого вопроса. Сейм утверждает или отменяет решение Президента Республики.",
+        "_": null
+    },
+    {
+        "chapter": "XIII",
+        "article": "144",
+        "lt": "Nepaprastąją padėtį reguliuoja įstatymas.",
+        "ru": "Чрезвычайное положение регулируется законом.",
+        "_": null
+    },
+    {
+        "chapter": "XIII",
+        "article": "145",
+        "lt": "Įvedus karo ar nepaprastąją padėtį, laikinai gali būti apribojamos teisės ir laisvės, nurodytos Konstitucijos 22, 24, 25, 32, 35 ir 36 straipsniuose.",
+        "ru": "При введении военного или чрезвычайного положения временно могут быть ограничены права и свободы, указанные в статьях 22, 24, 25, 32, 35 и 36 Конституции.",
+        "_": null
+    },
+    {
+        "chapter": "XIII",
+        "article": "146",
+        "lt": "Valstybė globoja ir aprūpina karius, kurie eidami karo tarnybą nustoja sveikatos, taip pat karo tarnybą einant žuvusių ar mirusių karių šeimas.",
+        "ru": "Государство опекает и обеспечивает воинов, которые при прохождении военной службы утратили здоровье, а также семьи воинов, погибших или лишившихся жизни при прохождении военной службы.",
+        "_": null
+    },
+    {
+        "chapter": "XIII",
+        "article": "146",
+        "lt": "Valstybė aprūpina ir piliečius, kurie gindami Valstybę nustojo sveikatos, taip pat šeimas tų piliečių, kurie gindami Valstybę žuvo ar mirė.",
+        "ru": "Государство обеспечивает и граждан, которые утратили здоровье, защищая Государство, а также семьи граждан, которые погибли или лишились жизни, защищая Государство.",
+        "_": null
+    },
+    {
+        "chapter": "XIV",
+        "article": "147",
+        "lt": "Sumanymą keisti ar papildyti Lietuvos Respublikos Konstituciją turi teisę pateikti Seimui ne mažesnė kaip 1/4 visų Seimo narių grupė arba ne mažiau kaip 300 tūkstančių rinkėjų.",
+        "ru": "Внести в Сейм предположение относительно изменения или дополнения Конституции Литовской Республики имеет право группа членов Сейма в составе не менее 1/4 от общего числа членов Сейма или не менее 300 тысяч избирателей.",
+        "_": null
+    },
+    {
+        "chapter": "XIV",
+        "article": "147",
+        "lt": "Nepaprastosios padėties ar karo padėties metu Konstitucija negali būti taisoma.",
+        "ru": "Во время чрезвычайного или военного положения внесение поправок в Конституцию не допускается.",
+        "_": null
+    },
+    {
+        "chapter": "XIV",
+        "article": "148",
+        "lt": "Konstitucijos 1 straipsnio nuostata „Lietuvos valstybė yra nepriklausoma demokratinė respublika“ gali būti pakeista tik referendumu, jeigu už tai pasisakytų ne mažiau kaip 3/4 Lietuvos piliečių, turinčių rinkimų teisę.",
+        "ru": "Положение статьи 1 Конституции «Литовское государство является независимой демократической республикой» может быть изменено только путем референдума, если за это высказалось бы не менее 3/4 граждан Литвы, имеющих избирательное право.",
+        "_": null
+    },
+    {
+        "chapter": "XIV",
+        "article": "148",
+        "lt": "Tik referendumu gali būti keičiamos pirmojo skirsnio „Lietuvos valstybė“ bei keturioliktojo skirsnio „Konstitucijos keitimas“ nuostatos.",
+        "ru": "Только путем референдума могут меняться положения главы I «Литовское государство» и главы XIV «Изменение Конституции».",
+        "_": null
+    },
+    {
+        "chapter": "XIV",
+        "article": "148",
+        "lt": "Konstitucijos pataisos dėl kitų Konstitucijos skirsnių turi būti svarstomos ir dėl jų balsuojama Seime du kartus. Tarp šių balsavimų turi būti daroma ne mažesnė kaip trijų mėnesių pertrauka. Įstatymo projektas dėl Konstitucijos keitimo laikomas Seimo priimtu, jeigu kiekvieno balsavimo metu už tai balsavo ne mažiau kaip 2/3 visų Seimo narių.",
+        "ru": "Конституционные поправки по другим главам Конституции должны рассматриваться и по ним должно проводиться голосование в Сейме дважды. Между этими голосованиями должен делаться не менее чем трехмесячный перерыв. Проект закона об изменении Конституции считается принятым Сеймом, если при каждом голосовании за это проголосовало не менее чем 2/3 от общего числа членов Сейма.",
+        "_": null
+    },
+    {
+        "chapter": "XIV",
+        "article": "148",
+        "lt": "Nepriimta Konstitucijos pataisa Seimui iš naujo svarstyti gali būti teikiama ne anksčiau kaip po metų.",
+        "ru": "Непринятая конституционная поправка может быть внесена на новое рассмотрение Сейма не ранее чем через год.",
+        "_": null
+    },
+    {
+        "chapter": "XIV",
+        "article": "149",
+        "lt": "Priimtą įstatymą dėl Konstitucijos keitimo pasirašo Respublikos Prezidentas ir ne vėliau kaip per 5 dienas oficialiai paskelbia.",
+        "ru": "Принятый закон об изменении Конституции подписывается Президентом Республики и не позднее чем в течение 5 дней официально обнародуется.",
+        "_": null
+    },
+    {
+        "chapter": "XIV",
+        "article": "149",
+        "lt": "Jeigu nurodytu laiku tokio įstatymo Respublikos Prezidentas nepasirašo ir nepaskelbia, šis įstatymas įsigalioja, kai jį pasirašo ir oficialiai paskelbia Seimo Pirmininkas.",
+        "ru": "Если в указанный срок такой закон Президентом Республики не подписывается и не обнародуется, этот закон вступает в силу после его подписания и официального обнародования Председателем Сейма.",
+        "_": null
+    },
+    {
+        "chapter": "XIV",
+        "article": "149",
+        "lt": "Įstatymas dėl Konstitucijos keitimo įsigalioja ne anksčiau kaip po vieno mėnesio nuo jo priėmimo.",
+        "ru": "Закон об изменении Конституции вступает в силу не ранее чем через один месяц после его принятия.",
+        "_": null
+    },
+    {
+        "chapter": "BAIGIAMIEJI NUOSTATAI",
+        "article": "150",
+        "lt": "Lietuvos Respublikos Konstitucijos sudedamąja dalimi yra:",
+        "ru": "Составной частью Конституции Литовской Республики являются:",
+        "_": null
+    },
+    {
+        "chapter": "BAIGIAMIEJI NUOSTATAI",
+        "article": "150",
+        "lt": "1991 m. vasario 11 d. Konstitucinis įstatymas „Dėl Lietuvos valstybės“;",
+        "ru": "Конституционный закон «О Литовском государстве» от 11 февраля 1991 г.;",
+        "_": null
+    },
+    {
+        "chapter": "BAIGIAMIEJI NUOSTATAI",
+        "article": "150",
+        "lt": "1992 m. birželio 8 d. Konstitucinis aktas „Dėl Lietuvos Respublikos nesijungimo į postsovietines Rytų sąjungas“;",
+        "ru": "Конституционный акт «О неприсоединении Литовской Республики к постсоветским восточным союзам» от 8 июня 1992 г.;",
+        "_": null
+    },
+    {
+        "chapter": "BAIGIAMIEJI NUOSTATAI",
+        "article": "150",
+        "lt": "1992 m. spalio 25 d. Įstatymas „Dėl Lietuvos Respublikos Konstitucijos įsigaliojimo tvarkos”;",
+        "ru": "Закон «О порядке вступления в силу Конституции Литовской Республики» от 25 октября 1992 г.;",
+        "_": null
+    },
+    {
+        "chapter": "BAIGIAMIEJI NUOSTATAI",
+        "article": "150",
+        "lt": "2004 m. liepos 13 d. Konstitucinis aktas „Dėl Lietuvos Respublikos narystės Europos Sąjungoje“.",
+        "ru": "Конституционный акт «О членстве Литовской Республики в Европейском Союзе» от 13 июля 2004 г.",
+        "_": null
+    },
+    {
+        "chapter": "BAIGIAMIEJI NUOSTATAI",
+        "article": "151",
+        "lt": "Ši Lietuvos Respublikos Konstitucija įsigalioja kitą dieną po referendumo rezultatų oficialaus paskelbimo ir su sąlyga, jeigu referendume jai pritars daugiau kaip pusė visų Lietuvos Respublikos piliečių, turinčių rinkimų teisę.",
+        "ru": "Настоящая Конституция Литовской Республики вступает в силу на следующий день после официального обнародования итогов референдума и при условии, если на референдуме она будет одобрена более чем половиной всех граждан Литовской Республики, имеющих избирательное право.",
+        "_": null
+    },
+    {
+        "chapter": "BAIGIAMIEJI NUOSTATAI",
+        "article": "152",
+        "lt": "Šios Konstitucijos ir jos atskirų nuostatų įsigaliojimo tvarką reglamentuoja Lietuvos Respublikos įstatymas „Dėl Lietuvos Respublikos Konstitucijos įsigaliojimo tvarkos“, kuris priimamas referendumu kartu su šia Lietuvos Respublikos Konstitucija.",
+        "ru": "Порядок вступления в силу настоящей Конституции и отдельных ее положений регламентируется Законом Литовской Республики «О порядке вступления в силу Конституции Литовской Республики», который принимается на референдуме одновременно с настоящей Конституцией Литовской Республики.",
+        "_": null
+    },
+    {
+        "chapter": "BAIGIAMIEJI NUOSTATAI",
+        "article": "153",
+        "lt": "Kai ši Lietuvos Respublikos Konstitucija bus priimta referendumu, Lietuvos Respublikos Seimas iki 1993 metų spalio 25 dienos 3/5 visų Seimo narių balsų dauguma gali pakeisti Lietuvos Respublikos Konstitucijos nuostatas, kurios yra 47, 55, 56 straipsniuose, 58 straipsnio antrosios dalies 2 punkte, 65, 68, 69 straipsniuose, 84 straipsnio 11 ir 12 punktuose, 87 straipsnio pirmojoje dalyje, 96, 103, 118 straipsniuose, 119 straipsnio ketvirtojoje dalyje.",
+        "ru": "В случае принятия на референдуме настоящей Конституции Литовской Республики Сеймом Литовской Республики до 25 октября 1993 года большинством 3/5 голосов от общего числа членов Сейма могут быть изменены положения Конституции Литовской Республики, содержащиеся в статьях 47, 55, 56, в пункте 2 части второй статьи 58, в статьях 65, 68, 69, в пунктах 11 и 12 статьи 84, в части первой статьи 87, в статьях 96, 103, 118, в части четвертой статьи 119.",
+        "_": null
+    },
+    {
+        "chapter": "BAIGIAMIEJI NUOSTATAI",
+        "article": "154",
+        "lt": "Referendumu priimtą Lietuvos Respublikos Konstituciją ir Lietuvos Respublikos įstatymą „Dėl Lietuvos Respublikos Konstitucijos įsigaliojimo tvarkos“ pasirašo ir ne vėliau kaip per 15 dienų skelbia Lietuvos Respublikos Aukščiausiosios Tarybos Pirmininkas.",
+        "ru": "Принятые на референдуме Конституция Литовской Республики и Закон Литовской Республики «О порядке вступления в силу Конституции Литовской Республики» подписываются и не позднее чем в течение 15 дней обнародуются Председателем Верховного Совета Литовской Республики.",
+        "_": null
+    }
+]
