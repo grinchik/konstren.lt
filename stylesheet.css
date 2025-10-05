@@ -19,9 +19,9 @@ html, body {
 }
 .card {
     background: #faf8f3;
-    padding: 60px 40px;
+    padding: 60px 40px 20px 40px;
     padding-top: max(60px, env(safe-area-inset-top) + 20px);
-    padding-bottom: max(60px, env(safe-area-inset-bottom) + 20px);
+    padding-bottom: max(20px, env(safe-area-inset-bottom) + 20px);
     padding-left: max(40px, env(safe-area-inset-left) + 20px);
     padding-right: max(40px, env(safe-area-inset-right) + 20px);
     margin: 20px;
@@ -234,9 +234,9 @@ html, body {
         margin: 0;
         scroll-snap-align: start;
         flex-shrink: 0;
-        padding: 40px 30px;
+        padding: 40px 30px 15px 30px;
         padding-top: max(40px, env(safe-area-inset-top) + 15px);
-        padding-bottom: max(40px, env(safe-area-inset-bottom) + 15px);
+        padding-bottom: max(15px, env(safe-area-inset-bottom) + 15px);
         padding-left: max(30px, env(safe-area-inset-left) + 15px);
         padding-right: max(30px, env(safe-area-inset-right) + 15px);
     }
