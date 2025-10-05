@@ -2,3 +2,5 @@
 !/.gitignore
 !/README.md
 !/source/
+!/stylesheet.css
+!/generator.py
