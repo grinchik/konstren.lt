@@ -121,7 +121,7 @@ html, body {
 .title-card {
     background: #8b7355;
     color: #faf8f3;
-    border: 3px solid #5d4e37;
+    border: 3px solid #8b7355;
 }
 .title-card::before {
     border-color: #c4b896;
