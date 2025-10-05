@@ -262,12 +262,14 @@ def CardView(cardIdx: int, card: Card):
                             type='checkbox',
                         )),
                         label(LabelAttrs(
-                            className='translatable',
-                            htmlFor=translate_toggle_id(lineIdx, cardIdx),
+                            className='translatable' if line['ru'] != '' else '',
+                            htmlFor=translate_toggle_id(lineIdx, cardIdx) if line['ru'] != '' else None,
                         ), [
                             span(Attrs(lang='lt'), [ line['lt'] ]),
                             span(Attrs(lang='ru'), [ line['ru'] ]),
                         ])
+                    ] if line['ru'] != '' else [
+                        line['lt']
                     ])
                     for lineIdx, line in enumerate(card.lines)
                 ]),
@@ -287,12 +289,14 @@ def CardView(cardIdx: int, card: Card):
                             type='checkbox',
                         )),
                         label(LabelAttrs(
-                            className='translatable',
-                            htmlFor=translate_toggle_id(lineIdx, cardIdx),
+                            className='translatable' if line['ru'] else '',
+                            htmlFor=translate_toggle_id(lineIdx, cardIdx) if line['ru'] else None,
                         ), [
                             span(Attrs(lang='lt'), [ line['lt'] ]),
                             span(Attrs(lang='ru'), [ line['ru'] ]),
                         ])
+                    ] if line['ru'] else [
+                        line['lt']
                     ])
                     for lineIdx, line in enumerate(card.lines)
                 ]),
