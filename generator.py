@@ -82,7 +82,7 @@ def html(attrs: Attrs, children: List[str]):
 
 def head(children: List[str]):
     NEW_LINE='\n'
-    return f'<head>\n<meta charset="utf-8" />\n{NEW_LINE.join(children)}\n</head>'
+    return f'<head>\n<meta charset="utf-8" />\n<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />\n{NEW_LINE.join(children)}\n</head>'
 
 def title(title: str):
     return f'<title>{title}</title>'
