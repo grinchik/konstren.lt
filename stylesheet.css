@@ -136,7 +136,7 @@ html, body {
     color: #faf8f3;
 }
 .title-card .translatable {
-    font-size: 2px;
+    font-size: 18px;
 }
 .title-card .translatable span[lang='lt'] {
     border-bottom-color: #faf8f3;
