@@ -11,6 +11,7 @@ html, body {
 }
 .container {
     height: 100vh;
+    height: 100dvh;
     overflow-y: auto;
     scroll-snap-type: y mandatory;
     scroll-behavior: smooth;
@@ -229,6 +230,7 @@ html, body {
         min-width: 100vw;
         width: 100vw;
         height: 100vh;
+        height: 100dvh;
         margin: 0;
         scroll-snap-align: start;
         flex-shrink: 0;
