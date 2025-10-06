@@ -64,6 +64,12 @@ class InputAttrs(Attrs):
 class LabelAttrs(Attrs):
     htmlFor: Optional[str] = None
 
+@dataclass
+class LinkAttrs:
+    rel: str
+    href: str
+    type: Optional[str] = None
+
 def grouped_by_chapter(paragraphs: List[Paragraph]):
     result: Dict[Chapter, List[Paragraph]] = defaultdict(list)
     for paragraph in paragraphs:
@@ -153,6 +159,12 @@ def label(labelAttrs: LabelAttrs, children: List[str]):
 def a(attrs: Attrs, href: str, text: str):
     className = f' class="{attrs.className}"' if attrs.className is not None else ''
     return f'<a href="{href}"{className}>{text}</a>'
+
+def link(linkAttrs: LinkAttrs):
+    rel = f' rel="{linkAttrs.rel}"'
+    href = f' href="{linkAttrs.href}"'
+    type_attr = f' type="{linkAttrs.type}"' if linkAttrs.type is not None else ''
+    return f'<link{rel}{href}{type_attr} />'
 
 def view_model(
         config: Config,
@@ -309,6 +321,8 @@ def view(view_model: ViewModel) -> str:
     return html(Attrs(lang='lt'), [
         head([
             title(view_model.title),
+            link(LinkAttrs(rel='icon', href='favicon.png', type='image/png')),
+            link(LinkAttrs(rel='apple-touch-icon', href='favicon.png')),
             style(view_model.stylesheet),
         ]),
         body([
