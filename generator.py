@@ -205,6 +205,7 @@ def CardView(cardIdx: int, card: Card):
         return div(
             Attrs(id=str(cardIdx), className='card title-card references-card'),
                 [
+                    a(Attrs(className='card-link'), f'#{cardIdx}', '🔖'),
                     div(Attrs(className='references-section'), [
                         h2(Attrs(className='references-title'), 'Šaltiniai'),
                         div(Attrs(className='references-list'), [
@@ -279,6 +280,7 @@ def CardView(cardIdx: int, card: Card):
         return div(
             Attrs(id=str(cardIdx), className='card'),
             [
+                a(Attrs(className='card-link'), f'#{cardIdx}', '🔖'),
                 h2(Attrs(className='chapter-title'), card.chapter),
                 h3(Attrs(className='article-number'), card.article),
                 div(Attrs(className='article-text'), [
