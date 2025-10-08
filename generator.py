@@ -41,11 +41,17 @@ class Card:
     lines: List[Dict[str, str]]
 
 @dataclass
+class TocItem:
+    text: str
+    href: Optional[str]
+
+@dataclass
 class ViewModel:
     stylesheet: Stylesheet
     title: Title
     lang: Lang
     cards: List[Card]
+    toc: List[TocItem]
 
 @dataclass
 class Attrs:
@@ -202,11 +208,51 @@ def view_model(
         )
     )
 
+    # Build table of contents
+    toc: List[TocItem] = []
+    current_chapter: Optional[str] = None
+
+    for cardIdx, card in enumerate(cards):
+        # Add title card (first card)
+        if card.card_type == 'TITLE':
+            toc.append(TocItem(
+                text='Lietuvos Respublikos Konstitucija',
+                href=f'#{cardIdx}'
+            ))
+            continue
+
+        # Add last card (references)
+        if card.card_type == 'LAST':
+            toc.append(TocItem(
+                text='',  # Empty item for separator
+                href=None
+            ))
+            toc.append(TocItem(
+                text='Šaltiniai',
+                href=f'#{cardIdx}'
+            ))
+            continue
+
+        # New chapter heading
+        if card.chapter != current_chapter:
+            current_chapter = card.chapter
+            toc.append(TocItem(
+                text=current_chapter,
+                href=None
+            ))
+
+        # Add article as clickable link
+        toc.append(TocItem(
+            text=card.article,
+            href=f'#{cardIdx}'
+        ))
+
     return ViewModel(
         stylesheet=stylesheet,
         title=config.title,
         lang=config.lang,
         cards=cards,
+        toc=toc,
     )
 
 def translate_toggle_id(lineIdx: int, cardIdx: int) -> str:
@@ -317,6 +363,29 @@ def CardView(cardIdx: int, card: Card):
             ],
         )
 
+def TableOfContents(toc: List[TocItem]) -> str:
+    toc_items: List[str] = []
+
+    for item in toc:
+        if item.href is None:
+            if item.text == '':
+                # Empty separator
+                toc_items.append(
+                    div(Attrs(className='toc-separator'), [''])
+                )
+            else:
+                # Chapter heading (non-clickable)
+                toc_items.append(
+                    div(Attrs(className='toc-chapter'), [item.text])
+                )
+        else:
+            # Article link (clickable)
+            toc_items.append(
+                a(Attrs(className='toc-article'), item.href, item.text)
+            )
+
+    return div(Attrs(className='toc-content'), toc_items)
+
 def view(view_model: ViewModel) -> str:
     return html(Attrs(lang='lt'), [
         head([
@@ -326,9 +395,14 @@ def view(view_model: ViewModel) -> str:
             style(view_model.stylesheet),
         ]),
         body([
+            input(InputAttrs(id='toc-toggle', className='toc-toggle', type='checkbox')),
+            label(LabelAttrs(htmlFor='toc-toggle', className='toc-button'), ['📜']),
             div(Attrs(className='container'), [
                 CardView(cardIdx, card)
                 for cardIdx, card in enumerate(view_model.cards)
+            ]),
+            div(Attrs(className='toc-sidebar'), [
+                TableOfContents(view_model.toc),
             ]),
         ]),
     ])

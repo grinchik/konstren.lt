@@ -9,6 +9,124 @@ html, body {
     overflow: hidden;
     background-color: #f4f1e8;
 }
+
+.toc-toggle {
+    display: none;
+}
+
+.toc-button {
+    position: fixed;
+    top: 15px;
+    left: 40px;
+    width: 50px;
+    height: 50px;
+    color: #faf8f3;
+    font-size: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    z-index: 1000;
+    transition: left 0.3s ease;
+}
+
+.toc-sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    width: 0;
+    background: #faf8f3;
+    border-right: 3px solid #8b7355;
+    overflow-y: auto;
+    overflow-x: hidden;
+    z-index: 999;
+    transition: width 0.3s ease;
+    box-shadow: 4px 0 8px rgba(139, 115, 85, 0);
+}
+
+.toc-toggle:checked ~ .toc-sidebar {
+    width: 350px;
+    box-shadow: 4px 0 8px rgba(139, 115, 85, 0.3);
+}
+
+.toc-toggle:checked ~ .toc-button {
+    left: 300px;
+}
+
+.toc-content {
+    padding: 80px 20px 20px 20px;
+    min-width: 350px;
+}
+
+.toc-title {
+    display: block;
+    padding: 12px 10px;
+    margin-bottom: 20px;
+    color: #8b7355;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 1.4;
+    border-left: 3px solid transparent;
+    transition: all 0.2s ease;
+}
+
+.toc-title:hover {
+    background: rgba(139, 115, 85, 0.1);
+    border-left-color: #8b7355;
+}
+
+.toc-references {
+    display: block;
+    padding: 12px 10px;
+    margin-top: 20px;
+    color: #8b7355;
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 1.4;
+    border-left: 3px solid transparent;
+    transition: all 0.2s ease;
+}
+
+.toc-references:hover {
+    background: rgba(139, 115, 85, 0.1);
+    border-left-color: #8b7355;
+}
+
+.toc-chapter {
+    font-size: 16px;
+    font-weight: 700;
+    color: #5d4e37;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-top: 25px;
+    margin-bottom: 10px;
+    padding-bottom: 5px;
+    border-bottom: 2px solid #8b7355;
+}
+
+.toc-chapter:first-child {
+    margin-top: 0;
+}
+
+.toc-article {
+    display: block;
+    padding: 8px 10px;
+    margin: 2px 0;
+    color: #2d2d2d;
+    text-decoration: none;
+    font-size: 18px;
+    line-height: 1.5;
+    border-left: 3px solid transparent;
+    transition: all 0.2s ease;
+}
+
+.toc-article:hover {
+    background: rgba(139, 115, 85, 0.1);
+    border-left-color: #8b7355;
+}
 .container {
     height: 100vh;
     height: 100dvh;
@@ -227,7 +345,18 @@ html, body {
     border-bottom-color: #faf8f3;
 }
 
+.toc-separator {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    padding-top: 15px;
+    border-top: 2px solid #8b7355;
+}
+
 @media (orientation: portrait) {
+    .toc-button {
+        left: 20px;
+    }
+
     .container {
         overflow-x: auto;
         overflow-y: hidden;
