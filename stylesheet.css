@@ -127,6 +127,14 @@ html, body {
     background: rgba(139, 115, 85, 0.1);
     border-left-color: #8b7355;
 }
+
+.toc-article.read {
+    background: rgba(139, 115, 85, 0.15);
+}
+
+.toc-article.current {
+    font-weight: bold;
+}
 .container {
     height: 100vh;
     height: 100dvh;

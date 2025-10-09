@@ -15,6 +15,7 @@ def file_content(file_path: str) -> str:
 Title = str
 Lang = str
 Stylesheet = str
+Script = str
 
 @dataclass
 class Config:
@@ -48,6 +49,7 @@ class TocItem:
 @dataclass
 class ViewModel:
     stylesheet: Stylesheet
+    script: Script
     title: Title
     lang: Lang
     cards: List[Card]
@@ -145,6 +147,9 @@ def span(attrs: Attrs, children: List[str]):
 def style(stylesheet: Stylesheet):
     return f'<style>\n{stylesheet}\n</style>'
 
+def script(script: Script):
+    return f'<script>\n{script}\n</script>'
+
 def input(inputAttrs: InputAttrs):
     id = f' id="{inputAttrs.id}"' if inputAttrs.id is not None else ''
     className = f' class="{inputAttrs.className}"' if inputAttrs.className is not None else ''
@@ -175,6 +180,7 @@ def link(linkAttrs: LinkAttrs):
 def view_model(
         config: Config,
         stylesheet: Stylesheet,
+        script: Script,
         paragraphs: List[Paragraph],
 ) -> ViewModel:
     cards: List[Card] = []
@@ -249,6 +255,7 @@ def view_model(
 
     return ViewModel(
         stylesheet=stylesheet,
+        script=script,
         title=config.title,
         lang=config.lang,
         cards=cards,
@@ -404,11 +411,13 @@ def view(view_model: ViewModel) -> str:
             div(Attrs(className='toc-sidebar'), [
                 TableOfContents(view_model.toc),
             ]),
+            script(view_model.script),
         ]),
     ])
 
 if __name__ == '__main__':
     stylesheet = file_content('stylesheet.css')
+    script_content = file_content('script.js')
 
     paragraphs_raw = file_content('source/paragraphs.json')
     paragraphs =  [
@@ -421,4 +430,4 @@ if __name__ == '__main__':
         lang='lt',
     )
 
-    print(view(view_model(config, stylesheet, paragraphs)))
+    print(view(view_model(config, stylesheet, script_content, paragraphs)))
