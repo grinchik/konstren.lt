@@ -55,7 +55,7 @@ html, body {
 }
 
 .toc-content {
-    padding: 80px 20px 20px 20px;
+    padding: 80px 0 80px 0;
     min-width: 350px;
 }
 
@@ -105,6 +105,7 @@ html, body {
     margin-bottom: 10px;
     padding-bottom: 5px;
     border-bottom: 2px solid #8b7355;
+    padding-left: 15px;
 }
 
 .toc-chapter:first-child {
@@ -113,8 +114,7 @@ html, body {
 
 .toc-article {
     display: block;
-    padding: 8px 10px;
-    margin: 2px 0;
+    padding: 10px 10px;
     color: #2d2d2d;
     text-decoration: none;
     font-size: 18px;
@@ -133,7 +133,7 @@ html, body {
 }
 
 .toc-article.current {
-    font-weight: bold;
+    border-left-color: #8b7355;
 }
 .container {
     height: 100vh;
